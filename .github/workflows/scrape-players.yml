@@ -7,6 +7,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   scrape:
@@ -24,10 +26,33 @@ jobs:
       - name: Scrape and record player data
         run: python scrape.py
 
-      - name: Commit updated spreadsheet
+      - name: Convert spreadsheet to JSON
+        run: python convert.py
+
+      - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/players.xlsx
+          git add data/players.xlsx data/players.json
           git diff --cached --quiet || git commit -m "Update player data $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
+
+      - name: Build site
+        run: |
+          mkdir -p _site
+          cp site/index.html _site/
+          cp data/players.json _site/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
