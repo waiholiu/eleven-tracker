@@ -1,43 +1,19 @@
 """
 Scrapes https://11clubhouse.com/eleven-online-players.html for online player counts
-and appends a timestamped row to an Excel file on OneDrive via Microsoft Graph API.
+and appends a timestamped row to a local Excel file (committed back to the repo).
 """
 
 import os
 import re
-import json
-import sys
 from datetime import datetime, timezone
+from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
 from openpyxl import Workbook, load_workbook
-from io import BytesIO
-
-# ── Configuration from environment ──────────────────────────────────────────
-TENANT_ID = os.environ["AZURE_TENANT_ID"]
-CLIENT_ID = os.environ["AZURE_CLIENT_ID"]
-CLIENT_SECRET = os.environ["AZURE_CLIENT_SECRET"]
-# Path inside the user's OneDrive, e.g. "ElevenTracker/players.xlsx"
-ONEDRIVE_FILE_PATH = os.environ.get("ONEDRIVE_FILE_PATH", "ElevenTracker/players.xlsx")
-# The user's principal name (email), e.g. "user@contoso.com"
-ONEDRIVE_USER = os.environ["ONEDRIVE_USER"]
 
 SCRAPE_URL = "https://11clubhouse.com/eleven-online-players.html"
-GRAPH_BASE = "https://graph.microsoft.com/v1.0"
-
-
-def get_access_token() -> str:
-    """Obtain an access token using client credentials flow."""
-    url = f"https://login.microsoftonline.com/{TENANT_ID}/oauth2/v2.0/token"
-    resp = requests.post(url, data={
-        "grant_type": "client_credentials",
-        "client_id": CLIENT_ID,
-        "client_secret": CLIENT_SECRET,
-        "scope": "https://graph.microsoft.com/.default",
-    })
-    resp.raise_for_status()
-    return resp.json()["access_token"]
+XLSX_PATH = Path("data/players.xlsx")
 
 
 def scrape_players() -> dict:
@@ -62,29 +38,6 @@ def scrape_players() -> dict:
     return {"total": total, "countries": countries}
 
 
-def download_workbook(token: str) -> Workbook | None:
-    """Download existing Excel file from OneDrive, or return None if not found."""
-    url = f"{GRAPH_BASE}/users/{ONEDRIVE_USER}/drive/root:/{ONEDRIVE_FILE_PATH}:/content"
-    resp = requests.get(url, headers={"Authorization": f"Bearer {token}"})
-    if resp.status_code == 404:
-        return None
-    resp.raise_for_status()
-    return load_workbook(BytesIO(resp.content))
-
-
-def upload_workbook(token: str, wb: Workbook):
-    """Upload the workbook back to OneDrive (creates or overwrites)."""
-    buf = BytesIO()
-    wb.save(buf)
-    buf.seek(0)
-    url = f"{GRAPH_BASE}/users/{ONEDRIVE_USER}/drive/root:/{ONEDRIVE_FILE_PATH}:/content"
-    resp = requests.put(url, headers={
-        "Authorization": f"Bearer {token}",
-        "Content-Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-    }, data=buf.read())
-    resp.raise_for_status()
-
-
 def build_row(timestamp: str, data: dict, all_countries: list[str]) -> list:
     """Build a spreadsheet row: [timestamp, total, country1, country2, ...]."""
     row = [timestamp, data["total"]]
@@ -100,27 +53,23 @@ def main():
 
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
-    print("Authenticating with Microsoft Graph...")
-    token = get_access_token()
+    XLSX_PATH.parent.mkdir(parents=True, exist_ok=True)
 
-    print("Downloading existing spreadsheet...")
-    wb = download_workbook(token)
-
-    if wb is None:
-        # Create new workbook with headers
-        print("  No existing file found — creating new spreadsheet.")
+    if XLSX_PATH.exists():
+        wb = load_workbook(XLSX_PATH)
+        ws = wb.active
+    else:
+        print("  No existing file — creating new spreadsheet.")
         wb = Workbook()
         ws = wb.active
         ws.title = "Player Counts"
         all_countries = sorted(data["countries"].keys())
         headers = ["Timestamp", "Total Players"] + all_countries
         ws.append(headers)
-    else:
-        ws = wb.active
 
-    # Determine the country columns from the header row
+    # Determine existing country columns from the header row
     header_row = [cell.value for cell in ws[1]]
-    existing_countries = header_row[2:]  # everything after "Timestamp" and "Total Players"
+    existing_countries = header_row[2:]
 
     # Add any new countries not yet in the header
     new_countries = sorted(set(data["countries"].keys()) - set(existing_countries))
@@ -130,13 +79,11 @@ def main():
             existing_countries.append(c)
             ws.cell(row=1, column=len(existing_countries) + 2, value=c)
 
-    all_countries = existing_countries
-    row = build_row(timestamp, data, all_countries)
+    row = build_row(timestamp, data, existing_countries)
     ws.append(row)
 
-    print("Uploading spreadsheet to OneDrive...")
-    upload_workbook(token, wb)
-    print(f"Done! Row added at {timestamp}")
+    wb.save(XLSX_PATH)
+    print(f"Done! Row added at {timestamp} → {XLSX_PATH}")
 
 
 if __name__ == "__main__":
