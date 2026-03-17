@@ -880,6 +880,52 @@
         "Grenada": 1,
         "Nicaragua": 1
       }
+    },
+    {
+      "timestamp": "2026-03-17 00:15:36 UTC",
+      "total": 251,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 4,
+        "Austria": 1,
+        "Canada": 14,
+        "China": 6,
+        "France": 1,
+        "Germany": 5,
+        "Hong Kong": 1,
+        "India": 1,
+        "Ireland": 2,
+        "Italy": 3,
+        "Japan": 2,
+        "Netherlands": 1,
+        "Poland": 3,
+        "South Korea": 5,
+        "Spain": 3,
+        "Switzerland": 1,
+        "Ukraine": 3,
+        "United Kingdom": 7,
+        "United States": 77,
+        "Andorra": 1,
+        "Belgium": 1,
+        "Brazil": 12,
+        "Israel": 1,
+        "Mexico": 1,
+        "Saudi Arabia": 3,
+        "Chile": 1,
+        "Uruguay": 1,
+        "Egypt": 1,
+        "Jamaica": 1,
+        "United Arab Emirates": 1,
+        "Dominican Republic": 2,
+        "Kuwait": 2,
+        "Trinidad and Tobago": 1,
+        "Cuba": 1,
+        "Jordan": 1,
+        "El Salvador": 2,
+        "British Indian Ocean Territory": 1,
+        "Burundi": 1,
+        "Grenada": 1
+      }
     }
   ]
 }
