@@ -13,6 +13,7 @@
     "Australia",
     "Austria",
     "Bahamas",
+    "Bahrain",
     "Bangladesh",
     "Barbados",
     "Belarus",
@@ -1011,6 +1012,32 @@
         "Ecuador": 1,
         "Peru": 2,
         "U.S. Virgin Islands": 1
+      }
+    },
+    {
+      "timestamp": "2026-03-17 05:41:10 UTC",
+      "total": 101,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 2,
+        "Canada": 7,
+        "China": 8,
+        "India": 1,
+        "Ireland": 1,
+        "Japan": 3,
+        "Russia": 1,
+        "South Korea": 2,
+        "United States": 26,
+        "Brazil": 3,
+        "Israel": 1,
+        "Mexico": 2,
+        "Saudi Arabia": 4,
+        "Philippines": 1,
+        "United Arab Emirates": 1,
+        "Guam": 1,
+        "Cuba": 1,
+        "Bosnia and Herzegovina": 1,
+        "Bahrain": 1
       }
     }
   ]
