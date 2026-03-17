@@ -76,6 +76,7 @@
     "Lebanon",
     "Luxembourg",
     "Macau",
+    "Macedonia",
     "Malawi",
     "Malaysia",
     "Malta",
@@ -1182,6 +1183,45 @@
         "Greece": 1,
         "Christmas Island": 1,
         "Monaco": 1
+      }
+    },
+    {
+      "timestamp": "2026-03-17 11:12:58 UTC",
+      "total": 201,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 7,
+        "Canada": 1,
+        "China": 52,
+        "Czech Republic": 1,
+        "France": 3,
+        "Germany": 7,
+        "Hong Kong": 1,
+        "India": 2,
+        "Ireland": 1,
+        "Italy": 5,
+        "Japan": 14,
+        "Malaysia": 1,
+        "Netherlands": 4,
+        "North Korea": 1,
+        "Poland": 6,
+        "Russia": 1,
+        "South Korea": 13,
+        "Spain": 1,
+        "Switzerland": 2,
+        "Taiwan": 1,
+        "Thailand": 2,
+        "Turkey": 4,
+        "United Kingdom": 11,
+        "United States": 3,
+        "Vietnam": 1,
+        "Andorra": 1,
+        "New Zealand": 1,
+        "Gibraltar": 1,
+        "United Arab Emirates": 1,
+        "American Samoa": 1,
+        "Christmas Island": 1,
+        "Macedonia": 1
       }
     }
   ]
