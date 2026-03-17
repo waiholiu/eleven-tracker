@@ -33,6 +33,7 @@
     "Colombia",
     "Congo - Kinshasa",
     "Cook Islands",
+    "Costa Rica",
     "Croatia",
     "Cuba",
     "Czech Republic",
@@ -1038,6 +1039,37 @@
         "Cuba": 1,
         "Bosnia and Herzegovina": 1,
         "Bahrain": 1
+      }
+    },
+    {
+      "timestamp": "2026-03-17 07:00:55 UTC",
+      "total": 102,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 6,
+        "Bangladesh": 1,
+        "Canada": 1,
+        "China": 12,
+        "Czech Republic": 1,
+        "Germany": 3,
+        "India": 2,
+        "Ireland": 1,
+        "Italy": 1,
+        "Japan": 6,
+        "Netherlands": 1,
+        "Russia": 2,
+        "South Korea": 9,
+        "Switzerland": 1,
+        "Thailand": 1,
+        "United Kingdom": 2,
+        "United States": 13,
+        "Vietnam": 1,
+        "Mexico": 1,
+        "Egypt": 1,
+        "Iraq": 1,
+        "El Salvador": 1,
+        "Bahrain": 1,
+        "Costa Rica": 1
       }
     }
   ]
