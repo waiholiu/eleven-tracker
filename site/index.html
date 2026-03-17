@@ -158,6 +158,23 @@
   <select id="country-filter">
     <option value="__total__">All Countries (Total)</option>
   </select>
+
+  <label for="tz-filter">Timezone:</label>
+  <select id="tz-filter">
+    <option value="UTC">UTC</option>
+    <option value="America/Los_Angeles">US Pacific (PT)</option>
+    <option value="America/Denver">US Mountain (MT)</option>
+    <option value="America/Chicago">US Central (CT)</option>
+    <option value="America/New_York">US Eastern (ET)</option>
+    <option value="Europe/London">London (GMT/BST)</option>
+    <option value="Europe/Paris">Central Europe (CET)</option>
+    <option value="Europe/Berlin">Berlin (CET)</option>
+    <option value="Asia/Tokyo">Tokyo (JST)</option>
+    <option value="Asia/Shanghai">China (CST)</option>
+    <option value="Asia/Seoul">Seoul (KST)</option>
+    <option value="Australia/Sydney">Sydney (AEST)</option>
+    <option value="local">My Local Time</option>
+  </select>
 </div>
 
 <main>
@@ -169,7 +186,7 @@
   </div>
 
   <div class="chart-card">
-    <h2>🕐 Average Players by <span>Time of Day</span> (UTC)</h2>
+    <h2>🕐 Average Players by <span>Time of Day</span> (<span id="tz-label">UTC</span>)</h2>
     <div class="chart-container">
       <canvas id="hourly-chart"></canvas>
     </div>
@@ -243,6 +260,7 @@ function populateFilter() {
     select.appendChild(opt);
   }
   select.addEventListener('change', renderAll);
+  document.getElementById('tz-filter').addEventListener('change', renderAll);
 }
 
 function updateStats() {
@@ -260,7 +278,27 @@ function getSelectedValues() {
   }));
 }
 
+function getSelectedTz() {
+  const val = document.getElementById('tz-filter').value;
+  return val === 'local' ? Intl.DateTimeFormat().resolvedOptions().timeZone : val;
+}
+
+function getTzLabel() {
+  const sel = document.getElementById('tz-filter');
+  return sel.options[sel.selectedIndex].textContent;
+}
+
+function toTzDate(timestamp) {
+  return new Date(timestamp.replace(' UTC', 'Z'));
+}
+
+function getHourInTz(timestamp, tz) {
+  const d = toTzDate(timestamp);
+  return parseInt(d.toLocaleString('en-US', { hour: 'numeric', hour12: false, timeZone: tz }), 10);
+}
+
 function renderAll() {
+  document.getElementById('tz-label').textContent = getTzLabel();
   renderTimeline();
   renderHourly();
   renderCountries();
@@ -268,7 +306,8 @@ function renderAll() {
 
 function renderTimeline() {
   const values = getSelectedValues();
-  const labels = values.map(v => new Date(v.timestamp.replace(' UTC', 'Z')));
+  const tz = getSelectedTz();
+  const labels = values.map(v => toTzDate(v.timestamp));
   const data = values.map(v => v.value);
   const filter = document.getElementById('country-filter').value;
   const label = filter === '__total__' ? 'Total Players' : filter;
@@ -297,7 +336,16 @@ function renderTimeline() {
         x: {
           ...chartDefaults.scales.x,
           type: 'time',
-          time: { tooltipFormat: 'MMM d, HH:mm', },
+          time: {
+            tooltipFormat: 'MMM d, HH:mm',
+          },
+          ticks: {
+            ...chartDefaults.scales.x.ticks,
+            callback: function(value) {
+              const d = new Date(value);
+              return d.toLocaleString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', hour12: false, timeZone: tz });
+            },
+          },
         },
       },
     },
@@ -306,10 +354,11 @@ function renderTimeline() {
 
 function renderHourly() {
   const values = getSelectedValues();
+  const tz = getSelectedTz();
   const hourBuckets = Array.from({ length: 24 }, () => []);
 
   for (const v of values) {
-    const hour = new Date(v.timestamp.replace(' UTC', 'Z')).getUTCHours();
+    const hour = getHourInTz(v.timestamp, tz);
     hourBuckets[hour].push(v.value);
   }
 
