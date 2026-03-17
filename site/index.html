@@ -412,11 +412,20 @@ function renderCountries() {
       }],
     },
     options: {
-      ...chartDefaults,
+      responsive: true,
+      maintainAspectRatio: false,
       indexAxis: 'y',
+      plugins: chartDefaults.plugins,
       scales: {
-        x: { ...chartDefaults.scales.x, beginAtZero: true },
-        y: { ...chartDefaults.scales.y, grid: { display: false } },
+        x: {
+          grid: { color: '#21262d' },
+          ticks: { color: '#8b949e' },
+          beginAtZero: true,
+        },
+        y: {
+          grid: { display: false },
+          ticks: { color: '#e6edf3' },
+        },
       },
     },
   });
