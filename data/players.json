@@ -53,6 +53,7 @@
     "Lebanon",
     "Lithuania",
     "Mexico",
+    "Micronesia",
     "Morocco",
     "Nauru",
     "Netherlands",
@@ -375,6 +376,33 @@
         "Kuwait": 2,
         "Jamaica": 1,
         "Peru": 1
+      }
+    },
+    {
+      "timestamp": "2026-03-19 05:43:13 UTC",
+      "total": 92,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 2,
+        "Brazil": 1,
+        "Canada": 3,
+        "China": 11,
+        "Colombia": 1,
+        "El Salvador": 1,
+        "India": 1,
+        "Indonesia": 1,
+        "Israel": 1,
+        "Japan": 6,
+        "Mexico": 1,
+        "Pakistan": 1,
+        "Philippines": 2,
+        "Poland": 1,
+        "Thailand": 2,
+        "United States": 17,
+        "Belarus": 1,
+        "South Korea": 2,
+        "Albania": 1,
+        "Micronesia": 1
       }
     }
   ]
