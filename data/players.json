@@ -1,5 +1,6 @@
 {
   "countries": [
+    "Afghanistan",
     "Albania",
     "Algeria",
     "American Samoa",
@@ -68,6 +69,7 @@
     "Monaco",
     "Morocco",
     "Nauru",
+    "Nepal",
     "Netherlands",
     "New Zealand",
     "Nigeria",
@@ -82,6 +84,7 @@
     "Poland",
     "Portugal",
     "Puerto Rico",
+    "Qatar",
     "Romania",
     "Russia",
     "Saudi Arabia",
@@ -107,7 +110,8 @@
     "Uzbekistan",
     "Venezuela",
     "Vietnam",
-    "Zimbabwe"
+    "Zimbabwe",
+    "\u00c5land Islands"
   ],
   "data": [
     {
@@ -624,6 +628,50 @@
         "Georgia": 1,
         "Malta": 1,
         "Northern Mariana Islands": 1
+      }
+    },
+    {
+      "timestamp": "2026-03-19 12:58:22 UTC",
+      "total": 236,
+      "countries": {
+        "Australia": 3,
+        "Austria": 1,
+        "Belgium": 1,
+        "Brazil": 1,
+        "Canada": 1,
+        "China": 60,
+        "Egypt": 2,
+        "France": 4,
+        "Germany": 4,
+        "Italy": 5,
+        "Japan": 17,
+        "Netherlands": 2,
+        "Pakistan": 1,
+        "Philippines": 3,
+        "Poland": 6,
+        "Russia": 1,
+        "Serbia": 1,
+        "Spain": 3,
+        "Thailand": 1,
+        "Ukraine": 1,
+        "United Kingdom": 8,
+        "United States": 3,
+        "Vietnam": 1,
+        "Belarus": 1,
+        "Czech Republic": 1,
+        "Hong Kong": 1,
+        "South Korea": 9,
+        "Taiwan": 1,
+        "Anguilla": 1,
+        "Bangladesh": 1,
+        "Micronesia": 1,
+        "Uzbekistan": 1,
+        "Armenia": 2,
+        "Northern Mariana Islands": 1,
+        "Afghanistan": 1,
+        "Nepal": 1,
+        "Qatar": 1,
+        "\u00c5land Islands": 1
       }
     }
   ]
