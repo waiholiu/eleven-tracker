@@ -47,6 +47,7 @@
     "Ireland",
     "Israel",
     "Italy",
+    "Jamaica",
     "Japan",
     "Kuwait",
     "Lebanon",
@@ -60,6 +61,7 @@
     "Oman",
     "Pakistan",
     "Palestinian Territories",
+    "Peru",
     "Philippines",
     "Poland",
     "Portugal",
@@ -345,6 +347,34 @@
         "Cook Islands": 1,
         "Guyana": 1,
         "Senegal": 1
+      }
+    },
+    {
+      "timestamp": "2026-03-19 04:28:49 UTC",
+      "total": 134,
+      "countries": {
+        "Austria": 1,
+        "Brazil": 1,
+        "Canada": 10,
+        "China": 8,
+        "Dominican Republic": 1,
+        "France": 1,
+        "Germany": 2,
+        "India": 1,
+        "Indonesia": 1,
+        "Ireland": 1,
+        "Japan": 4,
+        "Mexico": 4,
+        "Philippines": 1,
+        "Portugal": 1,
+        "Thailand": 1,
+        "United States": 39,
+        "Vietnam": 1,
+        "Taiwan": 2,
+        "Iraq": 1,
+        "Kuwait": 2,
+        "Jamaica": 1,
+        "Peru": 1
       }
     }
   ]
