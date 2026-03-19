@@ -22,6 +22,7 @@
     "British Indian Ocean Territory",
     "Bulgaria",
     "Burundi",
+    "Cambodia",
     "Canada",
     "Chile",
     "China",
@@ -34,7 +35,9 @@
     "Dominican Republic",
     "Egypt",
     "El Salvador",
+    "Finland",
     "France",
+    "Georgia",
     "Germany",
     "Greece",
     "Grenada",
@@ -52,6 +55,7 @@
     "Italy",
     "Jamaica",
     "Japan",
+    "Kazakhstan",
     "Kiribati",
     "Kuwait",
     "Latvia",
@@ -100,7 +104,8 @@
     "United States",
     "Uzbekistan",
     "Venezuela",
-    "Vietnam"
+    "Vietnam",
+    "Zimbabwe"
   ],
   "data": [
     {
@@ -534,6 +539,48 @@
         "Latvia": 1,
         "Monaco": 1,
         "Norway": 1
+      }
+    },
+    {
+      "timestamp": "2026-03-19 10:37:12 UTC",
+      "total": 144,
+      "countries": {
+        "Australia": 14,
+        "Brazil": 2,
+        "Canada": 1,
+        "China": 27,
+        "France": 5,
+        "Germany": 5,
+        "Guam": 1,
+        "India": 3,
+        "Ireland": 1,
+        "Italy": 1,
+        "Japan": 2,
+        "Poland": 1,
+        "Russia": 1,
+        "Serbia": 1,
+        "Spain": 1,
+        "Ukraine": 1,
+        "United Kingdom": 6,
+        "United States": 4,
+        "Chile": 1,
+        "Czech Republic": 2,
+        "Hong Kong": 1,
+        "Iran": 1,
+        "South Korea": 11,
+        "Taiwan": 1,
+        "Turkey": 1,
+        "United Arab Emirates": 1,
+        "Romania": 1,
+        "Tunisia": 1,
+        "Malaysia": 1,
+        "Switzerland": 1,
+        "Kiribati": 1,
+        "Cambodia": 1,
+        "Finland": 1,
+        "Georgia": 1,
+        "Kazakhstan": 1,
+        "Zimbabwe": 1
       }
     }
   ]
