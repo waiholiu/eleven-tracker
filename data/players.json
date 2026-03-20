@@ -1526,6 +1526,40 @@
         "Bulgaria": 1,
         "Afghanistan": 1
       }
+    },
+    {
+      "timestamp": "2026-03-20 09:38:07 UTC",
+      "total": 123,
+      "countries": {
+        "Australia": 8,
+        "Belgium": 1,
+        "Brazil": 2,
+        "China": 13,
+        "Denmark": 1,
+        "France": 5,
+        "Germany": 4,
+        "Greece": 1,
+        "Indonesia": 2,
+        "Israel": 1,
+        "Italy": 2,
+        "Japan": 8,
+        "Netherlands": 1,
+        "Poland": 2,
+        "Russia": 1,
+        "Spain": 6,
+        "Thailand": 1,
+        "United Kingdom": 5,
+        "United States": 7,
+        "Czech Republic": 2,
+        "Hong Kong": 1,
+        "South Africa": 1,
+        "South Korea": 5,
+        "Albania": 1,
+        "Romania": 1,
+        "New Zealand": 1,
+        "Kiribati": 1,
+        "Estonia": 1
+      }
     }
   ]
 }
