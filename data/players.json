@@ -1410,6 +1410,34 @@
         "Kenya": 1,
         "Ethiopia": 1
       }
+    },
+    {
+      "timestamp": "2026-03-20 05:33:39 UTC",
+      "total": 110,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 4,
+        "Canada": 2,
+        "China": 12,
+        "France": 1,
+        "India": 3,
+        "Israel": 1,
+        "Italy": 1,
+        "Japan": 8,
+        "Mexico": 3,
+        "Philippines": 3,
+        "Puerto Rico": 2,
+        "Russia": 2,
+        "Saudi Arabia": 1,
+        "Spain": 1,
+        "United Kingdom": 1,
+        "United States": 26,
+        "South Korea": 1,
+        "Albania": 1,
+        "Bangladesh": 1,
+        "Micronesia": 1,
+        "New Zealand": 1
+      }
     }
   ]
 }
