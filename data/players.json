@@ -1640,6 +1640,52 @@
         "Guatemala": 1,
         "Kyrgyzstan": 1
       }
+    },
+    {
+      "timestamp": "2026-03-20 11:56:18 UTC",
+      "total": 234,
+      "countries": {
+        "Angola": 1,
+        "Argentina": 1,
+        "Australia": 6,
+        "Austria": 1,
+        "Belgium": 1,
+        "Brazil": 2,
+        "Canada": 4,
+        "China": 42,
+        "France": 12,
+        "Germany": 10,
+        "Ireland": 3,
+        "Italy": 1,
+        "Japan": 9,
+        "Netherlands": 1,
+        "Poland": 3,
+        "Portugal": 1,
+        "Russia": 8,
+        "Serbia": 1,
+        "Spain": 4,
+        "Sweden": 3,
+        "Thailand": 2,
+        "Ukraine": 2,
+        "United Kingdom": 4,
+        "United States": 11,
+        "Vietnam": 1,
+        "Hong Kong": 2,
+        "South Korea": 15,
+        "Taiwan": 1,
+        "United Arab Emirates": 1,
+        "Algeria": 1,
+        "Anguilla": 1,
+        "New Zealand": 1,
+        "Armenia": 1,
+        "Bulgaria": 1,
+        "Switzerland": 3,
+        "Norway": 1,
+        "Zimbabwe": 1,
+        "Afghanistan": 2,
+        "Jordan": 1,
+        "Guatemala": 1
+      }
     }
   ]
 }
