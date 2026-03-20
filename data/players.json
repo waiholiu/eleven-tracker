@@ -1492,6 +1492,40 @@
         "Taiwan": 1,
         "Bangladesh": 1
       }
+    },
+    {
+      "timestamp": "2026-03-20 08:37:21 UTC",
+      "total": 98,
+      "countries": {
+        "Australia": 4,
+        "Brazil": 1,
+        "China": 10,
+        "Denmark": 1,
+        "France": 3,
+        "Germany": 2,
+        "Indonesia": 1,
+        "Japan": 4,
+        "North Korea": 1,
+        "Poland": 1,
+        "Russia": 1,
+        "Saudi Arabia": 1,
+        "Spain": 1,
+        "Sweden": 2,
+        "Ukraine": 1,
+        "United Kingdom": 1,
+        "United States": 9,
+        "Belarus": 1,
+        "Hong Kong": 2,
+        "South Korea": 8,
+        "Turkey": 1,
+        "Iraq": 1,
+        "Kuwait": 1,
+        "Singapore": 1,
+        "Uzbekistan": 1,
+        "New Zealand": 1,
+        "Bulgaria": 1,
+        "Afghanistan": 1
+      }
     }
   ]
 }
