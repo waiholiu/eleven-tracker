@@ -2640,6 +2640,35 @@
         "Armenia": 1,
         "Guatemala": 1
       }
+    },
+    {
+      "timestamp": "2026-03-21 07:07:41 UTC",
+      "total": 130,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 3,
+        "Brazil": 1,
+        "Canada": 2,
+        "China": 16,
+        "El Salvador": 1,
+        "France": 1,
+        "Germany": 2,
+        "India": 2,
+        "Japan": 8,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "Nigeria": 1,
+        "Philippines": 1,
+        "Saudi Arabia": 2,
+        "Serbia": 1,
+        "United States": 17,
+        "South Korea": 10,
+        "Jamaica": 1,
+        "Peru": 1,
+        "New Zealand": 1,
+        "Switzerland": 1,
+        "Kenya": 1
+      }
     }
   ]
 }
