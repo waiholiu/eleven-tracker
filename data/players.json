@@ -2877,6 +2877,52 @@
         "Norway": 1,
         "Haiti": 1
       }
+    },
+    {
+      "timestamp": "2026-03-21 10:51:47 UTC",
+      "total": 217,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 5,
+        "Belgium": 1,
+        "Burundi": 1,
+        "China": 36,
+        "Egypt": 1,
+        "France": 15,
+        "Germany": 8,
+        "India": 2,
+        "Indonesia": 1,
+        "Israel": 2,
+        "Italy": 5,
+        "Japan": 13,
+        "Netherlands": 3,
+        "North Korea": 1,
+        "Philippines": 1,
+        "Poland": 3,
+        "Russia": 3,
+        "Spain": 5,
+        "Sweden": 7,
+        "Thailand": 1,
+        "Ukraine": 3,
+        "United Kingdom": 8,
+        "United States": 6,
+        "Czech Republic": 1,
+        "Slovakia": 1,
+        "South Africa": 1,
+        "South Korea": 3,
+        "Taiwan": 1,
+        "Turkey": 1,
+        "Palestinian Territories": 1,
+        "Romania": 2,
+        "Singapore": 1,
+        "Switzerland": 1,
+        "Latvia": 1,
+        "Norway": 1,
+        "Finland": 1,
+        "Afghanistan": 1,
+        "Qatar": 1,
+        "Luxembourg": 2
+      }
     }
   ]
 }
