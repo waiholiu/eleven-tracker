@@ -2745,6 +2745,44 @@
         "Hungary": 1,
         "Fiji": 1
       }
+    },
+    {
+      "timestamp": "2026-03-21 08:59:11 UTC",
+      "total": 134,
+      "countries": {
+        "Australia": 5,
+        "Austria": 1,
+        "Belgium": 1,
+        "Brazil": 1,
+        "Canada": 3,
+        "China": 18,
+        "France": 3,
+        "Germany": 2,
+        "India": 2,
+        "Indonesia": 1,
+        "Ireland": 1,
+        "Italy": 3,
+        "Japan": 6,
+        "Netherlands": 1,
+        "North Korea": 1,
+        "Poland": 2,
+        "Russia": 5,
+        "Saudi Arabia": 1,
+        "Spain": 1,
+        "Sweden": 3,
+        "Thailand": 1,
+        "United Kingdom": 5,
+        "United States": 6,
+        "South Korea": 2,
+        "Turkey": 1,
+        "Algeria": 1,
+        "Kuwait": 1,
+        "Barbados": 1,
+        "Micronesia": 1,
+        "New Zealand": 2,
+        "Switzerland": 2,
+        "Fiji": 1
+      }
     }
   ]
 }
