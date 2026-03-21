@@ -54,6 +54,7 @@
     "Estonia",
     "Ethiopia",
     "Faroe Islands",
+    "Fiji",
     "Finland",
     "France",
     "French Guiana",
@@ -2668,6 +2669,41 @@
         "New Zealand": 1,
         "Switzerland": 1,
         "Kenya": 1
+      }
+    },
+    {
+      "timestamp": "2026-03-21 07:51:11 UTC",
+      "total": 128,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 1,
+        "Australia": 4,
+        "Bahrain": 1,
+        "Canada": 2,
+        "China": 25,
+        "Egypt": 1,
+        "France": 3,
+        "Greece": 1,
+        "India": 2,
+        "Israel": 1,
+        "Japan": 9,
+        "Mexico": 1,
+        "North Korea": 1,
+        "Saudi Arabia": 1,
+        "Spain": 1,
+        "Sweden": 3,
+        "United Kingdom": 1,
+        "United States": 13,
+        "Iran": 1,
+        "South Korea": 4,
+        "Taiwan": 1,
+        "Albania": 2,
+        "Lithuania": 1,
+        "Switzerland": 1,
+        "Kazakhstan": 2,
+        "Afghanistan": 1,
+        "Djibouti": 1,
+        "Fiji": 1
       }
     }
   ]
