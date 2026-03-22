@@ -4636,6 +4636,53 @@
         "Gibraltar": 1,
         "Bosnia and Herzegovina": 1
       }
+    },
+    {
+      "timestamp": "2026-03-22 11:21:53 UTC",
+      "total": 229,
+      "countries": {
+        "Australia": 8,
+        "Austria": 1,
+        "Belgium": 3,
+        "Brazil": 1,
+        "China": 29,
+        "Denmark": 1,
+        "France": 12,
+        "Germany": 11,
+        "Greece": 1,
+        "India": 2,
+        "Indonesia": 3,
+        "Ireland": 1,
+        "Italy": 7,
+        "Japan": 14,
+        "Mexico": 1,
+        "Philippines": 1,
+        "Poland": 5,
+        "Portugal": 2,
+        "Russia": 1,
+        "Spain": 6,
+        "Sweden": 2,
+        "Ukraine": 2,
+        "United Kingdom": 6,
+        "United States": 6,
+        "Vietnam": 1,
+        "Belarus": 1,
+        "Czech Republic": 2,
+        "South Korea": 12,
+        "Taiwan": 1,
+        "Turkey": 2,
+        "United Arab Emirates": 1,
+        "Romania": 2,
+        "Singapore": 1,
+        "Uzbekistan": 1,
+        "Armenia": 1,
+        "Malaysia": 2,
+        "Norway": 1,
+        "Finland": 1,
+        "Hungary": 1,
+        "Gibraltar": 1,
+        "Slovenia": 1
+      }
     }
   ]
 }
