@@ -4400,6 +4400,48 @@
         "Honduras": 1,
         "Cyprus": 1
       }
+    },
+    {
+      "timestamp": "2026-03-22 08:30:57 UTC",
+      "total": 154,
+      "countries": {
+        "American Samoa": 2,
+        "Angola": 1,
+        "Australia": 4,
+        "Canada": 2,
+        "China": 20,
+        "Colombia": 1,
+        "Denmark": 1,
+        "Egypt": 1,
+        "France": 3,
+        "Germany": 4,
+        "India": 3,
+        "Ireland": 2,
+        "Italy": 3,
+        "Japan": 12,
+        "Netherlands": 1,
+        "North Korea": 1,
+        "Poland": 1,
+        "Russia": 3,
+        "Spain": 7,
+        "Sweden": 1,
+        "Thailand": 2,
+        "Ukraine": 1,
+        "United Kingdom": 1,
+        "United States": 7,
+        "Czech Republic": 1,
+        "Hong Kong": 1,
+        "South Korea": 6,
+        "United Arab Emirates": 1,
+        "Kuwait": 1,
+        "Anguilla": 1,
+        "Romania": 2,
+        "Jamaica": 1,
+        "New Zealand": 1,
+        "Bulgaria": 1,
+        "Norway": 1,
+        "Finland": 1
+      }
     }
   ]
 }
