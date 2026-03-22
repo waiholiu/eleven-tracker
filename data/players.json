@@ -5878,6 +5878,51 @@
         "Guatemala": 1,
         "Swaziland": 1
       }
+    },
+    {
+      "timestamp": "2026-03-22 23:50:40 UTC",
+      "total": 210,
+      "countries": {
+        "Argentina": 3,
+        "Australia": 1,
+        "Belgium": 1,
+        "Brazil": 5,
+        "Canada": 15,
+        "China": 6,
+        "Colombia": 1,
+        "Denmark": 2,
+        "Egypt": 1,
+        "France": 3,
+        "Germany": 2,
+        "Greece": 2,
+        "Israel": 3,
+        "Italy": 1,
+        "Japan": 2,
+        "Mexico": 3,
+        "Netherlands": 1,
+        "Philippines": 2,
+        "Puerto Rico": 2,
+        "Saudi Arabia": 4,
+        "Serbia": 2,
+        "Spain": 1,
+        "Ukraine": 5,
+        "United Kingdom": 10,
+        "United States": 57,
+        "Iran": 1,
+        "South Korea": 3,
+        "Aruba": 1,
+        "Bangladesh": 1,
+        "British Indian Ocean Territory": 1,
+        "Guyana": 1,
+        "Jamaica": 1,
+        "Peru": 1,
+        "Bulgaria": 1,
+        "Afghanistan": 1,
+        "Suriname": 1,
+        "Guatemala": 1,
+        "Djibouti": 1,
+        "Swaziland": 1
+      }
     }
   ]
 }
