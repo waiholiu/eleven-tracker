@@ -5834,6 +5834,50 @@
         "Nicaragua": 1,
         "Swaziland": 1
       }
+    },
+    {
+      "timestamp": "2026-03-22 23:24:20 UTC",
+      "total": 211,
+      "countries": {
+        "Australia": 2,
+        "Belgium": 1,
+        "Brazil": 4,
+        "Burundi": 1,
+        "Canada": 17,
+        "China": 3,
+        "Colombia": 1,
+        "Croatia": 1,
+        "Denmark": 2,
+        "Egypt": 1,
+        "El Salvador": 1,
+        "France": 5,
+        "Germany": 2,
+        "Greece": 2,
+        "India": 1,
+        "Ireland": 1,
+        "Italy": 1,
+        "Lebanon": 1,
+        "Mexico": 5,
+        "Poland": 2,
+        "Puerto Rico": 1,
+        "Saudi Arabia": 3,
+        "Serbia": 1,
+        "Spain": 2,
+        "Ukraine": 2,
+        "United Kingdom": 10,
+        "United States": 79,
+        "Belarus": 1,
+        "Chile": 1,
+        "South Korea": 1,
+        "Bangladesh": 2,
+        "British Indian Ocean Territory": 1,
+        "Cuba": 1,
+        "Romania": 1,
+        "Jamaica": 1,
+        "Suriname": 1,
+        "Guatemala": 1,
+        "Swaziland": 1
+      }
     }
   ]
 }
