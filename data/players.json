@@ -4359,6 +4359,47 @@
         "Malaysia": 1,
         "\u00c5land Islands": 1
       }
+    },
+    {
+      "timestamp": "2026-03-22 07:36:22 UTC",
+      "total": 134,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 4,
+        "Austria": 1,
+        "Brazil": 1,
+        "Canada": 2,
+        "China": 22,
+        "Colombia": 2,
+        "Denmark": 1,
+        "France": 1,
+        "Germany": 2,
+        "Greece": 1,
+        "India": 1,
+        "Japan": 8,
+        "Pakistan": 1,
+        "Philippines": 1,
+        "Russia": 3,
+        "Saudi Arabia": 2,
+        "Serbia": 1,
+        "Spain": 2,
+        "United Kingdom": 1,
+        "United States": 9,
+        "Hong Kong": 1,
+        "South Korea": 5,
+        "Taiwan": 3,
+        "Turkey": 1,
+        "United Arab Emirates": 1,
+        "Kuwait": 1,
+        "Micronesia": 1,
+        "Bulgaria": 1,
+        "Malaysia": 1,
+        "Afghanistan": 1,
+        "Qatar": 1,
+        "\u00c5land Islands": 1,
+        "Honduras": 1,
+        "Cyprus": 1
+      }
     }
   ]
 }
