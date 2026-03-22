@@ -4294,6 +4294,40 @@
         "Liberia": 1,
         "Palau": 1
       }
+    },
+    {
+      "timestamp": "2026-03-22 05:36:45 UTC",
+      "total": 150,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 5,
+        "Brazil": 2,
+        "Canada": 8,
+        "China": 15,
+        "Denmark": 1,
+        "Germany": 1,
+        "Japan": 4,
+        "Mexico": 4,
+        "Philippines": 1,
+        "Saudi Arabia": 1,
+        "Spain": 1,
+        "United Kingdom": 1,
+        "United States": 38,
+        "Chile": 1,
+        "Hong Kong": 2,
+        "Iran": 1,
+        "South Korea": 3,
+        "Taiwan": 3,
+        "Albania": 1,
+        "Iraq": 1,
+        "New Zealand": 1,
+        "Bulgaria": 1,
+        "Malaysia": 1,
+        "Kazakhstan": 1,
+        "Afghanistan": 1,
+        "\u00c5land Islands": 1,
+        "Guatemala": 1
+      }
     }
   ]
 }
