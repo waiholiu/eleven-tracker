@@ -4328,6 +4328,37 @@
         "\u00c5land Islands": 1,
         "Guatemala": 1
       }
+    },
+    {
+      "timestamp": "2026-03-22 06:46:55 UTC",
+      "total": 115,
+      "countries": {
+        "Angola": 1,
+        "Argentina": 2,
+        "Australia": 6,
+        "Brazil": 1,
+        "Canada": 3,
+        "China": 18,
+        "Germany": 1,
+        "Indonesia": 1,
+        "Japan": 6,
+        "Philippines": 1,
+        "Poland": 1,
+        "Russia": 2,
+        "Saudi Arabia": 2,
+        "Serbia": 1,
+        "Spain": 2,
+        "United States": 14,
+        "Hong Kong": 1,
+        "South Korea": 3,
+        "Iraq": 1,
+        "Kuwait": 1,
+        "Romania": 1,
+        "Cook Islands": 1,
+        "Singapore": 1,
+        "Malaysia": 1,
+        "\u00c5land Islands": 1
+      }
     }
   ]
 }
