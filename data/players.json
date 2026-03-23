@@ -6040,6 +6040,42 @@
         "Singapore": 1,
         "Kazakhstan": 1
       }
+    },
+    {
+      "timestamp": "2026-03-23 08:51:35 UTC",
+      "total": 109,
+      "countries": {
+        "Australia": 5,
+        "Belgium": 1,
+        "Canada": 1,
+        "China": 15,
+        "Denmark": 1,
+        "Egypt": 1,
+        "France": 3,
+        "Germany": 1,
+        "Guam": 1,
+        "India": 2,
+        "Italy": 2,
+        "Japan": 10,
+        "Poland": 1,
+        "Russia": 1,
+        "Saudi Arabia": 2,
+        "Spain": 1,
+        "Thailand": 1,
+        "United Kingdom": 3,
+        "United States": 3,
+        "Czech Republic": 1,
+        "Hong Kong": 1,
+        "South Korea": 4,
+        "Taiwan": 1,
+        "Kuwait": 1,
+        "Singapore": 2,
+        "Switzerland": 1,
+        "Kiribati": 1,
+        "Christmas Island": 1,
+        "Cyprus": 1,
+        "Fiji": 1
+      }
     }
   ]
 }
