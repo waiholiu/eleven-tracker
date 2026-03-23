@@ -6157,6 +6157,52 @@
         "Macau": 1,
         "Mayotte": 1
       }
+    },
+    {
+      "timestamp": "2026-03-23 12:01:01 UTC",
+      "total": 219,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 4,
+        "Brazil": 1,
+        "Canada": 1,
+        "China": 45,
+        "Croatia": 1,
+        "France": 5,
+        "Germany": 1,
+        "Indonesia": 2,
+        "Italy": 4,
+        "Japan": 16,
+        "Netherlands": 2,
+        "Nigeria": 1,
+        "Poland": 7,
+        "Portugal": 1,
+        "Russia": 3,
+        "Saudi Arabia": 2,
+        "Spain": 2,
+        "Sweden": 2,
+        "Thailand": 1,
+        "Ukraine": 3,
+        "United Kingdom": 8,
+        "United States": 7,
+        "Vietnam": 1,
+        "Andorra": 1,
+        "Hong Kong": 1,
+        "South Korea": 15,
+        "Taiwan": 5,
+        "Iraq": 1,
+        "Bangladesh": 1,
+        "Romania": 2,
+        "Micronesia": 1,
+        "Bulgaria": 1,
+        "Kiribati": 1,
+        "Norway": 1,
+        "Afghanistan": 1,
+        "Nepal": 1,
+        "\u00c5land Islands": 1,
+        "Gibraltar": 1,
+        "Slovenia": 1
+      }
     }
   ]
 }
