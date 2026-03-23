@@ -6203,6 +6203,52 @@
         "Gibraltar": 1,
         "Slovenia": 1
       }
+    },
+    {
+      "timestamp": "2026-03-23 13:53:59 UTC",
+      "total": 272,
+      "countries": {
+        "Australia": 3,
+        "Brazil": 4,
+        "China": 78,
+        "Egypt": 3,
+        "France": 5,
+        "Germany": 2,
+        "Greece": 1,
+        "India": 3,
+        "Ireland": 1,
+        "Israel": 1,
+        "Italy": 6,
+        "Japan": 11,
+        "Netherlands": 1,
+        "Philippines": 5,
+        "Poland": 1,
+        "Russia": 2,
+        "Serbia": 2,
+        "Spain": 5,
+        "Sweden": 1,
+        "Ukraine": 3,
+        "United Kingdom": 9,
+        "United States": 7,
+        "Vietnam": 2,
+        "Chile": 1,
+        "South Korea": 13,
+        "Taiwan": 3,
+        "Turkey": 1,
+        "Lithuania": 1,
+        "Barbados": 1,
+        "British Indian Ocean Territory": 1,
+        "Romania": 3,
+        "Tunisia": 1,
+        "Jamaica": 1,
+        "Malaysia": 1,
+        "Finland": 1,
+        "Kazakhstan": 1,
+        "Nepal": 1,
+        "Hungary": 1,
+        "Moldova": 1,
+        "Cyprus": 1
+      }
     }
   ]
 }
