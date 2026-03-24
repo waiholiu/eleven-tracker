@@ -6904,6 +6904,35 @@
         "Azerbaijan": 1,
         "Jersey": 1
       }
+    },
+    {
+      "timestamp": "2026-03-24 05:41:54 UTC",
+      "total": 82,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 2,
+        "Canada": 3,
+        "China": 8,
+        "France": 1,
+        "Israel": 1,
+        "Italy": 1,
+        "Japan": 7,
+        "Mexico": 3,
+        "North Korea": 1,
+        "Philippines": 2,
+        "Puerto Rico": 1,
+        "Saudi Arabia": 1,
+        "Spain": 1,
+        "United Kingdom": 1,
+        "United States": 17,
+        "Taiwan": 1,
+        "Albania": 1,
+        "Iraq": 1,
+        "Palestinian Territories": 1,
+        "Micronesia": 1,
+        "Jordan": 1,
+        "Costa Rica": 1
+      }
     }
   ]
 }
