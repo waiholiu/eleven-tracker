@@ -7027,6 +7027,46 @@
         "Norway": 1,
         "Hungary": 1
       }
+    },
+    {
+      "timestamp": "2026-03-24 10:26:49 UTC",
+      "total": 147,
+      "countries": {
+        "Australia": 6,
+        "Austria": 1,
+        "Burundi": 1,
+        "China": 30,
+        "Croatia": 1,
+        "France": 8,
+        "Germany": 7,
+        "India": 1,
+        "Indonesia": 1,
+        "Israel": 2,
+        "Italy": 4,
+        "Japan": 11,
+        "Russia": 2,
+        "Serbia": 1,
+        "Spain": 3,
+        "Thailand": 1,
+        "United Kingdom": 2,
+        "United States": 5,
+        "Chile": 1,
+        "Hong Kong": 1,
+        "Iran": 1,
+        "South Korea": 5,
+        "Iraq": 1,
+        "Barbados": 1,
+        "Romania": 1,
+        "Singapore": 1,
+        "New Zealand": 1,
+        "Armenia": 2,
+        "Monaco": 1,
+        "Norway": 1,
+        "Cambodia": 1,
+        "Kazakhstan": 1,
+        "Hungary": 1,
+        "Saint Lucia": 1
+      }
     }
   ]
 }
