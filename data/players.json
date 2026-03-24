@@ -7156,6 +7156,51 @@
         "Kenya": 1,
         "Gibraltar": 1
       }
+    },
+    {
+      "timestamp": "2026-03-24 13:55:01 UTC",
+      "total": 237,
+      "countries": {
+        "Austria": 2,
+        "Brazil": 3,
+        "Burundi": 1,
+        "Canada": 1,
+        "China": 63,
+        "Croatia": 1,
+        "Denmark": 2,
+        "France": 8,
+        "Germany": 9,
+        "Greece": 1,
+        "Israel": 2,
+        "Italy": 5,
+        "Japan": 14,
+        "Netherlands": 3,
+        "Philippines": 1,
+        "Poland": 3,
+        "Puerto Rico": 1,
+        "Russia": 3,
+        "Spain": 3,
+        "Sweden": 4,
+        "Thailand": 1,
+        "Ukraine": 2,
+        "United Kingdom": 10,
+        "United States": 5,
+        "Hong Kong": 1,
+        "South Korea": 9,
+        "Taiwan": 2,
+        "Turkey": 2,
+        "Algeria": 1,
+        "Iraq": 1,
+        "Bangladesh": 1,
+        "Guyana": 1,
+        "Jamaica": 1,
+        "Micronesia": 1,
+        "Singapore": 1,
+        "Armenia": 1,
+        "Bulgaria": 1,
+        "Finland": 1,
+        "Brunei": 1
+      }
     }
   ]
 }
