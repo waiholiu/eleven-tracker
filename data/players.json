@@ -6870,6 +6870,40 @@
         "Jordan": 1,
         "Honduras": 1
       }
+    },
+    {
+      "timestamp": "2026-03-24 04:17:02 UTC",
+      "total": 124,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 3,
+        "Brazil": 2,
+        "Canada": 11,
+        "China": 5,
+        "Germany": 1,
+        "India": 2,
+        "Indonesia": 1,
+        "Israel": 1,
+        "Japan": 3,
+        "Mexico": 4,
+        "Pakistan": 1,
+        "Puerto Rico": 1,
+        "Saudi Arabia": 2,
+        "Ukraine": 1,
+        "United Kingdom": 1,
+        "United States": 33,
+        "South Korea": 3,
+        "Taiwan": 1,
+        "Albania": 1,
+        "Morocco": 1,
+        "Cuba": 1,
+        "Latvia": 1,
+        "Norway": 1,
+        "Nepal": 2,
+        "Dominica": 1,
+        "Azerbaijan": 1,
+        "Jersey": 1
+      }
     }
   ]
 }
