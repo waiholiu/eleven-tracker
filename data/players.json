@@ -7645,6 +7645,46 @@
         "Costa Rica": 1,
         "Tanzania": 1
       }
+    },
+    {
+      "timestamp": "2026-03-24 22:59:24 UTC",
+      "total": 190,
+      "countries": {
+        "Argentina": 4,
+        "Australia": 2,
+        "Brazil": 7,
+        "Canada": 14,
+        "China": 4,
+        "Dominican Republic": 1,
+        "Egypt": 1,
+        "France": 2,
+        "Germany": 4,
+        "Ireland": 2,
+        "Israel": 3,
+        "Italy": 1,
+        "Japan": 1,
+        "Mexico": 4,
+        "Pakistan": 1,
+        "Philippines": 2,
+        "Poland": 7,
+        "Puerto Rico": 1,
+        "Saudi Arabia": 2,
+        "Serbia": 1,
+        "Spain": 3,
+        "Ukraine": 2,
+        "United Kingdom": 10,
+        "United States": 51,
+        "Bermuda": 1,
+        "South Korea": 1,
+        "Trinidad and Tobago": 1,
+        "Turkey": 1,
+        "Iraq": 1,
+        "Cuba": 1,
+        "Romania": 2,
+        "\u00c5land Islands": 1,
+        "Uruguay": 1,
+        "Honduras": 1
+      }
     }
   ]
 }
