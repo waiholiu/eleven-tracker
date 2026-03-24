@@ -65,6 +65,7 @@
     "Finland",
     "France",
     "French Guiana",
+    "French Polynesia",
     "French Southern Territories",
     "Georgia",
     "Germany",
@@ -6932,6 +6933,36 @@
         "Micronesia": 1,
         "Jordan": 1,
         "Costa Rica": 1
+      }
+    },
+    {
+      "timestamp": "2026-03-24 07:00:46 UTC",
+      "total": 99,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 9,
+        "Canada": 2,
+        "China": 15,
+        "France": 1,
+        "Germany": 1,
+        "India": 1,
+        "Japan": 8,
+        "Mexico": 1,
+        "Pakistan": 1,
+        "Philippines": 4,
+        "Puerto Rico": 1,
+        "Serbia": 1,
+        "United States": 10,
+        "Belarus": 1,
+        "Czech Republic": 1,
+        "South Africa": 1,
+        "Iraq": 1,
+        "Bangladesh": 1,
+        "Romania": 1,
+        "New Zealand": 3,
+        "Malaysia": 1,
+        "Fiji": 1,
+        "French Polynesia": 1
       }
     }
   ]
