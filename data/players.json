@@ -6833,6 +6833,43 @@
         "Faroe Islands": 1,
         "Bolivia": 1
       }
+    },
+    {
+      "timestamp": "2026-03-24 01:51:33 UTC",
+      "total": 177,
+      "countries": {
+        "Argentina": 3,
+        "Australia": 1,
+        "Brazil": 3,
+        "Canada": 14,
+        "China": 6,
+        "Colombia": 1,
+        "El Salvador": 1,
+        "France": 1,
+        "Germany": 1,
+        "Japan": 4,
+        "Mexico": 1,
+        "Nauru": 1,
+        "North Korea": 1,
+        "Philippines": 1,
+        "Poland": 1,
+        "Puerto Rico": 5,
+        "Serbia": 1,
+        "Spain": 1,
+        "Ukraine": 1,
+        "United Kingdom": 3,
+        "United States": 68,
+        "Chile": 1,
+        "South Korea": 1,
+        "Taiwan": 1,
+        "Trinidad and Tobago": 1,
+        "Algeria": 1,
+        "Singapore": 1,
+        "New Zealand": 1,
+        "Syria": 1,
+        "Jordan": 1,
+        "Honduras": 1
+      }
     }
   ]
 }
