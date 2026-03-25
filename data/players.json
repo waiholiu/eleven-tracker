@@ -7864,6 +7864,41 @@
         "U.S. Virgin Islands": 1,
         "Nepal": 1
       }
+    },
+    {
+      "timestamp": "2026-03-25 08:57:14 UTC",
+      "total": 108,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 6,
+        "Canada": 1,
+        "China": 15,
+        "France": 3,
+        "Germany": 2,
+        "Indonesia": 4,
+        "Italy": 1,
+        "Japan": 9,
+        "North Korea": 1,
+        "Philippines": 1,
+        "Poland": 1,
+        "Puerto Rico": 1,
+        "Russia": 1,
+        "Saudi Arabia": 1,
+        "Sweden": 1,
+        "Thailand": 1,
+        "Ukraine": 1,
+        "United States": 5,
+        "Vietnam": 1,
+        "Czech Republic": 1,
+        "Hong Kong": 1,
+        "South Korea": 7,
+        "Taiwan": 1,
+        "Armenia": 1,
+        "Slovenia": 1,
+        "Fiji": 1,
+        "Cameroon": 1,
+        "French Polynesia": 1
+      }
     }
   ]
 }
