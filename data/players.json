@@ -7817,6 +7817,27 @@
         "Cuba": 1,
         "Fiji": 1
       }
+    },
+    {
+      "timestamp": "2026-03-25 06:58:53 UTC",
+      "total": 74,
+      "countries": {
+        "Australia": 4,
+        "Austria": 1,
+        "Canada": 4,
+        "China": 10,
+        "Germany": 2,
+        "India": 1,
+        "Japan": 8,
+        "Philippines": 2,
+        "Saudi Arabia": 1,
+        "Spain": 1,
+        "United States": 14,
+        "South Korea": 1,
+        "Peru": 1,
+        "Zimbabwe": 1,
+        "Palau": 1
+      }
     }
   ]
 }
