@@ -7899,6 +7899,51 @@
         "Cameroon": 1,
         "French Polynesia": 1
       }
+    },
+    {
+      "timestamp": "2026-03-25 09:57:18 UTC",
+      "total": 139,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 1,
+        "Australia": 10,
+        "Brazil": 1,
+        "Canada": 1,
+        "China": 21,
+        "Croatia": 1,
+        "Egypt": 1,
+        "France": 2,
+        "Germany": 8,
+        "India": 1,
+        "Indonesia": 2,
+        "Italy": 2,
+        "Japan": 9,
+        "Nigeria": 1,
+        "Poland": 3,
+        "Russia": 1,
+        "Spain": 2,
+        "Sweden": 2,
+        "Thailand": 1,
+        "Ukraine": 2,
+        "United Kingdom": 2,
+        "United States": 5,
+        "Czech Republic": 1,
+        "Hong Kong": 1,
+        "South Korea": 4,
+        "Taiwan": 1,
+        "Turkey": 1,
+        "Barbados": 1,
+        "Romania": 1,
+        "Singapore": 1,
+        "Latvia": 1,
+        "Monaco": 1,
+        "Kazakhstan": 1,
+        "Jordan": 1,
+        "Djibouti": 1,
+        "Slovenia": 1,
+        "Costa Rica": 1,
+        "Fiji": 1
+      }
     }
   ]
 }
