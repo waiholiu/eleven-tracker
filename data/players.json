@@ -7944,6 +7944,45 @@
         "Costa Rica": 1,
         "Fiji": 1
       }
+    },
+    {
+      "timestamp": "2026-03-25 10:52:36 UTC",
+      "total": 152,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 8,
+        "Belgium": 1,
+        "Brazil": 1,
+        "China": 24,
+        "Egypt": 1,
+        "France": 8,
+        "Germany": 11,
+        "Greece": 1,
+        "India": 1,
+        "Italy": 4,
+        "Japan": 7,
+        "Pakistan": 1,
+        "Philippines": 3,
+        "Russia": 1,
+        "Spain": 5,
+        "Ukraine": 1,
+        "United States": 4,
+        "Belarus": 1,
+        "Chile": 1,
+        "Czech Republic": 1,
+        "Hong Kong": 2,
+        "South Korea": 7,
+        "Taiwan": 2,
+        "Turkey": 1,
+        "Albania": 2,
+        "Romania": 2,
+        "Cook Islands": 1,
+        "Singapore": 1,
+        "Malaysia": 2,
+        "Kazakhstan": 1,
+        "Afghanistan": 1,
+        "Qatar": 1
+      }
     }
   ]
 }
