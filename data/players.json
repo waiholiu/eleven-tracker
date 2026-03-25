@@ -7727,6 +7727,41 @@
         "Jordan": 1,
         "Uruguay": 1
       }
+    },
+    {
+      "timestamp": "2026-03-25 01:57:15 UTC",
+      "total": 187,
+      "countries": {
+        "American Samoa": 2,
+        "Angola": 1,
+        "Argentina": 1,
+        "Australia": 4,
+        "Brazil": 4,
+        "Canada": 18,
+        "China": 7,
+        "Egypt": 1,
+        "El Salvador": 1,
+        "Germany": 2,
+        "India": 1,
+        "Japan": 2,
+        "Mexico": 2,
+        "Nauru": 1,
+        "Netherlands": 1,
+        "Philippines": 2,
+        "Puerto Rico": 2,
+        "United Kingdom": 1,
+        "United States": 70,
+        "Bahamas": 1,
+        "Taiwan": 1,
+        "United Arab Emirates": 2,
+        "Aruba": 1,
+        "Barbados": 1,
+        "British Indian Ocean Territory": 1,
+        "Hungary": 1,
+        "Dominica": 1,
+        "Faroe Islands": 1,
+        "Cayman Islands": 1
+      }
     }
   ]
 }
