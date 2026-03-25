@@ -7838,6 +7838,32 @@
         "Zimbabwe": 1,
         "Palau": 1
       }
+    },
+    {
+      "timestamp": "2026-03-25 07:57:47 UTC",
+      "total": 88,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 5,
+        "China": 17,
+        "France": 1,
+        "Germany": 1,
+        "India": 1,
+        "Indonesia": 3,
+        "Japan": 5,
+        "Philippines": 2,
+        "Poland": 2,
+        "Russia": 1,
+        "Ukraine": 1,
+        "United Kingdom": 3,
+        "United States": 10,
+        "Hong Kong": 1,
+        "South Africa": 1,
+        "South Korea": 1,
+        "Romania": 1,
+        "U.S. Virgin Islands": 1,
+        "Nepal": 1
+      }
     }
   ]
 }
