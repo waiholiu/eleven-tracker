@@ -8738,6 +8738,46 @@
         "Georgia": 1,
         "Slovenia": 1
       }
+    },
+    {
+      "timestamp": "2026-03-26 09:58:33 UTC",
+      "total": 120,
+      "countries": {
+        "Argentina": 3,
+        "Australia": 7,
+        "Austria": 1,
+        "Bahrain": 1,
+        "China": 19,
+        "France": 7,
+        "Germany": 3,
+        "India": 1,
+        "Indonesia": 1,
+        "Israel": 2,
+        "Japan": 8,
+        "Philippines": 2,
+        "Russia": 1,
+        "Saudi Arabia": 1,
+        "Spain": 1,
+        "Sweden": 1,
+        "United Kingdom": 1,
+        "United States": 5,
+        "Hong Kong": 1,
+        "South Africa": 2,
+        "South Korea": 5,
+        "Taiwan": 3,
+        "United Arab Emirates": 1,
+        "Albania": 1,
+        "Barbados": 1,
+        "Singapore": 1,
+        "Armenia": 1,
+        "Malaysia": 1,
+        "Monaco": 1,
+        "Kazakhstan": 1,
+        "Qatar": 1,
+        "Somalia": 1,
+        "Kenya": 1,
+        "Saint Lucia": 1
+      }
     }
   ]
 }
