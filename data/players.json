@@ -8618,6 +8618,30 @@
         "C\u00f4te d\u2019Ivoire": 1,
         "French Southern Territories": 1
       }
+    },
+    {
+      "timestamp": "2026-03-26 04:43:31 UTC",
+      "total": 86,
+      "countries": {
+        "Angola": 1,
+        "Australia": 2,
+        "Canada": 4,
+        "China": 6,
+        "Colombia": 1,
+        "India": 1,
+        "Indonesia": 1,
+        "Japan": 6,
+        "Mexico": 1,
+        "Russia": 2,
+        "Thailand": 1,
+        "United States": 24,
+        "South Korea": 4,
+        "Jamaica": 1,
+        "New Zealand": 1,
+        "U.S. Virgin Islands": 1,
+        "Christmas Island": 1,
+        "Guatemala": 1
+      }
     }
   ]
 }
