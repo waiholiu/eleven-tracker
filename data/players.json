@@ -8704,6 +8704,40 @@
         "Jordan": 1,
         "French Polynesia": 1
       }
+    },
+    {
+      "timestamp": "2026-03-26 08:51:30 UTC",
+      "total": 105,
+      "countries": {
+        "Australia": 5,
+        "Canada": 1,
+        "China": 18,
+        "Croatia": 1,
+        "France": 1,
+        "Germany": 3,
+        "India": 1,
+        "Israel": 3,
+        "Japan": 5,
+        "Mexico": 1,
+        "North Korea": 1,
+        "Philippines": 1,
+        "Russia": 2,
+        "Saudi Arabia": 2,
+        "Spain": 1,
+        "Thailand": 2,
+        "Ukraine": 1,
+        "United Kingdom": 1,
+        "United States": 4,
+        "Slovakia": 1,
+        "South Korea": 3,
+        "Taiwan": 1,
+        "Albania": 1,
+        "Romania": 1,
+        "Singapore": 1,
+        "Armenia": 2,
+        "Georgia": 1,
+        "Slovenia": 1
+      }
     }
   ]
 }
