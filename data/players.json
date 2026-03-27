@@ -9691,6 +9691,46 @@
         "Hungary": 1,
         "Macau": 1
       }
+    },
+    {
+      "timestamp": "2026-03-27 11:39:28 UTC",
+      "total": 173,
+      "countries": {
+        "Australia": 7,
+        "Brazil": 1,
+        "China": 42,
+        "Egypt": 2,
+        "France": 8,
+        "Germany": 3,
+        "Greece": 1,
+        "India": 3,
+        "Ireland": 1,
+        "Israel": 1,
+        "Italy": 2,
+        "Japan": 5,
+        "Netherlands": 4,
+        "Nigeria": 1,
+        "Poland": 3,
+        "Russia": 2,
+        "Spain": 4,
+        "Thailand": 1,
+        "United Kingdom": 8,
+        "United States": 9,
+        "Czech Republic": 1,
+        "Iran": 1,
+        "South Korea": 7,
+        "Taiwan": 3,
+        "Turkey": 2,
+        "Albania": 1,
+        "Palestinian Territories": 1,
+        "Kiribati": 1,
+        "Finland": 1,
+        "Afghanistan": 1,
+        "Nepal": 1,
+        "Estonia": 1,
+        "Slovenia": 1,
+        "Mauritania": 1
+      }
     }
   ]
 }
