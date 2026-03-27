@@ -9540,6 +9540,32 @@
         "Malaysia": 1,
         "Nepal": 1
       }
+    },
+    {
+      "timestamp": "2026-03-27 07:40:05 UTC",
+      "total": 98,
+      "countries": {
+        "American Samoa": 1,
+        "Australia": 6,
+        "China": 14,
+        "Germany": 3,
+        "India": 1,
+        "Indonesia": 1,
+        "Japan": 6,
+        "Mexico": 1,
+        "Netherlands": 2,
+        "Poland": 1,
+        "Saudi Arabia": 1,
+        "United Kingdom": 3,
+        "United States": 8,
+        "Slovakia": 1,
+        "South Korea": 4,
+        "Taiwan": 2,
+        "Albania": 1,
+        "Cuba": 1,
+        "Malaysia": 2,
+        "Switzerland": 1
+      }
     }
   ]
 }
