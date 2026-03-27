@@ -9515,6 +9515,31 @@
         "Cook Islands": 1,
         "Peru": 1
       }
+    },
+    {
+      "timestamp": "2026-03-27 06:11:14 UTC",
+      "total": 89,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 5,
+        "Canada": 3,
+        "China": 8,
+        "Germany": 1,
+        "India": 1,
+        "Indonesia": 1,
+        "Japan": 5,
+        "Philippines": 2,
+        "Russia": 2,
+        "Saudi Arabia": 2,
+        "Spain": 2,
+        "United States": 17,
+        "Taiwan": 2,
+        "Iraq": 1,
+        "Kuwait": 1,
+        "New Zealand": 2,
+        "Malaysia": 1,
+        "Nepal": 1
+      }
     }
   ]
 }
