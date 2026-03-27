@@ -9489,6 +9489,32 @@
         "Faroe Islands": 1,
         "Bhutan": 1
       }
+    },
+    {
+      "timestamp": "2026-03-27 04:44:09 UTC",
+      "total": 110,
+      "countries": {
+        "Angola": 1,
+        "Australia": 3,
+        "Canada": 5,
+        "China": 11,
+        "El Salvador": 1,
+        "France": 1,
+        "Germany": 1,
+        "India": 1,
+        "Japan": 4,
+        "Mexico": 5,
+        "Puerto Rico": 1,
+        "Saudi Arabia": 1,
+        "Spain": 2,
+        "United Kingdom": 1,
+        "United States": 32,
+        "Chile": 1,
+        "South Korea": 1,
+        "Venezuela": 1,
+        "Cook Islands": 1,
+        "Peru": 1
+      }
     }
   ]
 }
