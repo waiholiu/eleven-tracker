@@ -10258,6 +10258,50 @@
         "Cyprus": 2,
         "Saint Lucia": 1
       }
+    },
+    {
+      "timestamp": "2026-03-27 21:31:22 UTC",
+      "total": 239,
+      "countries": {
+        "Argentina": 3,
+        "Austria": 3,
+        "Brazil": 3,
+        "Canada": 17,
+        "China": 4,
+        "Colombia": 1,
+        "Croatia": 2,
+        "Dominican Republic": 1,
+        "El Salvador": 1,
+        "France": 7,
+        "Germany": 3,
+        "Greece": 3,
+        "India": 1,
+        "Ireland": 1,
+        "Italy": 5,
+        "Japan": 2,
+        "Lebanon": 1,
+        "Netherlands": 3,
+        "Poland": 5,
+        "Puerto Rico": 1,
+        "Saudi Arabia": 1,
+        "Spain": 11,
+        "Sweden": 2,
+        "Ukraine": 3,
+        "United Kingdom": 23,
+        "United States": 51,
+        "Bahamas": 1,
+        "Slovakia": 1,
+        "South Korea": 1,
+        "United Arab Emirates": 1,
+        "Albania": 2,
+        "Morocco": 1,
+        "Romania": 4,
+        "Jamaica": 2,
+        "Bulgaria": 1,
+        "Latvia": 1,
+        "Uruguay": 1,
+        "Palau": 1
+      }
     }
   ]
 }
