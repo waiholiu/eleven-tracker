@@ -10416,6 +10416,50 @@
         "Palau": 1,
         "Swaziland": 1
       }
+    },
+    {
+      "timestamp": "2026-03-27 23:52:15 UTC",
+      "total": 195,
+      "countries": {
+        "Angola": 1,
+        "Australia": 1,
+        "Brazil": 2,
+        "Canada": 15,
+        "China": 8,
+        "Colombia": 2,
+        "Denmark": 1,
+        "Dominican Republic": 1,
+        "Egypt": 1,
+        "El Salvador": 2,
+        "France": 4,
+        "Germany": 3,
+        "Israel": 1,
+        "Italy": 3,
+        "Japan": 4,
+        "Mexico": 2,
+        "Netherlands": 1,
+        "Nigeria": 1,
+        "Philippines": 2,
+        "Poland": 1,
+        "Portugal": 1,
+        "Puerto Rico": 1,
+        "Saudi Arabia": 2,
+        "Sweden": 1,
+        "Ukraine": 1,
+        "United Kingdom": 14,
+        "United States": 59,
+        "Belarus": 1,
+        "Chile": 2,
+        "South Korea": 1,
+        "Trinidad and Tobago": 2,
+        "Turkey": 1,
+        "Venezuela": 1,
+        "Iraq": 1,
+        "Cuba": 1,
+        "Romania": 1,
+        "Switzerland": 1,
+        "Costa Rica": 1
+      }
     }
   ]
 }
