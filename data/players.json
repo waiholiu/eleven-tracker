@@ -9602,6 +9602,47 @@
         "Bolivia": 1,
         "Mauritania": 1
       }
+    },
+    {
+      "timestamp": "2026-03-27 09:52:02 UTC",
+      "total": 130,
+      "countries": {
+        "Australia": 6,
+        "Belgium": 1,
+        "Canada": 1,
+        "China": 19,
+        "Croatia": 1,
+        "France": 7,
+        "Germany": 4,
+        "Indonesia": 3,
+        "Ireland": 1,
+        "Israel": 1,
+        "Italy": 2,
+        "Japan": 4,
+        "North Korea": 2,
+        "Philippines": 3,
+        "Poland": 1,
+        "Russia": 3,
+        "Spain": 1,
+        "Sweden": 3,
+        "Thailand": 2,
+        "Ukraine": 1,
+        "United Kingdom": 6,
+        "United States": 7,
+        "South Korea": 8,
+        "Taiwan": 3,
+        "Turkey": 1,
+        "Albania": 1,
+        "Kuwait": 1,
+        "Romania": 1,
+        "Bulgaria": 1,
+        "Malaysia": 1,
+        "Monaco": 1,
+        "Norway": 1,
+        "Nepal": 1,
+        "Qatar": 1,
+        "Slovenia": 1
+      }
     }
   ]
 }
