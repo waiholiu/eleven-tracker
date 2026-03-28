@@ -10553,6 +10553,35 @@
         "Brunei": 1,
         "Bhutan": 1
       }
+    },
+    {
+      "timestamp": "2026-03-28 06:55:23 UTC",
+      "total": 109,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 7,
+        "Belgium": 1,
+        "Canada": 1,
+        "China": 17,
+        "France": 1,
+        "Germany": 1,
+        "India": 1,
+        "Italy": 1,
+        "Japan": 5,
+        "Mexico": 1,
+        "North Korea": 1,
+        "Philippines": 1,
+        "Poland": 1,
+        "Sweden": 1,
+        "United States": 20,
+        "South Korea": 4,
+        "Trinidad and Tobago": 1,
+        "British Indian Ocean Territory": 2,
+        "Singapore": 2,
+        "Armenia": 1,
+        "Latvia": 2,
+        "Macedonia": 1
+      }
     }
   ]
 }
