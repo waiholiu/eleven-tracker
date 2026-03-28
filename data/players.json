@@ -10765,6 +10765,50 @@
         "Mauritius": 2,
         "Malawi": 1
       }
+    },
+    {
+      "timestamp": "2026-03-28 11:00:11 UTC",
+      "total": 193,
+      "countries": {
+        "Australia": 5,
+        "Canada": 1,
+        "China": 23,
+        "Denmark": 1,
+        "France": 7,
+        "Germany": 13,
+        "India": 4,
+        "Indonesia": 2,
+        "Ireland": 2,
+        "Israel": 5,
+        "Italy": 6,
+        "Japan": 10,
+        "Lebanon": 1,
+        "Netherlands": 2,
+        "Philippines": 2,
+        "Poland": 4,
+        "Portugal": 1,
+        "Russia": 2,
+        "Saudi Arabia": 4,
+        "Spain": 4,
+        "Sweden": 2,
+        "Ukraine": 2,
+        "United Kingdom": 10,
+        "United States": 2,
+        "Andorra": 1,
+        "Iran": 1,
+        "South Korea": 6,
+        "Taiwan": 1,
+        "Turkey": 2,
+        "Albania": 1,
+        "Iraq": 1,
+        "Latvia": 1,
+        "Norway": 1,
+        "Finland": 1,
+        "Georgia": 1,
+        "Qatar": 1,
+        "Malawi": 1,
+        "Mauritania": 1
+      }
     }
   ]
 }
