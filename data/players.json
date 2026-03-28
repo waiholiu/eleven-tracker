@@ -10497,6 +10497,33 @@
         "Christmas Island": 1,
         "Uruguay": 2
       }
+    },
+    {
+      "timestamp": "2026-03-28 04:21:19 UTC",
+      "total": 144,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 2,
+        "Brazil": 3,
+        "Canada": 11,
+        "China": 16,
+        "Indonesia": 1,
+        "Japan": 6,
+        "Mexico": 3,
+        "North Korea": 2,
+        "Philippines": 2,
+        "Puerto Rico": 1,
+        "Serbia": 1,
+        "United States": 40,
+        "Vietnam": 1,
+        "South Korea": 1,
+        "Taiwan": 2,
+        "Kuwait": 1,
+        "Senegal": 1,
+        "Afghanistan": 1,
+        "Christmas Island": 1,
+        "Jersey": 1
+      }
     }
   ]
 }
