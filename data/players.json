@@ -10524,6 +10524,35 @@
         "Christmas Island": 1,
         "Jersey": 1
       }
+    },
+    {
+      "timestamp": "2026-03-28 05:39:36 UTC",
+      "total": 132,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 5,
+        "Canada": 3,
+        "China": 17,
+        "Germany": 2,
+        "India": 1,
+        "Ireland": 1,
+        "Israel": 1,
+        "Italy": 1,
+        "Japan": 8,
+        "Mexico": 3,
+        "Nigeria": 1,
+        "Philippines": 2,
+        "Poland": 1,
+        "Russia": 1,
+        "United States": 38,
+        "South Korea": 7,
+        "Taiwan": 1,
+        "Armenia": 1,
+        "Qatar": 1,
+        "Macedonia": 1,
+        "Brunei": 1,
+        "Bhutan": 1
+      }
     }
   ]
 }
