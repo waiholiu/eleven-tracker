@@ -11964,6 +11964,31 @@
         "Swaziland": 1,
         "French Polynesia": 1
       }
+    },
+    {
+      "timestamp": "2026-03-29 04:58:25 UTC",
+      "total": 138,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 9,
+        "Brazil": 2,
+        "Canada": 7,
+        "China": 10,
+        "India": 1,
+        "Israel": 1,
+        "Japan": 12,
+        "Mexico": 3,
+        "Russia": 1,
+        "United Kingdom": 1,
+        "United States": 47,
+        "Vietnam": 1,
+        "Hong Kong": 2,
+        "South Korea": 2,
+        "Iraq": 1,
+        "Anguilla": 1,
+        "Bulgaria": 1,
+        "Haiti": 1
+      }
     }
   ]
 }
