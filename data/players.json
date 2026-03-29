@@ -12150,6 +12150,52 @@
         "Kenya": 1,
         "Macau": 1
       }
+    },
+    {
+      "timestamp": "2026-03-29 10:29:40 UTC",
+      "total": 203,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 8,
+        "Austria": 3,
+        "Belgium": 1,
+        "Canada": 1,
+        "China": 23,
+        "Croatia": 1,
+        "Denmark": 2,
+        "France": 4,
+        "Germany": 13,
+        "India": 2,
+        "Italy": 3,
+        "Japan": 8,
+        "Netherlands": 2,
+        "North Korea": 1,
+        "Poland": 4,
+        "Portugal": 2,
+        "Puerto Rico": 1,
+        "Russia": 3,
+        "Spain": 10,
+        "Thailand": 1,
+        "Ukraine": 2,
+        "United Kingdom": 8,
+        "United States": 2,
+        "Czech Republic": 2,
+        "South Africa": 1,
+        "South Korea": 4,
+        "Turkey": 2,
+        "Albania": 2,
+        "Romania": 2,
+        "Singapore": 1,
+        "Bulgaria": 2,
+        "Malaysia": 2,
+        "Latvia": 1,
+        "Norway": 1,
+        "Afghanistan": 1,
+        "Qatar": 1,
+        "Estonia": 1,
+        "Bosnia and Herzegovina": 1,
+        "New Caledonia": 1
+      }
     }
   ]
 }
