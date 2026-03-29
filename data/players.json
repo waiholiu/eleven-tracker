@@ -12056,6 +12056,52 @@
         "Cameroon": 1,
         "Bhutan": 1
       }
+    },
+    {
+      "timestamp": "2026-03-29 08:37:04 UTC",
+      "total": 184,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 4,
+        "Austria": 1,
+        "Bahrain": 1,
+        "Brazil": 1,
+        "Canada": 2,
+        "China": 34,
+        "Denmark": 2,
+        "Egypt": 1,
+        "France": 8,
+        "Germany": 5,
+        "Greece": 1,
+        "India": 1,
+        "Indonesia": 1,
+        "Ireland": 2,
+        "Italy": 1,
+        "Japan": 8,
+        "Netherlands": 2,
+        "Philippines": 3,
+        "Poland": 3,
+        "Russia": 4,
+        "Spain": 4,
+        "Sweden": 3,
+        "Thailand": 1,
+        "United Kingdom": 1,
+        "United States": 9,
+        "Hong Kong": 1,
+        "South Africa": 1,
+        "South Korea": 6,
+        "Albania": 1,
+        "Algeria": 1,
+        "Palestinian Territories": 1,
+        "Romania": 1,
+        "New Zealand": 1,
+        "Malaysia": 2,
+        "Switzerland": 1,
+        "Finland": 2,
+        "Afghanistan": 1,
+        "Macedonia": 1,
+        "Cameroon": 1
+      }
     }
   ]
 }
