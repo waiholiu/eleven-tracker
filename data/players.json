@@ -13245,6 +13245,49 @@
         "Jersey": 1,
         "Uganda": 1
       }
+    },
+    {
+      "timestamp": "2026-03-29 23:58:31 UTC",
+      "total": 178,
+      "countries": {
+        "Argentina": 3,
+        "Australia": 3,
+        "Brazil": 7,
+        "Canada": 13,
+        "China": 7,
+        "Dominican Republic": 1,
+        "Egypt": 1,
+        "El Salvador": 2,
+        "France": 3,
+        "Germany": 1,
+        "India": 1,
+        "Italy": 3,
+        "Japan": 2,
+        "Mexico": 2,
+        "Pakistan": 1,
+        "Philippines": 3,
+        "Russia": 3,
+        "Spain": 1,
+        "United States": 58,
+        "Belarus": 1,
+        "Chile": 1,
+        "Iran": 1,
+        "Taiwan": 1,
+        "Trinidad and Tobago": 1,
+        "Turkey": 2,
+        "Albania": 1,
+        "Iraq": 1,
+        "Palestinian Territories": 1,
+        "Bangladesh": 1,
+        "Cuba": 1,
+        "Iceland": 1,
+        "Norway": 1,
+        "Hungary": 1,
+        "Jordan": 2,
+        "Djibouti": 1,
+        "Cyprus": 1,
+        "Sudan": 1
+      }
     }
   ]
 }
