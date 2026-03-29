@@ -11931,6 +11931,39 @@
         "Nicaragua": 1,
         "Mauritius": 1
       }
+    },
+    {
+      "timestamp": "2026-03-29 02:07:12 UTC",
+      "total": 184,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 2,
+        "Brazil": 7,
+        "Canada": 13,
+        "China": 12,
+        "Germany": 1,
+        "India": 6,
+        "Israel": 2,
+        "Italy": 1,
+        "Japan": 4,
+        "Mexico": 5,
+        "North Korea": 1,
+        "Poland": 1,
+        "Portugal": 1,
+        "Spain": 1,
+        "United Kingdom": 1,
+        "United States": 55,
+        "Bahamas": 2,
+        "Chile": 1,
+        "Hong Kong": 1,
+        "South Korea": 3,
+        "Taiwan": 2,
+        "Trinidad and Tobago": 1,
+        "Venezuela": 1,
+        "Switzerland": 1,
+        "Swaziland": 1,
+        "French Polynesia": 1
+      }
     }
   ]
 }
