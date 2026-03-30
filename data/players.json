@@ -13288,6 +13288,36 @@
         "Cyprus": 1,
         "Sudan": 1
       }
+    },
+    {
+      "timestamp": "2026-03-30 03:17:27 UTC",
+      "total": 140,
+      "countries": {
+        "American Samoa": 1,
+        "Angola": 1,
+        "Argentina": 1,
+        "Australia": 3,
+        "Brazil": 3,
+        "Canada": 12,
+        "China": 8,
+        "Denmark": 1,
+        "Germany": 1,
+        "Italy": 1,
+        "Japan": 2,
+        "Mexico": 4,
+        "Philippines": 2,
+        "Puerto Rico": 1,
+        "Spain": 1,
+        "United States": 48,
+        "Bahamas": 1,
+        "Chile": 2,
+        "Algeria": 1,
+        "Mongolia": 1,
+        "Christmas Island": 1,
+        "Jordan": 1,
+        "Honduras": 2,
+        "Costa Rica": 1
+      }
     }
   ]
 }
