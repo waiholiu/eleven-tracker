@@ -13950,6 +13950,51 @@
         "Suriname": 1,
         "Mauritius": 1
       }
+    },
+    {
+      "timestamp": "2026-03-30 22:32:44 UTC",
+      "total": 173,
+      "countries": {
+        "Argentina": 1,
+        "Belgium": 4,
+        "Brazil": 4,
+        "Burundi": 1,
+        "Canada": 5,
+        "China": 4,
+        "Colombia": 2,
+        "Dominican Republic": 2,
+        "Egypt": 1,
+        "France": 5,
+        "Germany": 7,
+        "India": 3,
+        "Japan": 2,
+        "Mexico": 6,
+        "Netherlands": 1,
+        "Nigeria": 1,
+        "Poland": 2,
+        "Puerto Rico": 2,
+        "Russia": 3,
+        "Spain": 3,
+        "United Kingdom": 8,
+        "United States": 37,
+        "Vietnam": 1,
+        "Andorra": 1,
+        "Czech Republic": 1,
+        "South Korea": 2,
+        "Turkey": 1,
+        "Albania": 1,
+        "Algeria": 1,
+        "Palestinian Territories": 1,
+        "Cuba": 1,
+        "Jamaica": 1,
+        "Iceland": 1,
+        "New Zealand": 1,
+        "Estonia": 1,
+        "Syria": 1,
+        "Nicaragua": 1,
+        "Azerbaijan": 2,
+        "Mauritius": 1
+      }
     }
   ]
 }
