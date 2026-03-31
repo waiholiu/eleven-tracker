@@ -14096,6 +14096,33 @@
         "Costa Rica": 1,
         "Cyprus": 1
       }
+    },
+    {
+      "timestamp": "2026-03-31 06:17:21 UTC",
+      "total": 101,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 6,
+        "Austria": 1,
+        "Brazil": 3,
+        "Canada": 1,
+        "China": 7,
+        "France": 2,
+        "Germany": 3,
+        "India": 1,
+        "Italy": 1,
+        "Japan": 6,
+        "Mexico": 1,
+        "Philippines": 2,
+        "Russia": 1,
+        "Saudi Arabia": 1,
+        "Serbia": 1,
+        "United Kingdom": 1,
+        "United States": 24,
+        "Singapore": 1,
+        "New Zealand": 1,
+        "Bulgaria": 1
+      }
     }
   ]
 }
