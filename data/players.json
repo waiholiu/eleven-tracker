@@ -14153,6 +14153,50 @@
         "Kiribati": 1,
         "Qatar": 1
       }
+    },
+    {
+      "timestamp": "2026-03-31 08:55:33 UTC",
+      "total": 110,
+      "countries": {
+        "Australia": 2,
+        "Brazil": 2,
+        "China": 9,
+        "France": 4,
+        "Germany": 2,
+        "India": 2,
+        "Indonesia": 1,
+        "Israel": 1,
+        "Italy": 5,
+        "Japan": 7,
+        "Netherlands": 2,
+        "Poland": 1,
+        "Russia": 1,
+        "Serbia": 1,
+        "Spain": 5,
+        "Sweden": 1,
+        "Thailand": 1,
+        "United Kingdom": 1,
+        "United States": 3,
+        "Vietnam": 1,
+        "Andorra": 1,
+        "Czech Republic": 1,
+        "Hong Kong": 2,
+        "South Africa": 1,
+        "South Korea": 3,
+        "Taiwan": 2,
+        "Albania": 1,
+        "Algeria": 1,
+        "Romania": 1,
+        "Cook Islands": 1,
+        "Jamaica": 1,
+        "Armenia": 2,
+        "Kiribati": 1,
+        "Georgia": 1,
+        "Kazakhstan": 1,
+        "Slovenia": 1,
+        "Brunei": 1,
+        "Bhutan": 1
+      }
     }
   ]
 }
