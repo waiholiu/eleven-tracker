@@ -14862,6 +14862,51 @@
         "Cyprus": 1,
         "Samoa": 1
       }
+    },
+    {
+      "timestamp": "2026-03-31 23:31:01 UTC",
+      "total": 179,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 1,
+        "Brazil": 8,
+        "Canada": 16,
+        "China": 7,
+        "Dominican Republic": 1,
+        "El Salvador": 1,
+        "France": 2,
+        "Germany": 7,
+        "Israel": 2,
+        "Italy": 2,
+        "Japan": 1,
+        "Nigeria": 1,
+        "Poland": 1,
+        "Spain": 1,
+        "Sweden": 1,
+        "Thailand": 1,
+        "Ukraine": 1,
+        "United Kingdom": 6,
+        "United States": 55,
+        "Bahamas": 1,
+        "Belarus": 1,
+        "Chile": 1,
+        "Taiwan": 1,
+        "Trinidad and Tobago": 1,
+        "Turkey": 1,
+        "Oman": 1,
+        "Cuba": 2,
+        "Peru": 1,
+        "New Zealand": 1,
+        "U.S. Virgin Islands": 1,
+        "Bulgaria": 2,
+        "Kazakhstan": 1,
+        "Syria": 1,
+        "Hungary": 2,
+        "Jordan": 1,
+        "Uruguay": 1,
+        "Guatemala": 1,
+        "Azerbaijan": 1
+      }
     }
   ]
 }
