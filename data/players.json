@@ -14941,6 +14941,34 @@
         "Honduras": 1,
         "Bosnia and Herzegovina": 1
       }
+    },
+    {
+      "timestamp": "2026-04-01 05:10:45 UTC",
+      "total": 101,
+      "countries": {
+        "Australia": 1,
+        "Brazil": 1,
+        "Canada": 4,
+        "China": 11,
+        "Colombia": 2,
+        "France": 1,
+        "India": 1,
+        "Japan": 2,
+        "Mexico": 3,
+        "Philippines": 2,
+        "Portugal": 1,
+        "Puerto Rico": 1,
+        "Russia": 1,
+        "Spain": 1,
+        "United States": 31,
+        "South Korea": 2,
+        "Taiwan": 1,
+        "United Arab Emirates": 1,
+        "Bangladesh": 1,
+        "Cuba": 1,
+        "Finland": 1,
+        "Liberia": 1
+      }
     }
   ]
 }
