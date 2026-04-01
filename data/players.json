@@ -15041,6 +15041,50 @@
         "Slovenia": 1,
         "Fiji": 1
       }
+    },
+    {
+      "timestamp": "2026-04-01 09:44:19 UTC",
+      "total": 147,
+      "countries": {
+        "Angola": 1,
+        "Australia": 7,
+        "Belgium": 1,
+        "China": 13,
+        "France": 3,
+        "Germany": 11,
+        "Indonesia": 1,
+        "Italy": 3,
+        "Japan": 9,
+        "Lebanon": 1,
+        "Netherlands": 2,
+        "Nigeria": 1,
+        "North Korea": 1,
+        "Philippines": 3,
+        "Poland": 2,
+        "Portugal": 2,
+        "Russia": 2,
+        "Serbia": 1,
+        "Spain": 4,
+        "Sweden": 1,
+        "United Kingdom": 2,
+        "United States": 4,
+        "Hong Kong": 1,
+        "South Korea": 4,
+        "Taiwan": 1,
+        "Turkey": 1,
+        "Kuwait": 1,
+        "Singapore": 2,
+        "Armenia": 1,
+        "Malaysia": 2,
+        "Norway": 2,
+        "Kazakhstan": 1,
+        "Zimbabwe": 1,
+        "Afghanistan": 1,
+        "Estonia": 2,
+        "Syria": 1,
+        "Fiji": 1,
+        "Cameroon": 1
+      }
     }
   ]
 }
