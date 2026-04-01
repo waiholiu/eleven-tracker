@@ -14907,6 +14907,40 @@
         "Guatemala": 1,
         "Azerbaijan": 1
       }
+    },
+    {
+      "timestamp": "2026-04-01 02:13:48 UTC",
+      "total": 203,
+      "countries": {
+        "Argentina": 2,
+        "Brazil": 5,
+        "Canada": 14,
+        "China": 11,
+        "Colombia": 1,
+        "Dominican Republic": 1,
+        "Germany": 2,
+        "India": 2,
+        "Indonesia": 3,
+        "Japan": 1,
+        "Mexico": 7,
+        "Philippines": 1,
+        "Puerto Rico": 3,
+        "Serbia": 1,
+        "Thailand": 1,
+        "Ukraine": 1,
+        "United Kingdom": 1,
+        "United States": 80,
+        "Vietnam": 1,
+        "Chile": 1,
+        "South Korea": 2,
+        "Trinidad and Tobago": 1,
+        "Algeria": 1,
+        "Barbados": 1,
+        "Nepal": 1,
+        "Eritrea": 1,
+        "Honduras": 1,
+        "Bosnia and Herzegovina": 1
+      }
     }
   ]
 }
