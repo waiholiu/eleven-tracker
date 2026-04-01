@@ -14969,6 +14969,37 @@
         "Finland": 1,
         "Liberia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-01 06:58:09 UTC",
+      "total": 94,
+      "countries": {
+        "Australia": 6,
+        "Brazil": 1,
+        "Canada": 4,
+        "China": 13,
+        "France": 1,
+        "Germany": 1,
+        "India": 1,
+        "Ireland": 1,
+        "Japan": 6,
+        "Mexico": 1,
+        "Serbia": 1,
+        "Sweden": 1,
+        "United Kingdom": 1,
+        "United States": 13,
+        "Chile": 1,
+        "Hong Kong": 1,
+        "Slovakia": 1,
+        "South Africa": 1,
+        "South Korea": 6,
+        "Oman": 1,
+        "Singapore": 1,
+        "New Zealand": 1,
+        "Afghanistan": 2,
+        "Nicaragua": 1,
+        "Bhutan": 1
+      }
     }
   ]
 }
