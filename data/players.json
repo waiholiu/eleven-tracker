@@ -15000,6 +15000,47 @@
         "Nicaragua": 1,
         "Bhutan": 1
       }
+    },
+    {
+      "timestamp": "2026-04-01 08:17:48 UTC",
+      "total": 104,
+      "countries": {
+        "Australia": 9,
+        "Belgium": 1,
+        "Brazil": 1,
+        "China": 11,
+        "Croatia": 1,
+        "France": 4,
+        "Germany": 2,
+        "India": 1,
+        "Ireland": 1,
+        "Israel": 3,
+        "Japan": 4,
+        "Mexico": 1,
+        "Philippines": 1,
+        "Russia": 1,
+        "Saudi Arabia": 1,
+        "Spain": 2,
+        "Sweden": 1,
+        "United Kingdom": 2,
+        "United States": 8,
+        "Vietnam": 1,
+        "Hong Kong": 1,
+        "Slovakia": 1,
+        "South Africa": 1,
+        "South Korea": 4,
+        "Turkey": 1,
+        "Lithuania": 2,
+        "Oman": 1,
+        "Cook Islands": 1,
+        "Jamaica": 1,
+        "Peru": 1,
+        "Switzerland": 1,
+        "Kazakhstan": 1,
+        "Kenya": 1,
+        "Slovenia": 1,
+        "Fiji": 1
+      }
     }
   ]
 }
