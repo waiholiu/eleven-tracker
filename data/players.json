@@ -15840,6 +15840,39 @@
         "Uruguay": 1,
         "Ethiopia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-02 08:53:17 UTC",
+      "total": 105,
+      "countries": {
+        "Australia": 5,
+        "Austria": 1,
+        "Belgium": 2,
+        "Canada": 3,
+        "China": 20,
+        "Croatia": 1,
+        "France": 2,
+        "Germany": 9,
+        "India": 2,
+        "Indonesia": 2,
+        "Ireland": 1,
+        "Italy": 3,
+        "Japan": 4,
+        "Mexico": 1,
+        "Poland": 2,
+        "Thailand": 1,
+        "Ukraine": 1,
+        "United Kingdom": 3,
+        "United States": 5,
+        "South Korea": 2,
+        "United Arab Emirates": 1,
+        "Albania": 2,
+        "Tunisia": 1,
+        "Armenia": 2,
+        "Fiji": 1,
+        "Macau": 1,
+        "Mayotte": 1
+      }
     }
   ]
 }
