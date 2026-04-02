@@ -15873,6 +15873,42 @@
         "Macau": 1,
         "Mayotte": 1
       }
+    },
+    {
+      "timestamp": "2026-04-02 09:58:46 UTC",
+      "total": 127,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 1,
+        "Australia": 6,
+        "Belgium": 1,
+        "China": 17,
+        "Denmark": 2,
+        "France": 4,
+        "Germany": 15,
+        "Indonesia": 2,
+        "Israel": 2,
+        "Italy": 3,
+        "Japan": 5,
+        "Mexico": 1,
+        "Netherlands": 2,
+        "Poland": 1,
+        "Russia": 2,
+        "Saudi Arabia": 1,
+        "Spain": 9,
+        "Sweden": 1,
+        "United Kingdom": 6,
+        "United States": 3,
+        "Slovakia": 1,
+        "South Africa": 1,
+        "South Korea": 2,
+        "Taiwan": 1,
+        "Albania": 1,
+        "Bulgaria": 1,
+        "Monaco": 1,
+        "Norway": 2,
+        "Qatar": 1
+      }
     }
   ]
 }
