@@ -15757,6 +15757,34 @@
         "Honduras": 1,
         "Jersey": 1
       }
+    },
+    {
+      "timestamp": "2026-04-02 04:39:58 UTC",
+      "total": 112,
+      "countries": {
+        "Australia": 3,
+        "Canada": 3,
+        "China": 10,
+        "El Salvador": 1,
+        "France": 1,
+        "Germany": 1,
+        "India": 2,
+        "Japan": 5,
+        "Mexico": 1,
+        "Puerto Rico": 2,
+        "Thailand": 1,
+        "United States": 35,
+        "Chile": 1,
+        "South Korea": 4,
+        "Turkey": 1,
+        "Bangladesh": 1,
+        "Cuba": 1,
+        "Romania": 1,
+        "Singapore": 1,
+        "Nicaragua": 1,
+        "Cyprus": 1,
+        "Bhutan": 1
+      }
     }
   ]
 }
