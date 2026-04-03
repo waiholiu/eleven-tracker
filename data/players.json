@@ -16607,6 +16607,39 @@
         "Ethiopia": 1,
         "Bolivia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-03 02:03:06 UTC",
+      "total": 192,
+      "countries": {
+        "Australia": 9,
+        "Austria": 1,
+        "Brazil": 5,
+        "Canada": 18,
+        "China": 5,
+        "Colombia": 2,
+        "Germany": 3,
+        "India": 1,
+        "Ireland": 1,
+        "Japan": 3,
+        "Mexico": 6,
+        "North Korea": 1,
+        "Russia": 2,
+        "Spain": 1,
+        "Thailand": 1,
+        "United Kingdom": 1,
+        "United States": 64,
+        "Vietnam": 1,
+        "Chile": 1,
+        "South Korea": 4,
+        "Algeria": 1,
+        "Aruba": 1,
+        "Malaysia": 1,
+        "Georgia": 1,
+        "Afghanistan": 2,
+        "Jersey": 1,
+        "Bolivia": 1
+      }
     }
   ]
 }
