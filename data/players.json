@@ -16789,6 +16789,53 @@
         "Macau": 1,
         "Mozambique": 1
       }
+    },
+    {
+      "timestamp": "2026-04-03 09:50:15 UTC",
+      "total": 186,
+      "countries": {
+        "Angola": 1,
+        "Australia": 2,
+        "Austria": 1,
+        "Belgium": 1,
+        "Canada": 2,
+        "China": 9,
+        "Denmark": 2,
+        "Egypt": 2,
+        "France": 8,
+        "Germany": 13,
+        "Greece": 2,
+        "India": 1,
+        "Indonesia": 2,
+        "Israel": 3,
+        "Italy": 5,
+        "Japan": 5,
+        "Philippines": 3,
+        "Poland": 4,
+        "Russia": 1,
+        "Spain": 8,
+        "Sweden": 6,
+        "Ukraine": 3,
+        "United Kingdom": 12,
+        "United States": 2,
+        "Belarus": 1,
+        "Hong Kong": 1,
+        "Slovakia": 1,
+        "South Africa": 1,
+        "South Korea": 5,
+        "Taiwan": 3,
+        "Turkey": 1,
+        "Barbados": 1,
+        "Tunisia": 1,
+        "Bulgaria": 1,
+        "Malaysia": 1,
+        "Latvia": 1,
+        "Monaco": 1,
+        "Finland": 1,
+        "Estonia": 1,
+        "Hungary": 2,
+        "Saint Lucia": 1
+      }
     }
   ]
 }
