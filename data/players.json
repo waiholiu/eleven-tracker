@@ -17579,6 +17579,52 @@
         "Nicaragua": 1,
         "Guatemala": 1
       }
+    },
+    {
+      "timestamp": "2026-04-03 23:02:45 UTC",
+      "total": 181,
+      "countries": {
+        "Angola": 1,
+        "Argentina": 2,
+        "Australia": 2,
+        "Brazil": 4,
+        "Canada": 10,
+        "China": 4,
+        "Croatia": 1,
+        "Denmark": 1,
+        "Dominican Republic": 2,
+        "France": 4,
+        "Germany": 4,
+        "India": 5,
+        "Ireland": 3,
+        "Italy": 3,
+        "Japan": 1,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "Poland": 1,
+        "Portugal": 2,
+        "Spain": 4,
+        "Thailand": 1,
+        "United Kingdom": 9,
+        "United States": 53,
+        "Andorra": 1,
+        "Bahamas": 1,
+        "Czech Republic": 1,
+        "Hong Kong": 1,
+        "South Korea": 2,
+        "Turkey": 1,
+        "Iraq": 1,
+        "Oman": 1,
+        "Palestinian Territories": 2,
+        "British Indian Ocean Territory": 1,
+        "Romania": 1,
+        "Tunisia": 1,
+        "Georgia": 1,
+        "\u00c5land Islands": 1,
+        "Jordan": 1,
+        "Suriname": 1,
+        "Nicaragua": 1
+      }
     }
   ]
 }
