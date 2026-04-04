@@ -18524,6 +18524,49 @@
         "Macedonia": 1,
         "Tokelau": 1
       }
+    },
+    {
+      "timestamp": "2026-04-04 23:33:03 UTC",
+      "total": 197,
+      "countries": {
+        "Angola": 1,
+        "Argentina": 2,
+        "Brazil": 8,
+        "Canada": 13,
+        "China": 3,
+        "Denmark": 1,
+        "Dominican Republic": 2,
+        "France": 1,
+        "Germany": 3,
+        "India": 2,
+        "Indonesia": 1,
+        "Ireland": 1,
+        "Israel": 1,
+        "Italy": 2,
+        "Japan": 1,
+        "Puerto Rico": 3,
+        "Spain": 5,
+        "Ukraine": 3,
+        "United Kingdom": 13,
+        "United States": 54,
+        "Bahamas": 1,
+        "South Korea": 3,
+        "Trinidad and Tobago": 1,
+        "Turkey": 1,
+        "Venezuela": 1,
+        "Barbados": 1,
+        "British Indian Ocean Territory": 1,
+        "Romania": 1,
+        "Tunisia": 1,
+        "Jamaica": 1,
+        "Malaysia": 1,
+        "Qatar": 1,
+        "\u00c5land Islands": 1,
+        "Somalia": 1,
+        "Honduras": 1,
+        "Macedonia": 1,
+        "Cyprus": 1
+      }
     }
   ]
 }
