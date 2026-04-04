@@ -17762,6 +17762,38 @@
         "Malaysia": 1,
         "Norway": 1
       }
+    },
+    {
+      "timestamp": "2026-04-04 06:57:33 UTC",
+      "total": 125,
+      "countries": {
+        "Australia": 3,
+        "Belgium": 1,
+        "Brazil": 1,
+        "Canada": 1,
+        "China": 10,
+        "France": 4,
+        "Germany": 1,
+        "India": 2,
+        "Indonesia": 2,
+        "Italy": 2,
+        "Japan": 9,
+        "Netherlands": 1,
+        "Nigeria": 1,
+        "Poland": 2,
+        "Russia": 3,
+        "Serbia": 1,
+        "Spain": 1,
+        "United Kingdom": 2,
+        "United States": 22,
+        "Hong Kong": 2,
+        "South Korea": 5,
+        "Taiwan": 1,
+        "Switzerland": 1,
+        "Latvia": 1,
+        "Norway": 1,
+        "Afghanistan": 1
+      }
     }
   ]
 }
