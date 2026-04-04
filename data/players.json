@@ -17668,6 +17668,44 @@
         "Niger": 1,
         "Jersey": 1
       }
+    },
+    {
+      "timestamp": "2026-04-04 02:01:57 UTC",
+      "total": 183,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 2,
+        "Austria": 1,
+        "Brazil": 5,
+        "Canada": 10,
+        "China": 10,
+        "Germany": 2,
+        "India": 1,
+        "Indonesia": 1,
+        "Japan": 7,
+        "Mexico": 2,
+        "Pakistan": 1,
+        "Philippines": 2,
+        "Poland": 1,
+        "Puerto Rico": 1,
+        "Russia": 1,
+        "Saudi Arabia": 1,
+        "Thailand": 1,
+        "United Kingdom": 2,
+        "United States": 70,
+        "South Korea": 2,
+        "Taiwan": 1,
+        "Trinidad and Tobago": 1,
+        "Venezuela": 2,
+        "Micronesia": 1,
+        "Iceland": 1,
+        "Singapore": 1,
+        "New Zealand": 1,
+        "Malaysia": 1,
+        "Kenya": 1,
+        "Macedonia": 1,
+        "Paraguay": 1
+      }
     }
   ]
 }
