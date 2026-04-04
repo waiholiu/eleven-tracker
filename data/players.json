@@ -17968,6 +17968,48 @@
         "Palau": 1,
         "Antarctica": 1
       }
+    },
+    {
+      "timestamp": "2026-04-04 11:01:32 UTC",
+      "total": 167,
+      "countries": {
+        "Australia": 2,
+        "Austria": 2,
+        "Bahrain": 1,
+        "Belgium": 1,
+        "China": 23,
+        "Croatia": 1,
+        "Egypt": 1,
+        "France": 6,
+        "Germany": 8,
+        "Greece": 1,
+        "India": 3,
+        "Indonesia": 2,
+        "Ireland": 1,
+        "Israel": 4,
+        "Italy": 6,
+        "Japan": 9,
+        "Poland": 1,
+        "Russia": 5,
+        "Spain": 5,
+        "Ukraine": 2,
+        "United Kingdom": 5,
+        "United States": 6,
+        "Vietnam": 1,
+        "Andorra": 1,
+        "Czech Republic": 1,
+        "South Korea": 4,
+        "Taiwan": 1,
+        "Turkey": 2,
+        "Jamaica": 1,
+        "Bulgaria": 1,
+        "Malaysia": 1,
+        "Switzerland": 1,
+        "Finland": 1,
+        "Kazakhstan": 1,
+        "Qatar": 1,
+        "Antarctica": 1
+      }
     }
   ]
 }
