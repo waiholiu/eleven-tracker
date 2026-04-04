@@ -17923,6 +17923,51 @@
         "Brunei": 1,
         "Martinique": 1
       }
+    },
+    {
+      "timestamp": "2026-04-04 10:29:47 UTC",
+      "total": 166,
+      "countries": {
+        "Australia": 2,
+        "China": 18,
+        "France": 6,
+        "Germany": 7,
+        "Greece": 1,
+        "India": 2,
+        "Indonesia": 3,
+        "Ireland": 3,
+        "Israel": 2,
+        "Italy": 3,
+        "Japan": 8,
+        "Netherlands": 1,
+        "Pakistan": 1,
+        "Poland": 2,
+        "Russia": 2,
+        "Spain": 4,
+        "Sweden": 2,
+        "Ukraine": 2,
+        "United Kingdom": 9,
+        "United States": 2,
+        "Andorra": 1,
+        "Czech Republic": 2,
+        "Slovakia": 1,
+        "South Korea": 6,
+        "Taiwan": 3,
+        "Albania": 1,
+        "Iraq": 1,
+        "Kuwait": 2,
+        "Lithuania": 1,
+        "Bulgaria": 1,
+        "Malaysia": 2,
+        "Switzerland": 2,
+        "Norway": 1,
+        "Finland": 1,
+        "Kenya": 1,
+        "Macedonia": 1,
+        "Bosnia and Herzegovina": 1,
+        "Palau": 1,
+        "Antarctica": 1
+      }
     }
   ]
 }
