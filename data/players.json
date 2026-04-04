@@ -17738,6 +17738,30 @@
         "Afghanistan": 1,
         "Liberia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-04 05:40:53 UTC",
+      "total": 133,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 1,
+        "Australia": 3,
+        "Canada": 6,
+        "China": 18,
+        "Germany": 1,
+        "Japan": 9,
+        "Mexico": 2,
+        "Philippines": 2,
+        "Russia": 2,
+        "Sweden": 1,
+        "United Kingdom": 1,
+        "United States": 29,
+        "Iran": 1,
+        "South Korea": 5,
+        "New Zealand": 1,
+        "Malaysia": 1,
+        "Norway": 1
+      }
     }
   ]
 }
