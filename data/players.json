@@ -17883,6 +17883,46 @@
         "Switzerland": 2,
         "Cocos Islands": 1
       }
+    },
+    {
+      "timestamp": "2026-04-04 09:34:59 UTC",
+      "total": 181,
+      "countries": {
+        "Australia": 8,
+        "Belgium": 2,
+        "China": 26,
+        "Denmark": 1,
+        "France": 8,
+        "Germany": 6,
+        "Guam": 1,
+        "India": 2,
+        "Indonesia": 2,
+        "Israel": 2,
+        "Italy": 4,
+        "Japan": 9,
+        "Poland": 3,
+        "Portugal": 2,
+        "Russia": 2,
+        "Spain": 4,
+        "Sweden": 2,
+        "Thailand": 2,
+        "Ukraine": 3,
+        "United Kingdom": 8,
+        "United States": 5,
+        "Vietnam": 2,
+        "Czech Republic": 1,
+        "Hong Kong": 1,
+        "Iran": 1,
+        "South Korea": 6,
+        "Taiwan": 3,
+        "Lithuania": 1,
+        "Malaysia": 3,
+        "Switzerland": 2,
+        "Norway": 2,
+        "Bouvet Island": 1,
+        "Brunei": 1,
+        "Martinique": 1
+      }
     }
   ]
 }
