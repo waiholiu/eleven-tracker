@@ -17706,6 +17706,38 @@
         "Macedonia": 1,
         "Paraguay": 1
       }
+    },
+    {
+      "timestamp": "2026-04-04 04:28:38 UTC",
+      "total": 152,
+      "countries": {
+        "Australia": 1,
+        "Canada": 7,
+        "China": 14,
+        "India": 2,
+        "Israel": 1,
+        "Japan": 4,
+        "Mexico": 1,
+        "Nigeria": 1,
+        "Philippines": 1,
+        "Poland": 1,
+        "Russia": 1,
+        "Spain": 1,
+        "Thailand": 1,
+        "United Kingdom": 2,
+        "United States": 51,
+        "Chile": 3,
+        "South Korea": 4,
+        "Taiwan": 1,
+        "Trinidad and Tobago": 1,
+        "Turkey": 2,
+        "Iraq": 1,
+        "Palestinian Territories": 1,
+        "Singapore": 1,
+        "Uzbekistan": 1,
+        "Afghanistan": 1,
+        "Liberia": 1
+      }
     }
   ]
 }
