@@ -18941,6 +18941,51 @@
         "Azerbaijan": 1,
         "Saint Lucia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-05 12:52:10 UTC",
+      "total": 274,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 1,
+        "Australia": 9,
+        "Bahrain": 1,
+        "Belgium": 6,
+        "Brazil": 4,
+        "Canada": 2,
+        "China": 49,
+        "France": 16,
+        "Germany": 11,
+        "Greece": 1,
+        "India": 2,
+        "Israel": 4,
+        "Italy": 3,
+        "Japan": 6,
+        "Netherlands": 2,
+        "Russia": 4,
+        "Serbia": 1,
+        "Spain": 8,
+        "Sweden": 5,
+        "Ukraine": 4,
+        "United Kingdom": 15,
+        "United States": 4,
+        "South Korea": 10,
+        "Taiwan": 5,
+        "Turkey": 3,
+        "Lithuania": 1,
+        "Palestinian Territories": 1,
+        "British Indian Ocean Territory": 1,
+        "Micronesia": 1,
+        "New Zealand": 2,
+        "Latvia": 1,
+        "Finland": 1,
+        "Qatar": 1,
+        "Estonia": 1,
+        "Azerbaijan": 1,
+        "Saint Lucia": 1,
+        "Cayman Islands": 1,
+        "Antarctica": 1
+      }
     }
   ]
 }
