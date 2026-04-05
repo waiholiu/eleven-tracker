@@ -18567,6 +18567,36 @@
         "Macedonia": 1,
         "Cyprus": 1
       }
+    },
+    {
+      "timestamp": "2026-04-05 02:09:01 UTC",
+      "total": 197,
+      "countries": {
+        "Argentina": 2,
+        "Brazil": 4,
+        "Canada": 21,
+        "China": 11,
+        "Germany": 2,
+        "Greece": 1,
+        "Israel": 1,
+        "Japan": 1,
+        "Pakistan": 1,
+        "Philippines": 2,
+        "Puerto Rico": 1,
+        "Spain": 3,
+        "United Kingdom": 2,
+        "United States": 62,
+        "Vietnam": 1,
+        "South Korea": 5,
+        "Venezuela": 1,
+        "Romania": 1,
+        "Tunisia": 1,
+        "Senegal": 1,
+        "Jamaica": 1,
+        "New Zealand": 1,
+        "Finland": 1,
+        "Uruguay": 2
+      }
     }
   ]
 }
