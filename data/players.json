@@ -18629,6 +18629,36 @@
         "Afghanistan": 1,
         "Macedonia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-05 06:16:28 UTC",
+      "total": 110,
+      "countries": {
+        "Australia": 3,
+        "Brazil": 1,
+        "Canada": 2,
+        "China": 11,
+        "Germany": 1,
+        "India": 2,
+        "Indonesia": 1,
+        "Italy": 2,
+        "Japan": 5,
+        "Philippines": 1,
+        "Thailand": 1,
+        "United Kingdom": 1,
+        "United States": 17,
+        "Czech Republic": 1,
+        "Hong Kong": 1,
+        "South Korea": 6,
+        "Taiwan": 2,
+        "Turkey": 1,
+        "United Arab Emirates": 1,
+        "Micronesia": 2,
+        "Uzbekistan": 1,
+        "Nepal": 1,
+        "Nicaragua": 1,
+        "Slovenia": 1
+      }
     }
   ]
 }
