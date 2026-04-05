@@ -18597,6 +18597,38 @@
         "Finland": 1,
         "Uruguay": 2
       }
+    },
+    {
+      "timestamp": "2026-04-05 04:59:29 UTC",
+      "total": 142,
+      "countries": {
+        "Australia": 5,
+        "Brazil": 1,
+        "Canada": 14,
+        "China": 16,
+        "Colombia": 1,
+        "Germany": 1,
+        "Greece": 1,
+        "India": 2,
+        "Japan": 4,
+        "Mexico": 2,
+        "Puerto Rico": 1,
+        "Spain": 1,
+        "Sweden": 1,
+        "Thailand": 1,
+        "United States": 35,
+        "South Korea": 5,
+        "Venezuela": 2,
+        "Iraq": 1,
+        "Peru": 1,
+        "Singapore": 1,
+        "New Zealand": 1,
+        "Switzerland": 1,
+        "Latvia": 1,
+        "Norway": 1,
+        "Afghanistan": 1,
+        "Macedonia": 1
+      }
     }
   ]
 }
