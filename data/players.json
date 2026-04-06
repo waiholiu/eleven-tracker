@@ -20433,6 +20433,51 @@
         "Mauritius": 1,
         "Pitcairn Islands": 1
       }
+    },
+    {
+      "timestamp": "2026-04-06 19:51:27 UTC",
+      "total": 262,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 4,
+        "Austria": 3,
+        "Belgium": 4,
+        "Brazil": 5,
+        "Canada": 7,
+        "China": 2,
+        "Denmark": 4,
+        "Dominican Republic": 1,
+        "France": 20,
+        "Germany": 16,
+        "Greece": 2,
+        "Indonesia": 1,
+        "Ireland": 1,
+        "Israel": 5,
+        "Italy": 8,
+        "Japan": 1,
+        "Lebanon": 1,
+        "Mexico": 1,
+        "Netherlands": 6,
+        "Poland": 6,
+        "Russia": 2,
+        "Saudi Arabia": 1,
+        "Spain": 12,
+        "Sweden": 8,
+        "United Kingdom": 22,
+        "United States": 31,
+        "Belarus": 1,
+        "Iran": 1,
+        "Slovakia": 1,
+        "Iraq": 1,
+        "Kuwait": 1,
+        "Bangladesh": 1,
+        "Romania": 1,
+        "New Zealand": 1,
+        "Switzerland": 2,
+        "Norway": 3,
+        "Finland": 1,
+        "Georgia": 1
+      }
     }
   ]
 }
