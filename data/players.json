@@ -19808,6 +19808,36 @@
         "Faroe Islands": 1,
         "Azerbaijan": 1
       }
+    },
+    {
+      "timestamp": "2026-04-06 02:35:23 UTC",
+      "total": 189,
+      "countries": {
+        "Angola": 1,
+        "Australia": 4,
+        "Belgium": 1,
+        "Brazil": 8,
+        "Canada": 7,
+        "China": 12,
+        "Dominican Republic": 1,
+        "Indonesia": 1,
+        "Japan": 2,
+        "Mexico": 1,
+        "North Korea": 1,
+        "Philippines": 2,
+        "Poland": 1,
+        "Russia": 1,
+        "Saudi Arabia": 1,
+        "United States": 78,
+        "Andorra": 1,
+        "Hong Kong": 2,
+        "South Korea": 2,
+        "Trinidad and Tobago": 1,
+        "Palestinian Territories": 2,
+        "British Indian Ocean Territory": 2,
+        "Senegal": 1,
+        "Malaysia": 1
+      }
     }
   ]
 }
