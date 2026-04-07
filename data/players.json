@@ -20816,6 +20816,46 @@
         "Northern Mariana Islands": 1,
         "Fiji": 1
       }
+    },
+    {
+      "timestamp": "2026-04-07 10:13:08 UTC",
+      "total": 114,
+      "countries": {
+        "Australia": 5,
+        "Canada": 1,
+        "China": 16,
+        "France": 2,
+        "Germany": 8,
+        "Guadeloupe": 1,
+        "India": 2,
+        "Italy": 3,
+        "Japan": 8,
+        "Lebanon": 1,
+        "Netherlands": 2,
+        "Poland": 3,
+        "Portugal": 1,
+        "Russia": 1,
+        "Spain": 3,
+        "Ukraine": 1,
+        "United Kingdom": 6,
+        "United States": 5,
+        "Hong Kong": 1,
+        "Slovakia": 2,
+        "South Africa": 1,
+        "South Korea": 3,
+        "Taiwan": 1,
+        "Turkey": 1,
+        "Iraq": 1,
+        "Romania": 2,
+        "Singapore": 1,
+        "Bulgaria": 1,
+        "Malaysia": 1,
+        "Latvia": 1,
+        "Monaco": 1,
+        "Afghanistan": 1,
+        "Fiji": 1,
+        "Antarctica": 1
+      }
     }
   ]
 }
