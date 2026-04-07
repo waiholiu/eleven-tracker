@@ -20658,6 +20658,42 @@
         "Nicaragua": 1,
         "Slovenia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-07 02:06:20 UTC",
+      "total": 180,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 2,
+        "Australia": 4,
+        "Brazil": 1,
+        "Canada": 16,
+        "China": 5,
+        "Dominican Republic": 1,
+        "France": 1,
+        "Germany": 1,
+        "India": 2,
+        "Israel": 1,
+        "Italy": 1,
+        "Japan": 3,
+        "Mexico": 2,
+        "Poland": 1,
+        "Puerto Rico": 1,
+        "Spain": 1,
+        "Thailand": 1,
+        "United Kingdom": 2,
+        "United States": 58,
+        "Vietnam": 1,
+        "Chile": 1,
+        "South Korea": 2,
+        "United Arab Emirates": 1,
+        "Venezuela": 1,
+        "Morocco": 1,
+        "Afghanistan": 2,
+        "Gibraltar": 1,
+        "Azerbaijan": 1,
+        "Sri Lanka": 1
+      }
     }
   ]
 }
