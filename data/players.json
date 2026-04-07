@@ -21367,6 +21367,50 @@
         "Afghanistan": 1,
         "Christmas Island": 1
       }
+    },
+    {
+      "timestamp": "2026-04-07 23:05:38 UTC",
+      "total": 173,
+      "countries": {
+        "Angola": 1,
+        "Argentina": 2,
+        "Brazil": 8,
+        "Canada": 10,
+        "China": 3,
+        "Colombia": 1,
+        "Dominican Republic": 3,
+        "Egypt": 1,
+        "France": 2,
+        "Germany": 3,
+        "India": 1,
+        "Ireland": 1,
+        "Italy": 2,
+        "Japan": 1,
+        "Lebanon": 1,
+        "Mexico": 1,
+        "Puerto Rico": 1,
+        "Saudi Arabia": 1,
+        "Spain": 1,
+        "Sweden": 1,
+        "Ukraine": 2,
+        "United Kingdom": 7,
+        "United States": 54,
+        "Bahamas": 1,
+        "Hong Kong": 1,
+        "South Korea": 1,
+        "Taiwan": 1,
+        "Trinidad and Tobago": 1,
+        "Turkey": 1,
+        "Venezuela": 1,
+        "Romania": 1,
+        "Tunisia": 1,
+        "Jamaica": 2,
+        "Nepal": 1,
+        "\u00c5land Islands": 1,
+        "Estonia": 1,
+        "Jordan": 1,
+        "Cyprus": 1
+      }
     }
   ]
 }
