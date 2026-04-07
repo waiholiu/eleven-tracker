@@ -20856,6 +20856,49 @@
         "Fiji": 1,
         "Antarctica": 1
       }
+    },
+    {
+      "timestamp": "2026-04-07 11:28:53 UTC",
+      "total": 165,
+      "countries": {
+        "Australia": 6,
+        "Austria": 1,
+        "Belgium": 4,
+        "Brazil": 2,
+        "Canada": 1,
+        "China": 21,
+        "France": 5,
+        "Germany": 7,
+        "Greece": 1,
+        "India": 1,
+        "Indonesia": 1,
+        "Israel": 3,
+        "Italy": 2,
+        "Japan": 11,
+        "Nauru": 1,
+        "Netherlands": 1,
+        "Philippines": 1,
+        "Poland": 3,
+        "Portugal": 1,
+        "Russia": 4,
+        "Spain": 1,
+        "Sweden": 2,
+        "Ukraine": 4,
+        "United Kingdom": 6,
+        "United States": 6,
+        "Hong Kong": 2,
+        "South Korea": 6,
+        "Taiwan": 1,
+        "Turkey": 1,
+        "United Arab Emirates": 1,
+        "Albania": 1,
+        "Romania": 1,
+        "Jamaica": 1,
+        "Switzerland": 1,
+        "Norway": 1,
+        "Kazakhstan": 1,
+        "Swaziland": 1
+      }
     }
   ]
 }
