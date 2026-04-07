@@ -20721,6 +20721,36 @@
         "Cyprus": 1,
         "Bhutan": 1
       }
+    },
+    {
+      "timestamp": "2026-04-07 06:19:42 UTC",
+      "total": 73,
+      "countries": {
+        "Australia": 2,
+        "Bahrain": 1,
+        "Brazil": 1,
+        "Canada": 1,
+        "China": 5,
+        "Denmark": 1,
+        "France": 1,
+        "Germany": 1,
+        "India": 1,
+        "Israel": 1,
+        "Italy": 2,
+        "Mexico": 2,
+        "Philippines": 1,
+        "Poland": 1,
+        "Russia": 1,
+        "United Kingdom": 2,
+        "United States": 20,
+        "South Korea": 2,
+        "Taiwan": 2,
+        "Palestinian Territories": 1,
+        "Cook Islands": 1,
+        "New Zealand": 1,
+        "Malaysia": 1,
+        "Norway": 1
+      }
     }
   ]
 }
