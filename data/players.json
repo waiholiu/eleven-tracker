@@ -20751,6 +20751,37 @@
         "Malaysia": 1,
         "Norway": 1
       }
+    },
+    {
+      "timestamp": "2026-04-07 07:55:24 UTC",
+      "total": 82,
+      "countries": {
+        "Australia": 3,
+        "Austria": 1,
+        "China": 8,
+        "France": 1,
+        "Germany": 2,
+        "Indonesia": 1,
+        "Ireland": 1,
+        "Israel": 1,
+        "Japan": 5,
+        "Philippines": 1,
+        "Poland": 1,
+        "Russia": 2,
+        "Spain": 1,
+        "Sweden": 1,
+        "Thailand": 1,
+        "United Kingdom": 2,
+        "United States": 6,
+        "Vietnam": 1,
+        "South Africa": 1,
+        "South Korea": 4,
+        "Taiwan": 1,
+        "Turkey": 1,
+        "Romania": 1,
+        "Singapore": 1,
+        "New Zealand": 2
+      }
     }
   ]
 }
