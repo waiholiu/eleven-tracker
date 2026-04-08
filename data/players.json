@@ -22043,6 +22043,44 @@
         "Liechtenstein": 1,
         "Bolivia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-08 21:38:43 UTC",
+      "total": 178,
+      "countries": {
+        "Angola": 1,
+        "Argentina": 3,
+        "Austria": 2,
+        "Belgium": 1,
+        "Brazil": 2,
+        "Canada": 17,
+        "China": 2,
+        "Dominican Republic": 1,
+        "Egypt": 1,
+        "France": 2,
+        "Germany": 5,
+        "Ireland": 2,
+        "Italy": 4,
+        "Japan": 1,
+        "Lebanon": 1,
+        "Poland": 3,
+        "Portugal": 1,
+        "Puerto Rico": 1,
+        "Russia": 1,
+        "Spain": 8,
+        "Sweden": 1,
+        "Thailand": 1,
+        "United Kingdom": 19,
+        "United States": 30,
+        "Bahamas": 1,
+        "Czech Republic": 1,
+        "Taiwan": 1,
+        "Aruba": 1,
+        "Bangladesh": 1,
+        "Tunisia": 1,
+        "Hungary": 2,
+        "Guatemala": 1
+      }
     }
   ]
 }
