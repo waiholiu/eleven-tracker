@@ -21449,6 +21449,33 @@
         "Honduras": 1,
         "Faroe Islands": 1
       }
+    },
+    {
+      "timestamp": "2026-04-08 03:38:19 UTC",
+      "total": 126,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 2,
+        "Brazil": 2,
+        "Canada": 12,
+        "China": 10,
+        "Germany": 1,
+        "India": 5,
+        "Indonesia": 1,
+        "Japan": 2,
+        "Mexico": 5,
+        "Philippines": 1,
+        "Russia": 2,
+        "Serbia": 1,
+        "United States": 30,
+        "Bermuda": 1,
+        "South Korea": 3,
+        "Trinidad and Tobago": 2,
+        "Kuwait": 1,
+        "Uzbekistan": 1,
+        "Christmas Island": 1,
+        "Bolivia": 1
+      }
     }
   ]
 }
