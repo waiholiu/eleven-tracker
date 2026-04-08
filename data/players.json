@@ -21508,6 +21508,37 @@
         "Dominica": 1,
         "Paraguay": 1
       }
+    },
+    {
+      "timestamp": "2026-04-08 07:13:57 UTC",
+      "total": 75,
+      "countries": {
+        "Australia": 2,
+        "Canada": 1,
+        "China": 7,
+        "France": 4,
+        "Germany": 3,
+        "India": 1,
+        "Japan": 6,
+        "Lebanon": 1,
+        "Mexico": 1,
+        "Philippines": 1,
+        "Spain": 1,
+        "United Kingdom": 2,
+        "United States": 10,
+        "Vietnam": 1,
+        "South Africa": 1,
+        "South Korea": 4,
+        "Kuwait": 1,
+        "Palestinian Territories": 1,
+        "Cook Islands": 1,
+        "Jamaica": 1,
+        "Peru": 1,
+        "New Zealand": 2,
+        "Malaysia": 1,
+        "Cambodia": 1,
+        "Paraguay": 1
+      }
     }
   ]
 }
