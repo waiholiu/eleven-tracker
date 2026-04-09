@@ -22194,6 +22194,35 @@
         "Haiti": 1,
         "Togo": 1
       }
+    },
+    {
+      "timestamp": "2026-04-09 04:40:26 UTC",
+      "total": 86,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 2,
+        "Brazil": 1,
+        "Canada": 5,
+        "China": 7,
+        "El Salvador": 1,
+        "France": 1,
+        "Germany": 1,
+        "India": 1,
+        "Japan": 1,
+        "Mexico": 3,
+        "Philippines": 1,
+        "Puerto Rico": 1,
+        "United Kingdom": 1,
+        "United States": 24,
+        "Chile": 1,
+        "Hong Kong": 1,
+        "Taiwan": 1,
+        "Norway": 1,
+        "Afghanistan": 1,
+        "Haiti": 1,
+        "Cyprus": 1,
+        "Cayman Islands": 1
+      }
     }
   ]
 }
