@@ -22223,6 +22223,29 @@
         "Cyprus": 1,
         "Cayman Islands": 1
       }
+    },
+    {
+      "timestamp": "2026-04-09 06:19:37 UTC",
+      "total": 79,
+      "countries": {
+        "Angola": 1,
+        "Australia": 3,
+        "Belgium": 1,
+        "Brazil": 1,
+        "Canada": 1,
+        "China": 6,
+        "Germany": 4,
+        "India": 2,
+        "Japan": 2,
+        "Philippines": 3,
+        "Russia": 1,
+        "United Kingdom": 2,
+        "United States": 20,
+        "Hong Kong": 1,
+        "South Korea": 2,
+        "New Zealand": 1,
+        "Brunei": 1
+      }
     }
   ]
 }
