@@ -187,6 +187,7 @@
     "Taiwan",
     "Tanzania",
     "Thailand",
+    "Togo",
     "Tokelau",
     "Trinidad and Tobago",
     "Tunisia",
@@ -22163,6 +22164,35 @@
         "Georgia": 1,
         "Afghanistan": 1,
         "Bolivia": 1
+      }
+    },
+    {
+      "timestamp": "2026-04-09 01:59:24 UTC",
+      "total": 170,
+      "countries": {
+        "Argentina": 4,
+        "Australia": 1,
+        "Brazil": 8,
+        "Canada": 17,
+        "China": 9,
+        "France": 1,
+        "Germany": 1,
+        "Lebanon": 1,
+        "Mexico": 2,
+        "Portugal": 1,
+        "Puerto Rico": 2,
+        "Spain": 1,
+        "United Kingdom": 2,
+        "United States": 61,
+        "Vietnam": 1,
+        "Chile": 2,
+        "Hong Kong": 1,
+        "South Korea": 3,
+        "Tunisia": 1,
+        "Malaysia": 1,
+        "Jordan": 1,
+        "Haiti": 1,
+        "Togo": 1
       }
     }
   ]
