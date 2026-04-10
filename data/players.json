@@ -22330,6 +22330,50 @@
         "Uruguay": 1,
         "Honduras": 1
       }
+    },
+    {
+      "timestamp": "2026-04-10 22:34:14 UTC",
+      "total": 203,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 4,
+        "Australia": 1,
+        "Brazil": 9,
+        "Canada": 19,
+        "China": 3,
+        "Denmark": 2,
+        "Dominican Republic": 2,
+        "El Salvador": 2,
+        "France": 11,
+        "Germany": 7,
+        "India": 1,
+        "Ireland": 2,
+        "Israel": 1,
+        "Italy": 3,
+        "Netherlands": 2,
+        "Philippines": 2,
+        "Poland": 3,
+        "Portugal": 1,
+        "Puerto Rico": 2,
+        "Russia": 2,
+        "Serbia": 1,
+        "Spain": 8,
+        "Sweden": 1,
+        "United Kingdom": 6,
+        "United States": 49,
+        "Chile": 2,
+        "Czech Republic": 1,
+        "South Korea": 2,
+        "Turkey": 3,
+        "United Arab Emirates": 1,
+        "Kuwait": 1,
+        "Palestinian Territories": 1,
+        "Cuba": 1,
+        "Guyana": 1,
+        "Bulgaria": 1,
+        "Hungary": 1,
+        "Jordan": 1
+      }
     }
   ]
 }
