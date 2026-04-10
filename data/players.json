@@ -22374,6 +22374,47 @@
         "Hungary": 1,
         "Jordan": 1
       }
+    },
+    {
+      "timestamp": "2026-04-10 23:32:24 UTC",
+      "total": 185,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 1,
+        "Brazil": 11,
+        "Canada": 12,
+        "China": 7,
+        "Colombia": 1,
+        "Dominican Republic": 1,
+        "Egypt": 1,
+        "El Salvador": 1,
+        "France": 5,
+        "Germany": 4,
+        "India": 1,
+        "Ireland": 2,
+        "Israel": 1,
+        "Japan": 1,
+        "Lebanon": 1,
+        "Mexico": 2,
+        "Poland": 1,
+        "Saudi Arabia": 1,
+        "Spain": 1,
+        "Sweden": 1,
+        "United Kingdom": 11,
+        "United States": 52,
+        "Belarus": 1,
+        "Chile": 2,
+        "Iran": 1,
+        "Turkey": 2,
+        "Iraq": 1,
+        "Palestinian Territories": 1,
+        "Romania": 2,
+        "Finland": 1,
+        "Qatar": 1,
+        "Uruguay": 1,
+        "Djibouti": 1,
+        "Cameroon": 1
+      }
     }
   ]
 }
