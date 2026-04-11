@@ -22520,6 +22520,34 @@
         "Haiti": 1,
         "Honduras": 1
       }
+    },
+    {
+      "timestamp": "2026-04-11 06:57:55 UTC",
+      "total": 105,
+      "countries": {
+        "Australia": 1,
+        "Austria": 1,
+        "Bahrain": 1,
+        "Canada": 1,
+        "China": 17,
+        "France": 3,
+        "Germany": 3,
+        "India": 3,
+        "Israel": 1,
+        "Italy": 2,
+        "Japan": 12,
+        "Philippines": 1,
+        "Russia": 1,
+        "Sweden": 3,
+        "United States": 15,
+        "South Korea": 5,
+        "Turkey": 1,
+        "Bangladesh": 1,
+        "New Zealand": 1,
+        "Finland": 1,
+        "Kazakhstan": 1,
+        "Macedonia": 1
+      }
     }
   ]
 }
