@@ -22492,6 +22492,34 @@
         "Estonia": 1,
         "Jordan": 1
       }
+    },
+    {
+      "timestamp": "2026-04-11 05:44:22 UTC",
+      "total": 115,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 3,
+        "Canada": 4,
+        "China": 13,
+        "Germany": 1,
+        "India": 3,
+        "Ireland": 1,
+        "Japan": 6,
+        "Mexico": 3,
+        "Philippines": 1,
+        "Saudi Arabia": 1,
+        "United States": 24,
+        "Hong Kong": 1,
+        "Slovakia": 1,
+        "South Korea": 12,
+        "Taiwan": 2,
+        "Cook Islands": 3,
+        "New Zealand": 2,
+        "Georgia": 1,
+        "Afghanistan": 1,
+        "Haiti": 1,
+        "Honduras": 1
+      }
     }
   ]
 }
