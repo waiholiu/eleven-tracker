@@ -22590,6 +22590,46 @@
         "Saint Lucia": 1,
         "Guinea-Bissau": 1
       }
+    },
+    {
+      "timestamp": "2026-04-11 08:39:01 UTC",
+      "total": 129,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 4,
+        "Belgium": 3,
+        "Brazil": 1,
+        "Canada": 1,
+        "China": 19,
+        "Denmark": 1,
+        "France": 6,
+        "Germany": 11,
+        "Guadeloupe": 1,
+        "India": 3,
+        "Israel": 1,
+        "Italy": 2,
+        "Japan": 7,
+        "Netherlands": 1,
+        "North Korea": 1,
+        "Poland": 1,
+        "Portugal": 1,
+        "Russia": 1,
+        "Spain": 4,
+        "Sweden": 1,
+        "Thailand": 2,
+        "United Kingdom": 2,
+        "United States": 9,
+        "Czech Republic": 1,
+        "South Korea": 4,
+        "Turkey": 1,
+        "Romania": 1,
+        "Tunisia": 1,
+        "Singapore": 1,
+        "New Zealand": 1,
+        "Malaysia": 2,
+        "Norway": 1,
+        "Kazakhstan": 1
+      }
     }
   ]
 }
