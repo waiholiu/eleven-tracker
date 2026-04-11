@@ -22548,6 +22548,48 @@
         "Kazakhstan": 1,
         "Macedonia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-11 07:52:51 UTC",
+      "total": 125,
+      "countries": {
+        "American Samoa": 1,
+        "Austria": 1,
+        "Brazil": 1,
+        "China": 17,
+        "Dominican Republic": 2,
+        "Egypt": 1,
+        "France": 6,
+        "Germany": 2,
+        "Indonesia": 2,
+        "Ireland": 1,
+        "Israel": 1,
+        "Italy": 5,
+        "Japan": 17,
+        "Netherlands": 1,
+        "Nigeria": 1,
+        "Spain": 2,
+        "Sweden": 2,
+        "Ukraine": 2,
+        "United States": 16,
+        "Andorra": 1,
+        "Czech Republic": 1,
+        "Iran": 1,
+        "South Korea": 5,
+        "Albania": 1,
+        "Palestinian Territories": 1,
+        "Bangladesh": 1,
+        "British Indian Ocean Territory": 1,
+        "Romania": 2,
+        "Singapore": 1,
+        "New Zealand": 1,
+        "Malaysia": 1,
+        "Finland": 1,
+        "Kazakhstan": 1,
+        "Uruguay": 1,
+        "Saint Lucia": 1,
+        "Guinea-Bissau": 1
+      }
     }
   ]
 }
