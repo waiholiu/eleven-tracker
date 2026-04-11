@@ -22725,6 +22725,52 @@
         "Djibouti": 1,
         "Fiji": 1
       }
+    },
+    {
+      "timestamp": "2026-04-11 11:27:50 UTC",
+      "total": 185,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 6,
+        "Austria": 4,
+        "Brazil": 2,
+        "Canada": 1,
+        "China": 32,
+        "Denmark": 2,
+        "Egypt": 1,
+        "France": 8,
+        "Germany": 5,
+        "India": 4,
+        "Indonesia": 2,
+        "Ireland": 1,
+        "Israel": 1,
+        "Italy": 7,
+        "Japan": 9,
+        "Philippines": 1,
+        "Poland": 6,
+        "Portugal": 1,
+        "Russia": 2,
+        "Spain": 6,
+        "Sweden": 2,
+        "Thailand": 1,
+        "Ukraine": 3,
+        "United Kingdom": 6,
+        "United States": 6,
+        "Czech Republic": 2,
+        "Hong Kong": 1,
+        "Iran": 1,
+        "South Korea": 11,
+        "Turkey": 2,
+        "United Arab Emirates": 2,
+        "Aruba": 1,
+        "Romania": 1,
+        "Tunisia": 1,
+        "Switzerland": 1,
+        "Latvia": 1,
+        "Norway": 1,
+        "Qatar": 1,
+        "Brunei": 1
+      }
     }
   ]
 }
