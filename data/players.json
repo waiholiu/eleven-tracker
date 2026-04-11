@@ -22415,6 +22415,52 @@
         "Djibouti": 1,
         "Cameroon": 1
       }
+    },
+    {
+      "timestamp": "2026-04-11 01:59:54 UTC",
+      "total": 222,
+      "countries": {
+        "Angola": 1,
+        "Argentina": 3,
+        "Australia": 3,
+        "Brazil": 3,
+        "Canada": 17,
+        "China": 7,
+        "Colombia": 1,
+        "Germany": 4,
+        "India": 5,
+        "Ireland": 1,
+        "Italy": 2,
+        "Japan": 8,
+        "Mexico": 1,
+        "Pakistan": 1,
+        "Philippines": 1,
+        "Poland": 2,
+        "Puerto Rico": 3,
+        "Spain": 1,
+        "Sweden": 1,
+        "United Kingdom": 3,
+        "United States": 78,
+        "Bermuda": 1,
+        "Chile": 2,
+        "Hong Kong": 1,
+        "Iran": 1,
+        "South Korea": 6,
+        "Taiwan": 1,
+        "Grenada": 1,
+        "Kuwait": 1,
+        "Palestinian Territories": 2,
+        "British Indian Ocean Territory": 1,
+        "Peru": 1,
+        "Armenia": 1,
+        "Malaysia": 1,
+        "Kazakhstan": 1,
+        "Kenya": 1,
+        "Ecuador": 1,
+        "Costa Rica": 1,
+        "Sri Lanka": 1,
+        "Sudan": 1
+      }
     }
   ]
 }
