@@ -24550,6 +24550,44 @@
         "British Virgin Islands": 1,
         "Jersey": 2
       }
+    },
+    {
+      "timestamp": "2026-04-12 23:31:43 UTC",
+      "total": 163,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 6,
+        "Belgium": 1,
+        "Brazil": 3,
+        "Canada": 13,
+        "China": 5,
+        "Dominican Republic": 2,
+        "France": 4,
+        "Germany": 1,
+        "India": 2,
+        "Ireland": 2,
+        "Israel": 1,
+        "Italy": 4,
+        "Mexico": 3,
+        "Netherlands": 1,
+        "Poland": 1,
+        "Portugal": 1,
+        "Puerto Rico": 2,
+        "Serbia": 1,
+        "Spain": 3,
+        "United Kingdom": 4,
+        "United States": 61,
+        "Bermuda": 1,
+        "Chile": 2,
+        "Turkey": 1,
+        "Cuba": 1,
+        "Tunisia": 1,
+        "Peru": 1,
+        "Armenia": 1,
+        "Hungary": 1,
+        "Djibouti": 1,
+        "Faroe Islands": 1
+      }
     }
   ]
 }
