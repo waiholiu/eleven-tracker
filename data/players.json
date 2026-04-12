@@ -24461,6 +24461,51 @@
         "Liechtenstein": 1,
         "Norfolk Island": 1
       }
+    },
+    {
+      "timestamp": "2026-04-12 21:31:37 UTC",
+      "total": 211,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 1,
+        "Austria": 2,
+        "Belgium": 1,
+        "Brazil": 9,
+        "Canada": 10,
+        "China": 3,
+        "Dominican Republic": 2,
+        "Egypt": 1,
+        "France": 11,
+        "Germany": 10,
+        "India": 3,
+        "Israel": 1,
+        "Italy": 5,
+        "Japan": 1,
+        "Mexico": 1,
+        "Poland": 2,
+        "Portugal": 2,
+        "Russia": 2,
+        "Saudi Arabia": 2,
+        "Spain": 5,
+        "Sweden": 2,
+        "Ukraine": 4,
+        "United Kingdom": 9,
+        "United States": 46,
+        "Vietnam": 1,
+        "Chile": 2,
+        "Taiwan": 1,
+        "Trinidad and Tobago": 1,
+        "Turkey": 2,
+        "Venezuela": 1,
+        "Algeria": 1,
+        "Kuwait": 1,
+        "Romania": 2,
+        "Armenia": 1,
+        "Bulgaria": 1,
+        "Switzerland": 2,
+        "Uruguay": 1,
+        "Liberia": 1
+      }
     }
   ]
 }
