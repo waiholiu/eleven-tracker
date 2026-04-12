@@ -23599,6 +23599,46 @@
         "Ecuador": 1,
         "Fiji": 1
       }
+    },
+    {
+      "timestamp": "2026-04-12 02:13:28 UTC",
+      "total": 181,
+      "countries": {
+        "Angola": 1,
+        "Argentina": 1,
+        "Austria": 1,
+        "Brazil": 9,
+        "Canada": 15,
+        "China": 20,
+        "Colombia": 2,
+        "Dominican Republic": 1,
+        "France": 1,
+        "Germany": 1,
+        "India": 2,
+        "Italy": 1,
+        "Japan": 2,
+        "Mexico": 1,
+        "Philippines": 4,
+        "Puerto Rico": 2,
+        "Serbia": 1,
+        "Spain": 1,
+        "United Kingdom": 3,
+        "United States": 56,
+        "Vietnam": 1,
+        "Bahamas": 1,
+        "Iran": 1,
+        "South Korea": 3,
+        "Taiwan": 1,
+        "Aruba": 1,
+        "Romania": 1,
+        "New Zealand": 2,
+        "Georgia": 1,
+        "Gibraltar": 1,
+        "Nicaragua": 1,
+        "Azerbaijan": 1,
+        "Brunei": 1,
+        "Guinea-Bissau": 1
+      }
     }
   ]
 }
