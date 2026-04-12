@@ -23668,6 +23668,43 @@
         "Honduras": 1,
         "Macedonia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-12 06:52:27 UTC",
+      "total": 150,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 11,
+        "Belgium": 1,
+        "Canada": 2,
+        "China": 20,
+        "Colombia": 1,
+        "France": 2,
+        "Germany": 7,
+        "India": 2,
+        "Italy": 2,
+        "Japan": 12,
+        "Mexico": 3,
+        "Philippines": 2,
+        "Poland": 1,
+        "Puerto Rico": 1,
+        "Russia": 1,
+        "Thailand": 2,
+        "United States": 27,
+        "Chile": 1,
+        "Iran": 1,
+        "Slovakia": 1,
+        "South Korea": 6,
+        "Taiwan": 1,
+        "Albania": 1,
+        "Lithuania": 1,
+        "Uzbekistan": 1,
+        "New Zealand": 1,
+        "Kazakhstan": 1,
+        "Jordan": 1,
+        "Nicaragua": 1,
+        "Macedonia": 1
+      }
     }
   ]
 }
