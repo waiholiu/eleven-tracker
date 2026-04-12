@@ -23786,6 +23786,50 @@
         "Uruguay": 1,
         "Macedonia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-12 10:05:39 UTC",
+      "total": 183,
+      "countries": {
+        "Angola": 1,
+        "Argentina": 1,
+        "Australia": 9,
+        "Austria": 1,
+        "Brazil": 1,
+        "Canada": 1,
+        "China": 26,
+        "France": 5,
+        "Germany": 13,
+        "Indonesia": 1,
+        "Italy": 7,
+        "Japan": 8,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "Philippines": 3,
+        "Poland": 5,
+        "Portugal": 1,
+        "Russia": 1,
+        "Spain": 7,
+        "Sweden": 4,
+        "Ukraine": 3,
+        "United Kingdom": 9,
+        "United States": 7,
+        "Belarus": 2,
+        "Chile": 1,
+        "Czech Republic": 3,
+        "Hong Kong": 1,
+        "South Korea": 8,
+        "Turkey": 1,
+        "Oman": 1,
+        "Bangladesh": 1,
+        "Singapore": 1,
+        "New Zealand": 2,
+        "Switzerland": 3,
+        "Kazakhstan": 1,
+        "Estonia": 1,
+        "Jordan": 1,
+        "Uruguay": 1
+      }
     }
   ]
 }
