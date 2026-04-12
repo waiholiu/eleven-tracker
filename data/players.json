@@ -23639,6 +23639,35 @@
         "Brunei": 1,
         "Guinea-Bissau": 1
       }
+    },
+    {
+      "timestamp": "2026-04-12 05:09:51 UTC",
+      "total": 127,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 2,
+        "Australia": 3,
+        "Brazil": 1,
+        "Canada": 2,
+        "China": 14,
+        "El Salvador": 1,
+        "Japan": 11,
+        "Mexico": 3,
+        "Pakistan": 1,
+        "Philippines": 2,
+        "Thailand": 1,
+        "Ukraine": 1,
+        "United Kingdom": 1,
+        "United States": 33,
+        "Czech Republic": 1,
+        "South Korea": 7,
+        "Tunisia": 1,
+        "Cook Islands": 1,
+        "New Zealand": 2,
+        "\u00c5land Islands": 1,
+        "Honduras": 1,
+        "Macedonia": 1
+      }
     }
   ]
 }
