@@ -23744,6 +23744,48 @@
         "Fiji": 1,
         "New Caledonia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-12 09:11:03 UTC",
+      "total": 158,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 6,
+        "Belgium": 1,
+        "Canada": 1,
+        "China": 23,
+        "France": 10,
+        "Germany": 6,
+        "India": 2,
+        "Indonesia": 2,
+        "Israel": 1,
+        "Italy": 5,
+        "Japan": 8,
+        "Mexico": 1,
+        "Netherlands": 3,
+        "Philippines": 1,
+        "Poland": 3,
+        "Portugal": 1,
+        "Russia": 2,
+        "Serbia": 1,
+        "Spain": 8,
+        "Ukraine": 1,
+        "United Kingdom": 5,
+        "United States": 14,
+        "Belarus": 1,
+        "Czech Republic": 2,
+        "South Africa": 1,
+        "South Korea": 10,
+        "Turkey": 1,
+        "Algeria": 1,
+        "Barbados": 1,
+        "New Zealand": 2,
+        "Switzerland": 1,
+        "Norway": 1,
+        "Kazakhstan": 2,
+        "Uruguay": 1,
+        "Macedonia": 1
+      }
     }
   ]
 }
