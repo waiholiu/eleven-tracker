@@ -24506,6 +24506,50 @@
         "Uruguay": 1,
         "Liberia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-12 22:30:22 UTC",
+      "total": 205,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 5,
+        "Australia": 2,
+        "Austria": 2,
+        "Belgium": 1,
+        "Brazil": 9,
+        "Canada": 10,
+        "China": 5,
+        "Dominican Republic": 1,
+        "Egypt": 1,
+        "El Salvador": 1,
+        "France": 7,
+        "Germany": 5,
+        "Indonesia": 1,
+        "Ireland": 2,
+        "Israel": 1,
+        "Italy": 2,
+        "Japan": 1,
+        "Lebanon": 1,
+        "Mexico": 3,
+        "Netherlands": 1,
+        "Philippines": 2,
+        "Poland": 2,
+        "Portugal": 1,
+        "Russia": 1,
+        "Serbia": 1,
+        "Spain": 6,
+        "United Kingdom": 5,
+        "United States": 77,
+        "Trinidad and Tobago": 1,
+        "Turkey": 1,
+        "Barbados": 1,
+        "New Zealand": 1,
+        "Armenia": 1,
+        "Switzerland": 1,
+        "Antigua and Barbuda": 1,
+        "British Virgin Islands": 1,
+        "Jersey": 2
+      }
     }
   ]
 }
