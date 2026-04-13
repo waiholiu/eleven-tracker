@@ -24679,6 +24679,44 @@
         "Nepal": 1,
         "Kenya": 1
       }
+    },
+    {
+      "timestamp": "2026-04-13 09:19:16 UTC",
+      "total": 100,
+      "countries": {
+        "Australia": 5,
+        "Belgium": 1,
+        "Brazil": 1,
+        "China": 13,
+        "France": 7,
+        "Germany": 3,
+        "Ireland": 2,
+        "Israel": 1,
+        "Italy": 2,
+        "Japan": 5,
+        "Philippines": 2,
+        "Poland": 2,
+        "Sweden": 1,
+        "Thailand": 2,
+        "United Kingdom": 2,
+        "United States": 4,
+        "Belarus": 1,
+        "Czech Republic": 1,
+        "South Korea": 6,
+        "Albania": 1,
+        "Algeria": 1,
+        "Kuwait": 1,
+        "Bangladesh": 1,
+        "Singapore": 1,
+        "New Zealand": 2,
+        "Armenia": 1,
+        "Malaysia": 2,
+        "Switzerland": 1,
+        "Monaco": 1,
+        "Norway": 1,
+        "Kazakhstan": 1,
+        "French Polynesia": 1
+      }
     }
   ]
 }
