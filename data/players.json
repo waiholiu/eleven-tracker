@@ -24588,6 +24588,35 @@
         "Djibouti": 1,
         "Faroe Islands": 1
       }
+    },
+    {
+      "timestamp": "2026-04-13 02:26:20 UTC",
+      "total": 152,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 3,
+        "Brazil": 6,
+        "Canada": 15,
+        "China": 8,
+        "Croatia": 1,
+        "France": 1,
+        "Germany": 1,
+        "Italy": 1,
+        "Japan": 4,
+        "Mexico": 4,
+        "Philippines": 3,
+        "United Kingdom": 1,
+        "United States": 63,
+        "Vietnam": 1,
+        "South Korea": 4,
+        "Taiwan": 2,
+        "Turkey": 1,
+        "Armenia": 1,
+        "Finland": 1,
+        "Antigua and Barbuda": 1,
+        "Kenya": 1,
+        "Azerbaijan": 1
+      }
     }
   ]
 }
