@@ -25477,6 +25477,50 @@
         "Jordan": 1,
         "Saint Vincent and the Grenadines": 1
       }
+    },
+    {
+      "timestamp": "2026-04-14 13:22:22 UTC",
+      "total": 182,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 4,
+        "Brazil": 1,
+        "Canada": 1,
+        "China": 47,
+        "France": 11,
+        "Germany": 7,
+        "Greece": 1,
+        "India": 1,
+        "Israel": 1,
+        "Italy": 3,
+        "Japan": 8,
+        "Lebanon": 2,
+        "Netherlands": 4,
+        "Pakistan": 1,
+        "Poland": 2,
+        "Puerto Rico": 1,
+        "Russia": 1,
+        "Spain": 1,
+        "Sweden": 4,
+        "Ukraine": 3,
+        "United Kingdom": 7,
+        "United States": 8,
+        "Belarus": 1,
+        "Chile": 1,
+        "Hong Kong": 1,
+        "South Africa": 1,
+        "South Korea": 11,
+        "Taiwan": 2,
+        "Turkey": 2,
+        "Palestinian Territories": 1,
+        "Singapore": 1,
+        "Bulgaria": 1,
+        "Malaysia": 1,
+        "Kazakhstan": 1,
+        "Afghanistan": 1,
+        "Hungary": 1,
+        "Saint Vincent and the Grenadines": 1
+      }
     }
   ]
 }
