@@ -25307,6 +25307,41 @@
         "Saint Vincent and the Grenadines": 1,
         "Paraguay": 1
       }
+    },
+    {
+      "timestamp": "2026-04-14 07:57:26 UTC",
+      "total": 99,
+      "countries": {
+        "Angola": 1,
+        "Australia": 5,
+        "Brazil": 2,
+        "Canada": 1,
+        "China": 8,
+        "Colombia": 1,
+        "Denmark": 1,
+        "France": 3,
+        "Germany": 3,
+        "Greece": 1,
+        "India": 2,
+        "Indonesia": 2,
+        "Ireland": 1,
+        "Israel": 1,
+        "Japan": 14,
+        "Nigeria": 1,
+        "Philippines": 1,
+        "Poland": 2,
+        "Thailand": 2,
+        "Ukraine": 2,
+        "United Kingdom": 1,
+        "United States": 13,
+        "Hong Kong": 1,
+        "South Korea": 5,
+        "Turkey": 1,
+        "Tunisia": 1,
+        "Singapore": 1,
+        "Kyrgyzstan": 1,
+        "Saint Vincent and the Grenadines": 1
+      }
     }
   ]
 }
