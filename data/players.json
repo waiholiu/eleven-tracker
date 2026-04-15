@@ -26073,6 +26073,44 @@
         "Kazakhstan": 1,
         "Christmas Island": 1
       }
+    },
+    {
+      "timestamp": "2026-04-15 09:26:51 UTC",
+      "total": 101,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 4,
+        "Belgium": 2,
+        "Brazil": 2,
+        "Canada": 1,
+        "China": 14,
+        "France": 4,
+        "Germany": 5,
+        "India": 2,
+        "Indonesia": 1,
+        "Italy": 2,
+        "Japan": 7,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "North Korea": 1,
+        "Poland": 1,
+        "Russia": 3,
+        "Spain": 1,
+        "Sweden": 1,
+        "Thailand": 1,
+        "United Kingdom": 2,
+        "United States": 6,
+        "Iran": 1,
+        "South Korea": 3,
+        "Albania": 1,
+        "Malaysia": 2,
+        "Monaco": 1,
+        "Norway": 1,
+        "Kazakhstan": 2,
+        "Nepal": 1,
+        "Gibraltar": 1,
+        "Fiji": 1
+      }
     }
   ]
 }
