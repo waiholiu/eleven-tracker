@@ -26111,6 +26111,42 @@
         "Gibraltar": 1,
         "Fiji": 1
       }
+    },
+    {
+      "timestamp": "2026-04-15 10:42:20 UTC",
+      "total": 119,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 3,
+        "Belgium": 1,
+        "Burundi": 1,
+        "China": 23,
+        "Egypt": 2,
+        "France": 7,
+        "Germany": 3,
+        "India": 2,
+        "Ireland": 3,
+        "Israel": 1,
+        "Italy": 1,
+        "Japan": 6,
+        "Poland": 2,
+        "Russia": 2,
+        "Spain": 2,
+        "Sweden": 2,
+        "Ukraine": 1,
+        "United Kingdom": 6,
+        "United States": 3,
+        "South Korea": 7,
+        "Taiwan": 2,
+        "Bangladesh": 1,
+        "Romania": 1,
+        "Malaysia": 2,
+        "Switzerland": 1,
+        "Norway": 1,
+        "Nepal": 1,
+        "Kenya": 1,
+        "Fiji": 1
+      }
     }
   ]
 }
