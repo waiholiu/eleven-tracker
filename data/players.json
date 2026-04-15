@@ -25989,6 +25989,37 @@
         "Costa Rica": 1,
         "Greenland": 1
       }
+    },
+    {
+      "timestamp": "2026-04-15 03:47:04 UTC",
+      "total": 120,
+      "countries": {
+        "Angola": 1,
+        "Argentina": 2,
+        "Australia": 3,
+        "Brazil": 1,
+        "Canada": 5,
+        "China": 9,
+        "Dominican Republic": 1,
+        "El Salvador": 1,
+        "Germany": 1,
+        "India": 1,
+        "Indonesia": 1,
+        "Italy": 1,
+        "Japan": 3,
+        "Mexico": 3,
+        "Philippines": 1,
+        "Puerto Rico": 1,
+        "Thailand": 1,
+        "Ukraine": 1,
+        "United States": 49,
+        "Hong Kong": 1,
+        "South Korea": 1,
+        "Uzbekistan": 1,
+        "Norway": 1,
+        "Nepal": 1,
+        "Greenland": 1
+      }
     }
   ]
 }
