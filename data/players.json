@@ -26020,6 +26020,32 @@
         "Nepal": 1,
         "Greenland": 1
       }
+    },
+    {
+      "timestamp": "2026-04-15 05:58:39 UTC",
+      "total": 79,
+      "countries": {
+        "Argentina": 1,
+        "Canada": 3,
+        "China": 9,
+        "Germany": 2,
+        "Greece": 1,
+        "India": 1,
+        "Japan": 5,
+        "Lebanon": 1,
+        "Philippines": 1,
+        "Spain": 1,
+        "Sweden": 1,
+        "Thailand": 2,
+        "United Kingdom": 2,
+        "United States": 19,
+        "Bahamas": 1,
+        "Hong Kong": 1,
+        "Taiwan": 3,
+        "Bangladesh": 1,
+        "Micronesia": 1,
+        "Armenia": 1
+      }
     }
   ]
 }
