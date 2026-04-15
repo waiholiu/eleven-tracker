@@ -26046,6 +26046,33 @@
         "Micronesia": 1,
         "Armenia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-15 07:58:28 UTC",
+      "total": 75,
+      "countries": {
+        "Argentina": 3,
+        "Australia": 8,
+        "China": 11,
+        "Croatia": 2,
+        "France": 3,
+        "Germany": 3,
+        "India": 1,
+        "Italy": 1,
+        "Japan": 4,
+        "Poland": 2,
+        "Russia": 1,
+        "Saudi Arabia": 2,
+        "Spain": 1,
+        "Ukraine": 3,
+        "United States": 6,
+        "South Africa": 1,
+        "South Korea": 2,
+        "Lithuania": 1,
+        "Tunisia": 1,
+        "Kazakhstan": 1,
+        "Christmas Island": 1
+      }
     }
   ]
 }
