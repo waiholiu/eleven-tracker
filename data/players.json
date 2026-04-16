@@ -27331,6 +27331,52 @@
         "Jordan": 1,
         "Nicaragua": 1
       }
+    },
+    {
+      "timestamp": "2026-04-16 23:08:19 UTC",
+      "total": 168,
+      "countries": {
+        "American Samoa": 1,
+        "Angola": 1,
+        "Argentina": 3,
+        "Australia": 2,
+        "Belgium": 1,
+        "Brazil": 7,
+        "Canada": 13,
+        "China": 5,
+        "Dominican Republic": 1,
+        "El Salvador": 1,
+        "France": 4,
+        "Germany": 2,
+        "Indonesia": 1,
+        "Ireland": 3,
+        "Japan": 3,
+        "Mexico": 3,
+        "Netherlands": 1,
+        "North Korea": 1,
+        "Pakistan": 1,
+        "Poland": 2,
+        "Portugal": 2,
+        "Saudi Arabia": 1,
+        "Spain": 2,
+        "Ukraine": 2,
+        "United Kingdom": 8,
+        "United States": 62,
+        "Belarus": 1,
+        "Bermuda": 1,
+        "Chile": 1,
+        "Trinidad and Tobago": 1,
+        "Morocco": 1,
+        "Aruba": 1,
+        "Peru": 2,
+        "Switzerland": 1,
+        "Zimbabwe": 1,
+        "\u00c5land Islands": 1,
+        "Antigua and Barbuda": 1,
+        "Christmas Island": 1,
+        "Honduras": 1,
+        "Liberia": 1
+      }
     }
   ]
 }
