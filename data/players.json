@@ -26722,6 +26722,32 @@
         "British Virgin Islands": 1,
         "Cameroon": 1
       }
+    },
+    {
+      "timestamp": "2026-04-16 03:52:39 UTC",
+      "total": 111,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 2,
+        "Brazil": 5,
+        "Canada": 7,
+        "China": 5,
+        "Colombia": 1,
+        "India": 2,
+        "Indonesia": 1,
+        "Japan": 3,
+        "Philippines": 2,
+        "Puerto Rico": 1,
+        "United Kingdom": 1,
+        "United States": 46,
+        "South Korea": 1,
+        "Trinidad and Tobago": 1,
+        "Palestinian Territories": 1,
+        "Singapore": 2,
+        "Uzbekistan": 1,
+        "Jordan": 1,
+        "Haiti": 1
+      }
     }
   ]
 }
