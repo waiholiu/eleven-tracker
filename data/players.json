@@ -26782,6 +26782,46 @@
         "Kenya": 1,
         "Cyprus": 1
       }
+    },
+    {
+      "timestamp": "2026-04-16 08:00:26 UTC",
+      "total": 89,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 4,
+        "Brazil": 1,
+        "Canada": 1,
+        "China": 12,
+        "Denmark": 1,
+        "Dominican Republic": 1,
+        "France": 5,
+        "India": 1,
+        "Indonesia": 1,
+        "Italy": 2,
+        "Japan": 2,
+        "Nigeria": 1,
+        "Philippines": 1,
+        "Poland": 1,
+        "Russia": 1,
+        "Spain": 2,
+        "Sweden": 2,
+        "Thailand": 2,
+        "Ukraine": 2,
+        "United Kingdom": 4,
+        "United States": 5,
+        "Hong Kong": 1,
+        "South Africa": 2,
+        "South Korea": 1,
+        "United Arab Emirates": 1,
+        "Iraq": 1,
+        "Bangladesh": 1,
+        "Romania": 1,
+        "Malaysia": 1,
+        "Switzerland": 1,
+        "Estonia": 1,
+        "Jordan": 1,
+        "Kenya": 1
+      }
     }
   ]
 }
