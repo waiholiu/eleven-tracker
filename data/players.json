@@ -26748,6 +26748,40 @@
         "Jordan": 1,
         "Haiti": 1
       }
+    },
+    {
+      "timestamp": "2026-04-16 05:59:16 UTC",
+      "total": 84,
+      "countries": {
+        "Argentina": 3,
+        "Australia": 2,
+        "Canada": 2,
+        "China": 10,
+        "Egypt": 1,
+        "Germany": 1,
+        "Greece": 1,
+        "Indonesia": 1,
+        "Japan": 1,
+        "Lebanon": 1,
+        "Mexico": 1,
+        "Philippines": 2,
+        "Ukraine": 1,
+        "United Kingdom": 1,
+        "United States": 20,
+        "Bahamas": 1,
+        "South Korea": 3,
+        "Taiwan": 1,
+        "Trinidad and Tobago": 1,
+        "Turkey": 1,
+        "Micronesia": 1,
+        "New Zealand": 1,
+        "Armenia": 1,
+        "Kazakhstan": 1,
+        "Estonia": 1,
+        "Jordan": 1,
+        "Kenya": 1,
+        "Cyprus": 1
+      }
     }
   ]
 }
