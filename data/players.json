@@ -26675,6 +26675,53 @@
         "Greenland": 1,
         "Equatorial Guinea": 1
       }
+    },
+    {
+      "timestamp": "2026-04-16 00:05:07 UTC",
+      "total": 154,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 3,
+        "Australia": 2,
+        "Brazil": 10,
+        "Canada": 11,
+        "China": 7,
+        "Colombia": 1,
+        "Egypt": 1,
+        "El Salvador": 1,
+        "France": 3,
+        "Germany": 1,
+        "Ireland": 2,
+        "Italy": 2,
+        "Netherlands": 1,
+        "Philippines": 2,
+        "Poland": 1,
+        "Portugal": 1,
+        "Puerto Rico": 1,
+        "Sweden": 1,
+        "United Kingdom": 3,
+        "United States": 50,
+        "Chile": 1,
+        "South Korea": 2,
+        "Venezuela": 1,
+        "Iraq": 1,
+        "Palestinian Territories": 1,
+        "Aruba": 1,
+        "Barbados": 1,
+        "Tunisia": 1,
+        "Guyana": 1,
+        "Peru": 1,
+        "Finland": 1,
+        "Jordan": 2,
+        "Uruguay": 1,
+        "Nicaragua": 1,
+        "Kyrgyzstan": 1,
+        "Ghana": 1,
+        "Faroe Islands": 1,
+        "Azerbaijan": 1,
+        "British Virgin Islands": 1,
+        "Cameroon": 1
+      }
     }
   ]
 }
