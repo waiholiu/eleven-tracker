@@ -28148,6 +28148,52 @@
         "Djibouti": 1,
         "Bosnia and Herzegovina": 1
       }
+    },
+    {
+      "timestamp": "2026-04-17 22:35:29 UTC",
+      "total": 169,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 4,
+        "Australia": 3,
+        "Austria": 1,
+        "Brazil": 9,
+        "Canada": 12,
+        "China": 4,
+        "Denmark": 1,
+        "Dominican Republic": 1,
+        "France": 3,
+        "Germany": 7,
+        "Ireland": 1,
+        "Italy": 2,
+        "Japan": 1,
+        "Netherlands": 1,
+        "North Korea": 1,
+        "Pakistan": 1,
+        "Poland": 1,
+        "Portugal": 2,
+        "Russia": 1,
+        "Saudi Arabia": 1,
+        "Spain": 6,
+        "Sweden": 2,
+        "Ukraine": 1,
+        "United Kingdom": 17,
+        "United States": 41,
+        "Belarus": 1,
+        "Iran": 1,
+        "South Africa": 1,
+        "South Korea": 1,
+        "Iraq": 1,
+        "Kuwait": 1,
+        "Morocco": 1,
+        "Palestinian Territories": 2,
+        "Romania": 1,
+        "Norway": 1,
+        "Kazakhstan": 1,
+        "Qatar": 2,
+        "Hungary": 1,
+        "Nicaragua": 1
+      }
     }
   ]
 }
