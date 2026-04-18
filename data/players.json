@@ -28297,6 +28297,33 @@
         "Djibouti": 1,
         "Macedonia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-18 06:11:38 UTC",
+      "total": 98,
+      "countries": {
+        "Argentina": 3,
+        "Australia": 7,
+        "Canada": 3,
+        "China": 12,
+        "Germany": 2,
+        "India": 2,
+        "Israel": 1,
+        "Italy": 1,
+        "Japan": 3,
+        "Mexico": 3,
+        "Russia": 2,
+        "United Kingdom": 2,
+        "United States": 18,
+        "Vietnam": 2,
+        "Hong Kong": 2,
+        "South Korea": 3,
+        "Taiwan": 2,
+        "Oman": 1,
+        "Malaysia": 1,
+        "Switzerland": 1,
+        "Kazakhstan": 1
+      }
     }
   ]
 }
