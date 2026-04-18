@@ -28453,6 +28453,52 @@
         "Macedonia": 1,
         "Fiji": 1
       }
+    },
+    {
+      "timestamp": "2026-04-18 10:37:08 UTC",
+      "total": 149,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 1,
+        "Austria": 1,
+        "Belgium": 1,
+        "Brazil": 1,
+        "Canada": 1,
+        "China": 26,
+        "Croatia": 1,
+        "Denmark": 2,
+        "France": 12,
+        "Germany": 7,
+        "Greece": 1,
+        "India": 3,
+        "Indonesia": 1,
+        "Israel": 2,
+        "Italy": 8,
+        "Japan": 10,
+        "Philippines": 2,
+        "Poland": 4,
+        "Portugal": 2,
+        "Russia": 4,
+        "Sweden": 1,
+        "United Kingdom": 5,
+        "United States": 4,
+        "Vietnam": 1,
+        "Belarus": 1,
+        "Czech Republic": 2,
+        "Hong Kong": 1,
+        "Slovakia": 1,
+        "South Korea": 5,
+        "Taiwan": 1,
+        "Turkey": 1,
+        "Lithuania": 1,
+        "Peru": 1,
+        "New Zealand": 1,
+        "U.S. Virgin Islands": 1,
+        "Georgia": 1,
+        "Kazakhstan": 1,
+        "Hungary": 1,
+        "Dominica": 1
+      }
     }
   ]
 }
