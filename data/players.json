@@ -28406,6 +28406,53 @@
         "Fiji": 1,
         "French Polynesia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-18 09:43:51 UTC",
+      "total": 143,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 1,
+        "Australia": 4,
+        "Austria": 1,
+        "Belgium": 1,
+        "China": 23,
+        "Dominican Republic": 1,
+        "Egypt": 1,
+        "France": 12,
+        "Germany": 6,
+        "Greece": 1,
+        "Italy": 7,
+        "Japan": 9,
+        "Philippines": 1,
+        "Poland": 2,
+        "Russia": 4,
+        "Saudi Arabia": 2,
+        "Spain": 4,
+        "Sweden": 1,
+        "Thailand": 1,
+        "Ukraine": 3,
+        "United Kingdom": 5,
+        "United States": 1,
+        "Vietnam": 2,
+        "Iran": 1,
+        "South Africa": 1,
+        "South Korea": 4,
+        "Taiwan": 3,
+        "Turkey": 2,
+        "Bangladesh": 1,
+        "Barbados": 1,
+        "Romania": 1,
+        "New Zealand": 1,
+        "Malaysia": 2,
+        "Switzerland": 1,
+        "Estonia": 1,
+        "Hungary": 1,
+        "C\u00f4te d\u2019Ivoire": 1,
+        "Dominica": 1,
+        "Macedonia": 1,
+        "Fiji": 1
+      }
     }
   ]
 }
