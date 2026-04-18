@@ -28232,6 +28232,44 @@
         "Hungary": 1,
         "Cyprus": 1
       }
+    },
+    {
+      "timestamp": "2026-04-18 02:04:39 UTC",
+      "total": 181,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 4,
+        "Australia": 5,
+        "Brazil": 6,
+        "Canada": 15,
+        "China": 12,
+        "Germany": 2,
+        "Israel": 1,
+        "Japan": 2,
+        "Mexico": 5,
+        "Philippines": 1,
+        "Puerto Rico": 3,
+        "Russia": 2,
+        "Saudi Arabia": 1,
+        "Serbia": 1,
+        "Spain": 1,
+        "Ukraine": 1,
+        "United Kingdom": 1,
+        "United States": 67,
+        "Hong Kong": 1,
+        "Iran": 1,
+        "South Korea": 2,
+        "Trinidad and Tobago": 1,
+        "Aruba": 1,
+        "Tunisia": 1,
+        "Senegal": 1,
+        "Singapore": 1,
+        "New Zealand": 2,
+        "U.S. Virgin Islands": 1,
+        "Finland": 1,
+        "Azerbaijan": 1,
+        "Liberia": 1
+      }
     }
   ]
 }
