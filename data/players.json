@@ -28270,6 +28270,33 @@
         "Azerbaijan": 1,
         "Liberia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-18 04:44:10 UTC",
+      "total": 98,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 3,
+        "Canada": 3,
+        "China": 7,
+        "Colombia": 1,
+        "Dominican Republic": 1,
+        "Egypt": 1,
+        "Germany": 1,
+        "India": 1,
+        "Indonesia": 1,
+        "Japan": 6,
+        "Philippines": 4,
+        "Russia": 1,
+        "United States": 32,
+        "South Korea": 6,
+        "Peru": 1,
+        "Latvia": 1,
+        "Panama": 1,
+        "Nicaragua": 1,
+        "Djibouti": 1,
+        "Macedonia": 1
+      }
     }
   ]
 }
