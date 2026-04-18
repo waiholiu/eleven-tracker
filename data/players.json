@@ -28364,6 +28364,48 @@
         "Finland": 1,
         "Kazakhstan": 1
       }
+    },
+    {
+      "timestamp": "2026-04-18 08:43:43 UTC",
+      "total": 137,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 4,
+        "Belgium": 1,
+        "China": 17,
+        "Dominican Republic": 1,
+        "France": 11,
+        "Germany": 5,
+        "India": 1,
+        "Israel": 2,
+        "Italy": 4,
+        "Japan": 5,
+        "Netherlands": 1,
+        "Philippines": 3,
+        "Poland": 2,
+        "Spain": 1,
+        "Sweden": 3,
+        "Thailand": 2,
+        "Ukraine": 1,
+        "United Kingdom": 4,
+        "United States": 12,
+        "Hong Kong": 1,
+        "South Africa": 1,
+        "South Korea": 4,
+        "Taiwan": 1,
+        "Turkey": 1,
+        "Kuwait": 1,
+        "Oman": 1,
+        "Romania": 1,
+        "Singapore": 2,
+        "Uzbekistan": 1,
+        "Malaysia": 1,
+        "Latvia": 1,
+        "Kazakhstan": 2,
+        "Afghanistan": 1,
+        "Fiji": 1,
+        "French Polynesia": 1
+      }
     }
   ]
 }
