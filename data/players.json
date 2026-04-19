@@ -29241,6 +29241,41 @@
         "Kazakhstan": 1,
         "Liberia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-19 06:56:49 UTC",
+      "total": 101,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 3,
+        "Austria": 1,
+        "Brazil": 1,
+        "China": 16,
+        "France": 3,
+        "Germany": 3,
+        "India": 1,
+        "Japan": 9,
+        "Mexico": 1,
+        "Philippines": 1,
+        "Saudi Arabia": 1,
+        "Spain": 2,
+        "Sweden": 1,
+        "Ukraine": 4,
+        "United Kingdom": 1,
+        "United States": 17,
+        "Hong Kong": 1,
+        "South Korea": 1,
+        "Taiwan": 1,
+        "United Arab Emirates": 1,
+        "Romania": 1,
+        "Tunisia": 1,
+        "Jamaica": 1,
+        "Bulgaria": 1,
+        "Latvia": 1,
+        "Georgia": 1,
+        "Kazakhstan": 1,
+        "C\u00f4te d\u2019Ivoire": 1
+      }
     }
   ]
 }
