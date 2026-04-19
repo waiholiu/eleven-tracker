@@ -29211,6 +29211,36 @@
         "Honduras": 1,
         "Greenland": 1
       }
+    },
+    {
+      "timestamp": "2026-04-19 05:14:59 UTC",
+      "total": 119,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 7,
+        "Brazil": 4,
+        "Canada": 8,
+        "China": 8,
+        "El Salvador": 1,
+        "India": 3,
+        "Israel": 1,
+        "Italy": 1,
+        "Japan": 5,
+        "Mexico": 5,
+        "Philippines": 1,
+        "Poland": 2,
+        "Puerto Rico": 1,
+        "Ukraine": 1,
+        "United Kingdom": 1,
+        "United States": 29,
+        "Czech Republic": 1,
+        "Hong Kong": 2,
+        "South Korea": 4,
+        "Malaysia": 1,
+        "Georgia": 1,
+        "Kazakhstan": 1,
+        "Liberia": 1
+      }
     }
   ]
 }
