@@ -29310,6 +29310,44 @@
         "Norway": 1,
         "Kazakhstan": 1
       }
+    },
+    {
+      "timestamp": "2026-04-19 09:12:18 UTC",
+      "total": 165,
+      "countries": {
+        "Australia": 3,
+        "Austria": 2,
+        "China": 28,
+        "Egypt": 1,
+        "France": 8,
+        "Germany": 6,
+        "India": 2,
+        "Indonesia": 1,
+        "Israel": 1,
+        "Italy": 6,
+        "Japan": 6,
+        "Netherlands": 1,
+        "Philippines": 2,
+        "Poland": 4,
+        "Portugal": 1,
+        "Saudi Arabia": 1,
+        "Spain": 7,
+        "Sweden": 3,
+        "Thailand": 2,
+        "Ukraine": 2,
+        "United Kingdom": 7,
+        "United States": 10,
+        "Vietnam": 1,
+        "Czech Republic": 2,
+        "South Korea": 5,
+        "Turkey": 2,
+        "Kuwait": 1,
+        "Morocco": 1,
+        "Romania": 3,
+        "Singapore": 1,
+        "Georgia": 1,
+        "\u00c5land Islands": 1
+      }
     }
   ]
 }
