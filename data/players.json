@@ -29176,6 +29176,41 @@
         "Honduras": 1,
         "Madagascar": 1
       }
+    },
+    {
+      "timestamp": "2026-04-19 02:26:24 UTC",
+      "total": 164,
+      "countries": {
+        "American Samoa": 1,
+        "Australia": 2,
+        "Austria": 1,
+        "Brazil": 3,
+        "Canada": 15,
+        "China": 15,
+        "Colombia": 1,
+        "Germany": 1,
+        "Guam": 1,
+        "India": 1,
+        "Italy": 1,
+        "Japan": 5,
+        "Mexico": 1,
+        "Philippines": 3,
+        "Portugal": 1,
+        "Puerto Rico": 3,
+        "Sweden": 2,
+        "Ukraine": 1,
+        "United Kingdom": 1,
+        "United States": 61,
+        "Vietnam": 1,
+        "Chile": 2,
+        "South Korea": 2,
+        "Taiwan": 1,
+        "Grenada": 1,
+        "British Indian Ocean Territory": 1,
+        "Micronesia": 1,
+        "Honduras": 1,
+        "Greenland": 1
+      }
     }
   ]
 }
