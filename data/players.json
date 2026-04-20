@@ -30831,6 +30831,52 @@
         "Palau": 1,
         "Paraguay": 1
       }
+    },
+    {
+      "timestamp": "2026-04-20 23:08:00 UTC",
+      "total": 178,
+      "countries": {
+        "Angola": 1,
+        "Argentina": 4,
+        "Australia": 2,
+        "Brazil": 14,
+        "Canada": 16,
+        "China": 5,
+        "Dominican Republic": 1,
+        "Egypt": 1,
+        "El Salvador": 1,
+        "France": 2,
+        "Germany": 4,
+        "Greece": 2,
+        "India": 3,
+        "Israel": 1,
+        "Italy": 3,
+        "Japan": 1,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "Philippines": 1,
+        "Poland": 1,
+        "Portugal": 1,
+        "Saudi Arabia": 1,
+        "Serbia": 1,
+        "Spain": 3,
+        "United Kingdom": 9,
+        "United States": 52,
+        "Andorra": 2,
+        "Belarus": 1,
+        "Bermuda": 1,
+        "Chile": 1,
+        "Trinidad and Tobago": 1,
+        "Turkey": 2,
+        "United Arab Emirates": 1,
+        "Kazakhstan": 1,
+        "\u00c5land Islands": 2,
+        "British Antarctic Territory": 1,
+        "Hungary": 1,
+        "Gibraltar": 1,
+        "Ecuador": 2,
+        "French Southern Territories": 1
+      }
     }
   ]
 }
