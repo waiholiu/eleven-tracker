@@ -30184,6 +30184,37 @@
         "Faroe Islands": 1,
         "French Polynesia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-20 02:26:52 UTC",
+      "total": 146,
+      "countries": {
+        "Argentina": 1,
+        "Brazil": 6,
+        "Canada": 17,
+        "China": 11,
+        "Croatia": 1,
+        "Germany": 1,
+        "India": 2,
+        "Israel": 1,
+        "Japan": 4,
+        "Mexico": 2,
+        "Philippines": 2,
+        "Portugal": 1,
+        "Puerto Rico": 4,
+        "United Kingdom": 3,
+        "United States": 53,
+        "Andorra": 1,
+        "Bahamas": 1,
+        "Hong Kong": 1,
+        "South Korea": 2,
+        "Taiwan": 2,
+        "Turkey": 1,
+        "Palestinian Territories": 1,
+        "Singapore": 1,
+        "Uruguay": 1,
+        "Macau": 1
+      }
     }
   ]
 }
