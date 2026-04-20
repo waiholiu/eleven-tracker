@@ -30323,6 +30323,51 @@
         "Hungary": 1,
         "Fiji": 1
       }
+    },
+    {
+      "timestamp": "2026-04-20 11:03:08 UTC",
+      "total": 148,
+      "countries": {
+        "Australia": 9,
+        "Belgium": 2,
+        "Brazil": 1,
+        "Burundi": 1,
+        "Canada": 3,
+        "China": 29,
+        "Egypt": 1,
+        "France": 10,
+        "Germany": 3,
+        "India": 2,
+        "Israel": 2,
+        "Italy": 2,
+        "Japan": 15,
+        "Mexico": 1,
+        "Netherlands": 4,
+        "Portugal": 1,
+        "Russia": 1,
+        "Spain": 3,
+        "Ukraine": 2,
+        "United Kingdom": 2,
+        "United States": 2,
+        "Andorra": 2,
+        "Slovakia": 1,
+        "South Korea": 9,
+        "Turkey": 2,
+        "Albania": 1,
+        "Lithuania": 1,
+        "Palestinian Territories": 1,
+        "Aruba": 1,
+        "Bangladesh": 1,
+        "Peru": 1,
+        "Singapore": 2,
+        "Bulgaria": 1,
+        "Malaysia": 2,
+        "Switzerland": 1,
+        "Kazakhstan": 1,
+        "Jordan": 1,
+        "Macau": 1,
+        "Brunei": 1
+      }
     }
   ]
 }
