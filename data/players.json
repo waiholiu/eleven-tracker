@@ -31013,6 +31013,48 @@
         "Hungary": 1,
         "Macedonia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-21 09:57:46 UTC",
+      "total": 112,
+      "countries": {
+        "Australia": 6,
+        "Belgium": 1,
+        "Canada": 1,
+        "China": 10,
+        "Dominican Republic": 1,
+        "France": 9,
+        "Germany": 7,
+        "Indonesia": 1,
+        "Israel": 1,
+        "Italy": 1,
+        "Japan": 4,
+        "Pakistan": 1,
+        "Philippines": 1,
+        "Poland": 1,
+        "Russia": 1,
+        "Spain": 7,
+        "Sweden": 1,
+        "Thailand": 1,
+        "Ukraine": 6,
+        "United Kingdom": 9,
+        "United States": 2,
+        "Vietnam": 2,
+        "Andorra": 1,
+        "Belarus": 1,
+        "Slovakia": 1,
+        "South Korea": 4,
+        "Bangladesh": 1,
+        "British Indian Ocean Territory": 1,
+        "New Zealand": 2,
+        "Bulgaria": 2,
+        "Malaysia": 2,
+        "Switzerland": 1,
+        "Monaco": 1,
+        "Norway": 2,
+        "Cambodia": 1,
+        "Kazakhstan": 1
+      }
     }
   ]
 }
