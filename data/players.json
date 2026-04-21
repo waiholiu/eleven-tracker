@@ -30978,6 +30978,41 @@
         "Cyprus": 1,
         "Central African Republic": 1
       }
+    },
+    {
+      "timestamp": "2026-04-21 08:15:50 UTC",
+      "total": 76,
+      "countries": {
+        "Australia": 2,
+        "Brazil": 1,
+        "China": 14,
+        "Croatia": 1,
+        "Egypt": 1,
+        "France": 1,
+        "Germany": 6,
+        "India": 2,
+        "Indonesia": 1,
+        "Israel": 1,
+        "Italy": 2,
+        "Japan": 5,
+        "Poland": 3,
+        "Serbia": 1,
+        "Sweden": 1,
+        "Thailand": 1,
+        "Ukraine": 1,
+        "United Kingdom": 1,
+        "United States": 7,
+        "Andorra": 1,
+        "Hong Kong": 1,
+        "Iran": 1,
+        "South Korea": 5,
+        "Taiwan": 1,
+        "Singapore": 1,
+        "Switzerland": 1,
+        "Latvia": 1,
+        "Hungary": 1,
+        "Macedonia": 1
+      }
     }
   ]
 }
