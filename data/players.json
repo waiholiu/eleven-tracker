@@ -30947,6 +30947,37 @@
         "Kazakhstan": 1,
         "Martinique": 1
       }
+    },
+    {
+      "timestamp": "2026-04-21 06:00:32 UTC",
+      "total": 73,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 2,
+        "Bahrain": 1,
+        "Canada": 1,
+        "China": 6,
+        "France": 1,
+        "Germany": 1,
+        "India": 2,
+        "Israel": 1,
+        "Japan": 5,
+        "Mexico": 2,
+        "Poland": 1,
+        "Thailand": 1,
+        "Ukraine": 1,
+        "United Kingdom": 3,
+        "United States": 19,
+        "Andorra": 1,
+        "Hong Kong": 1,
+        "South Africa": 1,
+        "South Korea": 2,
+        "Taiwan": 1,
+        "Venezuela": 1,
+        "Micronesia": 1,
+        "Cyprus": 1,
+        "Central African Republic": 1
+      }
     }
   ]
 }
