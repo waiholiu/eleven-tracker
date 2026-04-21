@@ -31055,6 +31055,47 @@
         "Cambodia": 1,
         "Kazakhstan": 1
       }
+    },
+    {
+      "timestamp": "2026-04-21 11:12:42 UTC",
+      "total": 157,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 7,
+        "Austria": 1,
+        "Brazil": 4,
+        "China": 38,
+        "Denmark": 1,
+        "Egypt": 2,
+        "France": 11,
+        "Germany": 2,
+        "India": 2,
+        "Ireland": 2,
+        "Japan": 8,
+        "Netherlands": 1,
+        "Portugal": 1,
+        "Russia": 2,
+        "Spain": 3,
+        "Sweden": 1,
+        "Ukraine": 2,
+        "United Kingdom": 4,
+        "United States": 6,
+        "Andorra": 1,
+        "Czech Republic": 2,
+        "Hong Kong": 2,
+        "Iran": 1,
+        "Slovakia": 1,
+        "South Korea": 7,
+        "Taiwan": 4,
+        "Turkey": 1,
+        "Kuwait": 1,
+        "British Indian Ocean Territory": 1,
+        "Singapore": 1,
+        "Malaysia": 1,
+        "Norway": 1,
+        "Ghana": 1,
+        "Macedonia": 1
+      }
     }
   ]
 }
