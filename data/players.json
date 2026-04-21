@@ -31628,6 +31628,51 @@
         "Ecuador": 1,
         "Cyprus": 1
       }
+    },
+    {
+      "timestamp": "2026-04-21 23:05:55 UTC",
+      "total": 164,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 1,
+        "Austria": 2,
+        "Brazil": 11,
+        "Canada": 6,
+        "China": 3,
+        "Dominican Republic": 1,
+        "Egypt": 1,
+        "El Salvador": 1,
+        "France": 4,
+        "Germany": 2,
+        "Greece": 2,
+        "Israel": 1,
+        "Italy": 6,
+        "Japan": 1,
+        "Philippines": 1,
+        "Poland": 4,
+        "Portugal": 1,
+        "Puerto Rico": 2,
+        "Saudi Arabia": 1,
+        "Serbia": 1,
+        "Spain": 2,
+        "United Kingdom": 6,
+        "United States": 50,
+        "Bahamas": 2,
+        "Belarus": 1,
+        "Chile": 1,
+        "South Africa": 1,
+        "Trinidad and Tobago": 2,
+        "Algeria": 1,
+        "Iraq": 1,
+        "Armenia": 2,
+        "Finland": 1,
+        "Zimbabwe": 1,
+        "Belize": 1,
+        "Ecuador": 1,
+        "Cyprus": 1,
+        "Sudan": 1,
+        "Central African Republic": 1
+      }
     }
   ]
 }
