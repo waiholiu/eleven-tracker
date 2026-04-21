@@ -30914,6 +30914,39 @@
         "Faroe Islands": 1,
         "Costa Rica": 1
       }
+    },
+    {
+      "timestamp": "2026-04-21 03:50:02 UTC",
+      "total": 118,
+      "countries": {
+        "Angola": 1,
+        "Argentina": 2,
+        "Australia": 5,
+        "Austria": 1,
+        "Brazil": 1,
+        "Canada": 12,
+        "China": 6,
+        "Croatia": 1,
+        "France": 1,
+        "Germany": 2,
+        "India": 1,
+        "Indonesia": 1,
+        "Japan": 1,
+        "Mexico": 3,
+        "Philippines": 1,
+        "Puerto Rico": 1,
+        "Russia": 1,
+        "Ukraine": 1,
+        "United Kingdom": 1,
+        "United States": 43,
+        "Chile": 1,
+        "South Korea": 5,
+        "Trinidad and Tobago": 1,
+        "Peru": 1,
+        "Iceland": 1,
+        "Kazakhstan": 1,
+        "Martinique": 1
+      }
     }
   ]
 }
