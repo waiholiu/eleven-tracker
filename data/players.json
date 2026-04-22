@@ -31673,6 +31673,52 @@
         "Sudan": 1,
         "Central African Republic": 1
       }
+    },
+    {
+      "timestamp": "2026-04-22 00:00:09 UTC",
+      "total": 176,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 3,
+        "Belgium": 1,
+        "Brazil": 13,
+        "Canada": 7,
+        "China": 4,
+        "Colombia": 1,
+        "Dominican Republic": 2,
+        "Egypt": 1,
+        "France": 2,
+        "Germany": 1,
+        "India": 2,
+        "Indonesia": 1,
+        "Israel": 1,
+        "Italy": 3,
+        "Japan": 3,
+        "Mexico": 2,
+        "Nigeria": 1,
+        "Poland": 1,
+        "Portugal": 1,
+        "Puerto Rico": 1,
+        "Russia": 2,
+        "Saudi Arabia": 1,
+        "Thailand": 1,
+        "Ukraine": 2,
+        "United Kingdom": 7,
+        "United States": 60,
+        "Andorra": 1,
+        "South Africa": 1,
+        "South Korea": 1,
+        "Palestinian Territories": 1,
+        "Cuba": 2,
+        "Peru": 1,
+        "Armenia": 1,
+        "Switzerland": 1,
+        "Syria": 1,
+        "Uruguay": 1,
+        "Dominica": 1,
+        "Ecuador": 1,
+        "Paraguay": 1
+      }
     }
   ]
 }
