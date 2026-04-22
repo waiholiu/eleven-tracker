@@ -31838,6 +31838,53 @@
         "Switzerland": 1,
         "Monaco": 1
       }
+    },
+    {
+      "timestamp": "2026-04-22 11:02:15 UTC",
+      "total": 154,
+      "countries": {
+        "Australia": 9,
+        "Canada": 1,
+        "China": 33,
+        "Denmark": 1,
+        "France": 5,
+        "Germany": 6,
+        "India": 1,
+        "Indonesia": 2,
+        "Israel": 1,
+        "Japan": 10,
+        "Netherlands": 2,
+        "Nigeria": 1,
+        "Philippines": 1,
+        "Poland": 2,
+        "Portugal": 2,
+        "Russia": 1,
+        "Spain": 5,
+        "Thailand": 1,
+        "Ukraine": 3,
+        "United Kingdom": 5,
+        "United States": 4,
+        "Andorra": 1,
+        "Belarus": 1,
+        "Slovakia": 1,
+        "South Africa": 1,
+        "South Korea": 8,
+        "Taiwan": 3,
+        "Turkey": 1,
+        "Albania": 1,
+        "Kuwait": 1,
+        "Lithuania": 1,
+        "Palestinian Territories": 2,
+        "Bangladesh": 1,
+        "Barbados": 1,
+        "Singapore": 1,
+        "Armenia": 1,
+        "Bulgaria": 1,
+        "Malaysia": 1,
+        "Kazakhstan": 1,
+        "Slovenia": 1,
+        "Mauritius": 1
+      }
     }
   ]
 }
