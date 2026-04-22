@@ -31885,6 +31885,52 @@
         "Slovenia": 1,
         "Mauritius": 1
       }
+    },
+    {
+      "timestamp": "2026-04-22 12:12:43 UTC",
+      "total": 186,
+      "countries": {
+        "Australia": 3,
+        "Brazil": 1,
+        "Burundi": 1,
+        "China": 46,
+        "Croatia": 1,
+        "France": 10,
+        "Germany": 4,
+        "India": 3,
+        "Indonesia": 2,
+        "Ireland": 1,
+        "Israel": 4,
+        "Italy": 2,
+        "Japan": 12,
+        "Nigeria": 1,
+        "Pakistan": 1,
+        "Philippines": 1,
+        "Poland": 3,
+        "Russia": 2,
+        "Saudi Arabia": 1,
+        "Serbia": 2,
+        "Spain": 6,
+        "Sweden": 2,
+        "Ukraine": 2,
+        "United Kingdom": 4,
+        "United States": 7,
+        "Czech Republic": 3,
+        "Hong Kong": 2,
+        "South Korea": 11,
+        "Taiwan": 4,
+        "Albania": 2,
+        "Bangladesh": 1,
+        "British Indian Ocean Territory": 1,
+        "Romania": 1,
+        "Jamaica": 1,
+        "Malaysia": 4,
+        "Kazakhstan": 1,
+        "Zimbabwe": 1,
+        "Hungary": 1,
+        "Slovenia": 1,
+        "Martinique": 1
+      }
     }
   ]
 }
