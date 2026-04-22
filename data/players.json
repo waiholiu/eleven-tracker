@@ -31750,6 +31750,35 @@
         "Gibraltar": 1,
         "Sudan": 1
       }
+    },
+    {
+      "timestamp": "2026-04-22 05:58:34 UTC",
+      "total": 76,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 4,
+        "Brazil": 2,
+        "Canada": 2,
+        "China": 3,
+        "Denmark": 1,
+        "Egypt": 1,
+        "France": 2,
+        "Germany": 2,
+        "India": 1,
+        "Indonesia": 1,
+        "Israel": 1,
+        "Japan": 2,
+        "Mexico": 2,
+        "Portugal": 1,
+        "Puerto Rico": 1,
+        "Russia": 1,
+        "Thailand": 3,
+        "United Kingdom": 4,
+        "United States": 17,
+        "Hong Kong": 2,
+        "South Korea": 3,
+        "Iceland": 1
+      }
     }
   ]
 }
