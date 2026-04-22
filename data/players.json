@@ -31779,6 +31779,31 @@
         "South Korea": 3,
         "Iceland": 1
       }
+    },
+    {
+      "timestamp": "2026-04-22 07:59:14 UTC",
+      "total": 72,
+      "countries": {
+        "Angola": 1,
+        "Australia": 3,
+        "Brazil": 1,
+        "China": 12,
+        "Croatia": 1,
+        "France": 2,
+        "Germany": 4,
+        "Israel": 1,
+        "Italy": 1,
+        "Japan": 6,
+        "Philippines": 2,
+        "Saudi Arabia": 1,
+        "Spain": 3,
+        "Ukraine": 1,
+        "United Kingdom": 1,
+        "United States": 7,
+        "South Korea": 5,
+        "Switzerland": 1,
+        "Brunei": 1
+      }
     }
   ]
 }
