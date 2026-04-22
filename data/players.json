@@ -31804,6 +31804,40 @@
         "Switzerland": 1,
         "Brunei": 1
       }
+    },
+    {
+      "timestamp": "2026-04-22 09:43:57 UTC",
+      "total": 102,
+      "countries": {
+        "Australia": 9,
+        "Brazil": 3,
+        "China": 14,
+        "Denmark": 1,
+        "France": 6,
+        "Germany": 3,
+        "India": 1,
+        "Israel": 1,
+        "Italy": 4,
+        "Japan": 8,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "Philippines": 1,
+        "Poland": 2,
+        "Portugal": 1,
+        "Russia": 2,
+        "Spain": 5,
+        "Sweden": 1,
+        "Thailand": 1,
+        "Ukraine": 4,
+        "United Kingdom": 5,
+        "United States": 3,
+        "Hong Kong": 1,
+        "South Korea": 2,
+        "New Zealand": 1,
+        "Armenia": 1,
+        "Switzerland": 1,
+        "Monaco": 1
+      }
     }
   ]
 }
