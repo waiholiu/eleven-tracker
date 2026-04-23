@@ -32460,6 +32460,36 @@
         "Switzerland": 2,
         "Kenya": 1
       }
+    },
+    {
+      "timestamp": "2026-04-23 07:12:47 UTC",
+      "total": 77,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 4,
+        "Brazil": 2,
+        "China": 12,
+        "France": 3,
+        "Germany": 1,
+        "Indonesia": 1,
+        "Italy": 2,
+        "Japan": 2,
+        "Poland": 1,
+        "Russia": 3,
+        "Serbia": 1,
+        "Spain": 2,
+        "United Kingdom": 3,
+        "United States": 11,
+        "Andorra": 1,
+        "Hong Kong": 2,
+        "South Africa": 1,
+        "South Korea": 2,
+        "Turkey": 2,
+        "Barbados": 1,
+        "Bulgaria": 1,
+        "Latvia": 1,
+        "Kenya": 1
+      }
     }
   ]
 }
