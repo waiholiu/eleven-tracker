@@ -32571,6 +32571,49 @@
         "Norway": 1,
         "Cambodia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-23 11:57:50 UTC",
+      "total": 171,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 3,
+        "Austria": 1,
+        "Belgium": 1,
+        "Brazil": 2,
+        "China": 31,
+        "France": 7,
+        "Germany": 7,
+        "Greece": 1,
+        "India": 2,
+        "Indonesia": 2,
+        "Ireland": 1,
+        "Israel": 1,
+        "Italy": 4,
+        "Japan": 12,
+        "Netherlands": 3,
+        "Poland": 3,
+        "Russia": 1,
+        "Spain": 3,
+        "Sweden": 3,
+        "Thailand": 2,
+        "Ukraine": 5,
+        "United Kingdom": 8,
+        "United States": 7,
+        "Vietnam": 1,
+        "Andorra": 1,
+        "South Africa": 1,
+        "South Korea": 14,
+        "Taiwan": 3,
+        "Turkey": 3,
+        "Lithuania": 1,
+        "New Zealand": 1,
+        "Armenia": 1,
+        "Malaysia": 1,
+        "Switzerland": 1,
+        "Monaco": 1,
+        "Finland": 2
+      }
     }
   ]
 }
