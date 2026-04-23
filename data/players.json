@@ -33018,6 +33018,51 @@
         "Cameroon": 1,
         "Togo": 1
       }
+    },
+    {
+      "timestamp": "2026-04-23 23:12:02 UTC",
+      "total": 191,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 5,
+        "Belgium": 1,
+        "Brazil": 9,
+        "Canada": 19,
+        "China": 7,
+        "Croatia": 1,
+        "Dominican Republic": 1,
+        "Egypt": 1,
+        "France": 7,
+        "Germany": 1,
+        "India": 1,
+        "Ireland": 4,
+        "Israel": 1,
+        "Italy": 6,
+        "Japan": 2,
+        "Mexico": 1,
+        "Philippines": 4,
+        "Portugal": 1,
+        "Russia": 1,
+        "Saudi Arabia": 1,
+        "Spain": 2,
+        "Sweden": 1,
+        "United Kingdom": 10,
+        "United States": 50,
+        "Vietnam": 1,
+        "Andorra": 1,
+        "Bermuda": 1,
+        "Chile": 1,
+        "Turkey": 1,
+        "Kuwait": 1,
+        "British Indian Ocean Territory": 2,
+        "Cuba": 1,
+        "Guyana": 1,
+        "Armenia": 1,
+        "Bulgaria": 1,
+        "\u00c5land Islands": 1,
+        "Jordan": 1,
+        "Uruguay": 2
+      }
     }
   ]
 }
