@@ -32529,6 +32529,48 @@
         "Estonia": 1,
         "Brunei": 1
       }
+    },
+    {
+      "timestamp": "2026-04-23 10:51:54 UTC",
+      "total": 150,
+      "countries": {
+        "Australia": 13,
+        "Belgium": 1,
+        "Brazil": 2,
+        "Burundi": 1,
+        "Canada": 1,
+        "China": 21,
+        "Denmark": 1,
+        "Egypt": 1,
+        "France": 9,
+        "Germany": 3,
+        "Greece": 1,
+        "India": 2,
+        "Indonesia": 1,
+        "Israel": 1,
+        "Italy": 4,
+        "Japan": 14,
+        "Netherlands": 3,
+        "Pakistan": 1,
+        "Poland": 1,
+        "Russia": 2,
+        "Saudi Arabia": 1,
+        "Spain": 5,
+        "Sweden": 1,
+        "Ukraine": 4,
+        "United Kingdom": 5,
+        "United States": 7,
+        "Andorra": 1,
+        "Czech Republic": 1,
+        "South Korea": 11,
+        "Taiwan": 2,
+        "Turkey": 5,
+        "Kuwait": 1,
+        "Oman": 1,
+        "Singapore": 2,
+        "Norway": 1,
+        "Cambodia": 1
+      }
     }
   ]
 }
