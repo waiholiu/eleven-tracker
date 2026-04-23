@@ -32436,6 +32436,30 @@
         "Christmas Island": 1,
         "Paraguay": 1
       }
+    },
+    {
+      "timestamp": "2026-04-23 05:15:15 UTC",
+      "total": 89,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 5,
+        "Canada": 2,
+        "China": 12,
+        "France": 1,
+        "Germany": 1,
+        "Japan": 5,
+        "Mexico": 1,
+        "Philippines": 1,
+        "United Kingdom": 1,
+        "United States": 31,
+        "Andorra": 1,
+        "Belarus": 1,
+        "South Africa": 1,
+        "South Korea": 3,
+        "Jamaica": 1,
+        "Switzerland": 2,
+        "Kenya": 1
+      }
     }
   ]
 }
