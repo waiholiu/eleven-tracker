@@ -33170,6 +33170,38 @@
         "Afghanistan": 1,
         "Jordan": 1
       }
+    },
+    {
+      "timestamp": "2026-04-24 08:30:04 UTC",
+      "total": 88,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 6,
+        "Canada": 3,
+        "China": 16,
+        "Dominican Republic": 1,
+        "France": 3,
+        "Germany": 4,
+        "Ireland": 2,
+        "Israel": 1,
+        "Italy": 2,
+        "Japan": 5,
+        "Netherlands": 1,
+        "Poland": 1,
+        "Spain": 1,
+        "Sweden": 1,
+        "Thailand": 1,
+        "Ukraine": 3,
+        "United Kingdom": 2,
+        "United States": 3,
+        "Czech Republic": 1,
+        "South Korea": 5,
+        "Lithuania": 1,
+        "Tunisia": 1,
+        "Armenia": 1,
+        "Afghanistan": 1,
+        "Cyprus": 1
+      }
     }
   ]
 }
