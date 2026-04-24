@@ -33112,6 +33112,40 @@
         "Uruguay": 2,
         "Sudan": 1
       }
+    },
+    {
+      "timestamp": "2026-04-24 03:56:26 UTC",
+      "total": 119,
+      "countries": {
+        "Argentina": 6,
+        "Australia": 2,
+        "Belgium": 1,
+        "Brazil": 3,
+        "Canada": 4,
+        "China": 9,
+        "Colombia": 1,
+        "France": 2,
+        "India": 2,
+        "Indonesia": 1,
+        "Japan": 1,
+        "Mexico": 2,
+        "Philippines": 2,
+        "Spain": 1,
+        "United States": 34,
+        "Hong Kong": 1,
+        "South Korea": 5,
+        "Trinidad and Tobago": 1,
+        "Palestinian Territories": 1,
+        "Barbados": 1,
+        "Uzbekistan": 1,
+        "New Zealand": 1,
+        "Armenia": 2,
+        "Latvia": 1,
+        "Montenegro": 1,
+        "Jordan": 1,
+        "Uruguay": 1,
+        "Gibraltar": 1
+      }
     }
   ]
 }
