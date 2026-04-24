@@ -33146,6 +33146,30 @@
         "Uruguay": 1,
         "Gibraltar": 1
       }
+    },
+    {
+      "timestamp": "2026-04-24 06:08:02 UTC",
+      "total": 70,
+      "countries": {
+        "American Samoa": 1,
+        "Canada": 5,
+        "China": 9,
+        "Germany": 1,
+        "India": 1,
+        "Japan": 5,
+        "Mexico": 5,
+        "Philippines": 1,
+        "Puerto Rico": 1,
+        "Sweden": 1,
+        "United Kingdom": 2,
+        "United States": 6,
+        "South Korea": 2,
+        "Oman": 1,
+        "Romania": 1,
+        "New Zealand": 2,
+        "Afghanistan": 1,
+        "Jordan": 1
+      }
     }
   ]
 }
