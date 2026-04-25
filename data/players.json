@@ -192,6 +192,7 @@
     "Taiwan",
     "Tanzania",
     "Thailand",
+    "Timor-Leste",
     "Togo",
     "Tokelau",
     "Trinidad and Tobago",
@@ -33924,6 +33925,41 @@
         "New Zealand": 1,
         "Malaysia": 1,
         "Estonia": 1
+      }
+    },
+    {
+      "timestamp": "2026-04-25 07:10:48 UTC",
+      "total": 118,
+      "countries": {
+        "Australia": 3,
+        "Canada": 1,
+        "China": 14,
+        "Denmark": 1,
+        "France": 3,
+        "Germany": 3,
+        "India": 2,
+        "Israel": 2,
+        "Japan": 9,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "Philippines": 2,
+        "Poland": 2,
+        "Russia": 2,
+        "Spain": 1,
+        "Sweden": 1,
+        "Ukraine": 1,
+        "United Kingdom": 1,
+        "United States": 17,
+        "Chile": 1,
+        "Hong Kong": 1,
+        "South Korea": 5,
+        "Taiwan": 2,
+        "Turkey": 3,
+        "Kuwait": 1,
+        "Singapore": 1,
+        "Malaysia": 1,
+        "Afghanistan": 2,
+        "Timor-Leste": 1
       }
     }
   ]
