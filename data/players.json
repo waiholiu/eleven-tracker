@@ -33961,6 +33961,50 @@
         "Afghanistan": 2,
         "Timor-Leste": 1
       }
+    },
+    {
+      "timestamp": "2026-04-25 08:30:03 UTC",
+      "total": 148,
+      "countries": {
+        "Australia": 4,
+        "Belgium": 1,
+        "China": 28,
+        "Croatia": 1,
+        "Denmark": 2,
+        "El Salvador": 1,
+        "France": 5,
+        "Germany": 7,
+        "India": 1,
+        "Ireland": 1,
+        "Israel": 3,
+        "Italy": 1,
+        "Japan": 5,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "Philippines": 1,
+        "Poland": 3,
+        "Russia": 3,
+        "Spain": 6,
+        "Sweden": 3,
+        "Thailand": 1,
+        "Ukraine": 4,
+        "United Kingdom": 4,
+        "United States": 9,
+        "Vietnam": 1,
+        "Belarus": 1,
+        "Czech Republic": 1,
+        "Hong Kong": 2,
+        "South Korea": 3,
+        "Turkey": 2,
+        "Romania": 1,
+        "Iceland": 1,
+        "Singapore": 1,
+        "New Zealand": 1,
+        "Switzerland": 3,
+        "Somalia": 1,
+        "Brunei": 1,
+        "Antarctica": 1
+      }
     }
   ]
 }
