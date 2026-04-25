@@ -33822,6 +33822,51 @@
         "Nicaragua": 1,
         "Honduras": 1
       }
+    },
+    {
+      "timestamp": "2026-04-25 00:02:57 UTC",
+      "total": 161,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 3,
+        "Austria": 1,
+        "Brazil": 7,
+        "Canada": 13,
+        "China": 6,
+        "Colombia": 2,
+        "Egypt": 1,
+        "France": 2,
+        "Germany": 4,
+        "India": 1,
+        "Ireland": 1,
+        "Israel": 1,
+        "Italy": 1,
+        "Japan": 3,
+        "Mexico": 5,
+        "Philippines": 1,
+        "Portugal": 1,
+        "Serbia": 1,
+        "Spain": 2,
+        "Ukraine": 1,
+        "United Kingdom": 1,
+        "United States": 59,
+        "Iran": 1,
+        "South Korea": 5,
+        "Taiwan": 1,
+        "Algeria": 1,
+        "Kuwait": 1,
+        "Palestinian Territories": 1,
+        "Romania": 1,
+        "Armenia": 1,
+        "Bulgaria": 1,
+        "Malaysia": 1,
+        "Norway": 1,
+        "Zimbabwe": 1,
+        "Syria": 1,
+        "Christmas Island": 1,
+        "Madagascar": 1,
+        "Pitcairn Islands": 1
+      }
     }
   ]
 }
