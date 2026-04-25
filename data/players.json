@@ -33867,6 +33867,31 @@
         "Madagascar": 1,
         "Pitcairn Islands": 1
       }
+    },
+    {
+      "timestamp": "2026-04-25 03:38:31 UTC",
+      "total": 156,
+      "countries": {
+        "Australia": 2,
+        "Brazil": 3,
+        "Canada": 11,
+        "China": 15,
+        "Germany": 1,
+        "Israel": 1,
+        "Japan": 11,
+        "Mexico": 3,
+        "Saudi Arabia": 2,
+        "Spain": 1,
+        "United Kingdom": 1,
+        "United States": 62,
+        "Bermuda": 1,
+        "Hong Kong": 1,
+        "South Korea": 2,
+        "Taiwan": 1,
+        "United Arab Emirates": 1,
+        "U.S. Virgin Islands": 1,
+        "Finland": 1
+      }
     }
   ]
 }
