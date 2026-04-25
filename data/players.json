@@ -33892,6 +33892,39 @@
         "U.S. Virgin Islands": 1,
         "Finland": 1
       }
+    },
+    {
+      "timestamp": "2026-04-25 05:46:28 UTC",
+      "total": 108,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 5,
+        "Brazil": 1,
+        "Canada": 3,
+        "China": 16,
+        "France": 1,
+        "Germany": 1,
+        "Greece": 1,
+        "Guam": 1,
+        "India": 2,
+        "Israel": 1,
+        "Japan": 1,
+        "North Korea": 1,
+        "Philippines": 2,
+        "Puerto Rico": 1,
+        "Russia": 1,
+        "United Kingdom": 1,
+        "United States": 25,
+        "Andorra": 1,
+        "Belarus": 1,
+        "South Korea": 5,
+        "Taiwan": 1,
+        "Trinidad and Tobago": 1,
+        "Barbados": 1,
+        "New Zealand": 1,
+        "Malaysia": 1,
+        "Estonia": 1
+      }
     }
   ]
 }
