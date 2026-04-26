@@ -35088,6 +35088,52 @@
         "Azerbaijan": 1,
         "Antarctica": 1
       }
+    },
+    {
+      "timestamp": "2026-04-26 13:00:00 UTC",
+      "total": 243,
+      "countries": {
+        "Angola": 1,
+        "Australia": 6,
+        "Austria": 1,
+        "Belgium": 3,
+        "Brazil": 5,
+        "Canada": 2,
+        "China": 49,
+        "Croatia": 1,
+        "Denmark": 1,
+        "France": 14,
+        "Germany": 14,
+        "Indonesia": 2,
+        "Ireland": 1,
+        "Israel": 3,
+        "Italy": 4,
+        "Japan": 13,
+        "Netherlands": 1,
+        "Poland": 6,
+        "Russia": 3,
+        "Saudi Arabia": 1,
+        "Spain": 3,
+        "Sweden": 9,
+        "Ukraine": 5,
+        "United Kingdom": 8,
+        "United States": 10,
+        "Czech Republic": 2,
+        "South Korea": 12,
+        "Taiwan": 3,
+        "Albania": 1,
+        "Grenada": 1,
+        "Kuwait": 1,
+        "Romania": 1,
+        "Singapore": 1,
+        "New Zealand": 1,
+        "Latvia": 1,
+        "Norway": 2,
+        "Hungary": 1,
+        "C\u00f4te d\u2019Ivoire": 1,
+        "Dominica": 1,
+        "Central African Republic": 1
+      }
     }
   ]
 }
