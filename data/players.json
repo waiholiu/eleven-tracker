@@ -34792,6 +34792,39 @@
         "Macedonia": 1,
         "Chad": 1
       }
+    },
+    {
+      "timestamp": "2026-04-26 02:29:05 UTC",
+      "total": 149,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 5,
+        "Brazil": 4,
+        "Canada": 8,
+        "China": 9,
+        "Colombia": 2,
+        "Dominican Republic": 1,
+        "Germany": 1,
+        "Japan": 6,
+        "Mexico": 1,
+        "Philippines": 1,
+        "Puerto Rico": 2,
+        "Spain": 1,
+        "Thailand": 1,
+        "United States": 63,
+        "Bahamas": 1,
+        "Chile": 2,
+        "Czech Republic": 1,
+        "Hong Kong": 2,
+        "South Africa": 1,
+        "South Korea": 2,
+        "Taiwan": 1,
+        "Trinidad and Tobago": 2,
+        "British Indian Ocean Territory": 1,
+        "Singapore": 1,
+        "Antigua and Barbuda": 1,
+        "Ghana": 1
+      }
     }
   ]
 }
