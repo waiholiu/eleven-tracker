@@ -34901,6 +34901,49 @@
         "Kenya": 1,
         "Yemen": 1
       }
+    },
+    {
+      "timestamp": "2026-04-26 08:42:06 UTC",
+      "total": 163,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 8,
+        "Austria": 2,
+        "Belgium": 1,
+        "Brazil": 1,
+        "China": 26,
+        "France": 8,
+        "Germany": 5,
+        "India": 1,
+        "Indonesia": 1,
+        "Ireland": 2,
+        "Italy": 6,
+        "Japan": 10,
+        "Nauru": 1,
+        "Netherlands": 1,
+        "Poland": 6,
+        "Russia": 2,
+        "Spain": 4,
+        "Sweden": 1,
+        "Ukraine": 3,
+        "United Kingdom": 3,
+        "United States": 9,
+        "Belarus": 1,
+        "Slovakia": 2,
+        "South Africa": 1,
+        "South Korea": 10,
+        "Taiwan": 3,
+        "Turkey": 2,
+        "Lithuania": 1,
+        "Singapore": 1,
+        "New Zealand": 2,
+        "Switzerland": 1,
+        "Finland": 1,
+        "Hungary": 1,
+        "Kenya": 2,
+        "C\u00f4te d\u2019Ivoire": 1,
+        "Cyprus": 1
+      }
     }
   ]
 }
