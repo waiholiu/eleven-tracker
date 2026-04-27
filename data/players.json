@@ -36234,6 +36234,47 @@
         "Cameroon": 1,
         "Yemen": 1
       }
+    },
+    {
+      "timestamp": "2026-04-27 23:51:39 UTC",
+      "total": 170,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 3,
+        "Australia": 2,
+        "Brazil": 14,
+        "Canada": 16,
+        "China": 6,
+        "Colombia": 1,
+        "Croatia": 1,
+        "Dominican Republic": 1,
+        "France": 1,
+        "Germany": 4,
+        "India": 2,
+        "Italy": 1,
+        "Japan": 1,
+        "Mexico": 2,
+        "Philippines": 3,
+        "Puerto Rico": 2,
+        "Russia": 1,
+        "Serbia": 1,
+        "Spain": 1,
+        "United Kingdom": 1,
+        "United States": 59,
+        "Vietnam": 2,
+        "Andorra": 1,
+        "Bahamas": 1,
+        "South Africa": 1,
+        "Morocco": 1,
+        "Romania": 1,
+        "Jamaica": 2,
+        "Norway": 1,
+        "Antigua and Barbuda": 1,
+        "Syria": 1,
+        "Uruguay": 2,
+        "Bouvet Island": 1,
+        "Faroe Islands": 1
+      }
     }
   ]
 }
