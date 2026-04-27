@@ -35792,6 +35792,40 @@
         "Singapore": 1,
         "New Zealand": 1
       }
+    },
+    {
+      "timestamp": "2026-04-27 09:36:27 UTC",
+      "total": 101,
+      "countries": {
+        "Australia": 8,
+        "Canada": 1,
+        "China": 13,
+        "France": 5,
+        "Germany": 5,
+        "Guam": 1,
+        "Japan": 12,
+        "Mexico": 1,
+        "Nauru": 1,
+        "Netherlands": 1,
+        "Poland": 1,
+        "Russia": 2,
+        "Spain": 2,
+        "Sweden": 1,
+        "Thailand": 2,
+        "Ukraine": 2,
+        "United Kingdom": 3,
+        "United States": 3,
+        "Vietnam": 1,
+        "Chile": 2,
+        "Hong Kong": 1,
+        "South Korea": 7,
+        "Taiwan": 1,
+        "Singapore": 1,
+        "Monaco": 1,
+        "Norway": 1,
+        "Slovenia": 1,
+        "Paraguay": 1
+      }
     }
   ]
 }
