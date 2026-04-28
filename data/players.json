@@ -36333,6 +36333,42 @@
         "Nepal": 1,
         "Guatemala": 1
       }
+    },
+    {
+      "timestamp": "2026-04-28 08:26:56 UTC",
+      "total": 88,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 6,
+        "Belgium": 1,
+        "Brazil": 1,
+        "Canada": 1,
+        "China": 15,
+        "France": 2,
+        "Germany": 3,
+        "India": 1,
+        "Indonesia": 2,
+        "Ireland": 2,
+        "Israel": 2,
+        "Italy": 3,
+        "Japan": 2,
+        "Poland": 2,
+        "Russia": 2,
+        "Spain": 1,
+        "Thailand": 1,
+        "Ukraine": 2,
+        "United Kingdom": 2,
+        "United States": 3,
+        "Slovakia": 1,
+        "South Korea": 5,
+        "Taiwan": 1,
+        "Bulgaria": 1,
+        "Malaysia": 2,
+        "Kyrgyzstan": 1,
+        "French Southern Territories": 1,
+        "Cyprus": 1,
+        "Macau": 1
+      }
     }
   ]
 }
