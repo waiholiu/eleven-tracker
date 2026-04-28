@@ -36442,6 +36442,53 @@
         "Honduras": 1,
         "Chad": 1
       }
+    },
+    {
+      "timestamp": "2026-04-28 21:54:21 UTC",
+      "total": 176,
+      "countries": {
+        "Argentina": 1,
+        "Austria": 1,
+        "Brazil": 17,
+        "Canada": 13,
+        "China": 3,
+        "Denmark": 1,
+        "Egypt": 1,
+        "France": 6,
+        "Germany": 2,
+        "Greece": 1,
+        "India": 2,
+        "Ireland": 3,
+        "Italy": 6,
+        "Japan": 1,
+        "Mexico": 2,
+        "Netherlands": 2,
+        "Philippines": 1,
+        "Poland": 5,
+        "Portugal": 1,
+        "Puerto Rico": 1,
+        "Spain": 7,
+        "Sweden": 2,
+        "Ukraine": 2,
+        "United Kingdom": 8,
+        "United States": 39,
+        "Chile": 1,
+        "Iran": 1,
+        "Slovakia": 1,
+        "Turkey": 2,
+        "Venezuela": 1,
+        "Iraq": 1,
+        "Morocco": 1,
+        "Romania": 1,
+        "Jamaica": 1,
+        "Iceland": 1,
+        "Uzbekistan": 1,
+        "Bulgaria": 1,
+        "Finland": 1,
+        "Eritrea": 1,
+        "Ecuador": 1,
+        "Sri Lanka": 1
+      }
     }
   ]
 }
