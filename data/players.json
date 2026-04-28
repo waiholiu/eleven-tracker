@@ -36489,6 +36489,46 @@
         "Ecuador": 1,
         "Sri Lanka": 1
       }
+    },
+    {
+      "timestamp": "2026-04-28 22:54:42 UTC",
+      "total": 161,
+      "countries": {
+        "Argentina": 3,
+        "Austria": 1,
+        "Belgium": 1,
+        "Brazil": 14,
+        "Burundi": 1,
+        "Canada": 15,
+        "China": 8,
+        "Dominican Republic": 2,
+        "France": 4,
+        "Germany": 3,
+        "Israel": 1,
+        "Mexico": 3,
+        "Netherlands": 2,
+        "Poland": 1,
+        "Portugal": 2,
+        "Russia": 1,
+        "Spain": 2,
+        "Ukraine": 1,
+        "United Kingdom": 7,
+        "United States": 43,
+        "Andorra": 1,
+        "Belarus": 1,
+        "Chile": 1,
+        "South Korea": 1,
+        "Turkey": 3,
+        "Cuba": 1,
+        "Romania": 1,
+        "Tunisia": 1,
+        "\u00c5land Islands": 1,
+        "Syria": 1,
+        "Uruguay": 1,
+        "Nicaragua": 1,
+        "Honduras": 1,
+        "Bolivia": 1
+      }
     }
   ]
 }
