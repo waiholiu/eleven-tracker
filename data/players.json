@@ -36311,6 +36311,28 @@
         "Ecuador": 1,
         "Bolivia": 1
       }
+    },
+    {
+      "timestamp": "2026-04-28 05:56:45 UTC",
+      "total": 69,
+      "countries": {
+        "Australia": 3,
+        "Canada": 1,
+        "China": 5,
+        "Japan": 11,
+        "Mexico": 1,
+        "Spain": 1,
+        "United States": 13,
+        "Belarus": 1,
+        "South Korea": 2,
+        "Taiwan": 1,
+        "Algeria": 1,
+        "Aruba": 1,
+        "Cook Islands": 1,
+        "Switzerland": 1,
+        "Nepal": 1,
+        "Guatemala": 1
+      }
     }
   ]
 }
