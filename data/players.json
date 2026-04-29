@@ -36658,6 +36658,44 @@
         "Oman": 1,
         "Macau": 1
       }
+    },
+    {
+      "timestamp": "2026-04-29 10:23:25 UTC",
+      "total": 120,
+      "countries": {
+        "Australia": 8,
+        "Belgium": 2,
+        "China": 14,
+        "Egypt": 1,
+        "France": 6,
+        "Germany": 5,
+        "India": 2,
+        "Italy": 1,
+        "Japan": 11,
+        "Netherlands": 1,
+        "Poland": 3,
+        "Saudi Arabia": 2,
+        "Serbia": 1,
+        "Spain": 4,
+        "Ukraine": 2,
+        "United Kingdom": 3,
+        "United States": 7,
+        "Vietnam": 1,
+        "Belarus": 1,
+        "Hong Kong": 2,
+        "South Korea": 9,
+        "Turkey": 1,
+        "Armenia": 1,
+        "Latvia": 1,
+        "Norway": 2,
+        "Cambodia": 1,
+        "Kazakhstan": 1,
+        "\u00c5land Islands": 1,
+        "Somalia": 1,
+        "Congo - Kinshasa": 1,
+        "Brunei": 1,
+        "Jersey": 1
+      }
     }
   ]
 }
