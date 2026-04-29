@@ -37145,6 +37145,49 @@
         "Uruguay": 1,
         "Gibraltar": 1
       }
+    },
+    {
+      "timestamp": "2026-04-29 23:58:53 UTC",
+      "total": 178,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 2,
+        "Bahrain": 1,
+        "Brazil": 19,
+        "Canada": 9,
+        "China": 9,
+        "Colombia": 2,
+        "Croatia": 1,
+        "Denmark": 1,
+        "Dominican Republic": 1,
+        "El Salvador": 1,
+        "France": 1,
+        "Germany": 1,
+        "Italy": 2,
+        "Japan": 2,
+        "Mexico": 2,
+        "Philippines": 3,
+        "Poland": 1,
+        "Puerto Rico": 1,
+        "Saudi Arabia": 1,
+        "Spain": 3,
+        "Thailand": 1,
+        "United Kingdom": 3,
+        "United States": 56,
+        "Vietnam": 1,
+        "Chile": 1,
+        "Iran": 2,
+        "Turkey": 1,
+        "Venezuela": 1,
+        "Grenada": 1,
+        "Aruba": 1,
+        "Jamaica": 1,
+        "\u00c5land Islands": 1,
+        "Syria": 1,
+        "Uruguay": 1,
+        "Faroe Islands": 1,
+        "Costa Rica": 1
+      }
     }
   ]
 }
