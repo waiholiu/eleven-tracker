@@ -36633,6 +36633,31 @@
         "Honduras": 1,
         "Macau": 1
       }
+    },
+    {
+      "timestamp": "2026-04-29 08:11:33 UTC",
+      "total": 73,
+      "countries": {
+        "Australia": 6,
+        "China": 11,
+        "France": 1,
+        "Germany": 2,
+        "India": 1,
+        "Israel": 1,
+        "Italy": 1,
+        "Japan": 12,
+        "Netherlands": 3,
+        "Poland": 2,
+        "Spain": 1,
+        "Sweden": 1,
+        "Thailand": 1,
+        "United Kingdom": 1,
+        "United States": 5,
+        "Taiwan": 1,
+        "Iraq": 1,
+        "Oman": 1,
+        "Macau": 1
+      }
     }
   ]
 }
