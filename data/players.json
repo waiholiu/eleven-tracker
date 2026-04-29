@@ -36608,6 +36608,31 @@
         "Uruguay": 1,
         "Dominica": 1
       }
+    },
+    {
+      "timestamp": "2026-04-29 05:52:07 UTC",
+      "total": 80,
+      "countries": {
+        "Australia": 2,
+        "Brazil": 2,
+        "Canada": 1,
+        "China": 10,
+        "Colombia": 1,
+        "Germany": 2,
+        "Indonesia": 1,
+        "Japan": 7,
+        "Mexico": 3,
+        "Russia": 1,
+        "United Kingdom": 1,
+        "United States": 18,
+        "South Korea": 3,
+        "Taiwan": 2,
+        "Algeria": 1,
+        "Armenia": 1,
+        "Estonia": 1,
+        "Honduras": 1,
+        "Macau": 1
+      }
     }
   ]
 }
