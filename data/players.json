@@ -37216,6 +37216,33 @@
         "Bangladesh": 1,
         "Gibraltar": 1
       }
+    },
+    {
+      "timestamp": "2026-04-30 06:24:55 UTC",
+      "total": 86,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 4,
+        "Belgium": 2,
+        "China": 7,
+        "Germany": 4,
+        "Israel": 1,
+        "Italy": 1,
+        "Japan": 7,
+        "Philippines": 2,
+        "Poland": 1,
+        "Russia": 1,
+        "Thailand": 1,
+        "United States": 17,
+        "Czech Republic": 1,
+        "Hong Kong": 2,
+        "Iran": 1,
+        "South Korea": 5,
+        "Taiwan": 3,
+        "Venezuela": 1,
+        "Estonia": 1,
+        "Kenya": 1
+      }
     }
   ]
 }
