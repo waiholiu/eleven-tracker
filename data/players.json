@@ -37243,6 +37243,48 @@
         "Estonia": 1,
         "Kenya": 1
       }
+    },
+    {
+      "timestamp": "2026-04-30 08:37:53 UTC",
+      "total": 101,
+      "countries": {
+        "Australia": 4,
+        "Belgium": 2,
+        "Canada": 1,
+        "China": 18,
+        "Denmark": 1,
+        "Egypt": 1,
+        "France": 6,
+        "Germany": 6,
+        "Greece": 1,
+        "India": 1,
+        "Ireland": 2,
+        "Israel": 1,
+        "Italy": 2,
+        "Japan": 6,
+        "Netherlands": 1,
+        "Nigeria": 1,
+        "Philippines": 1,
+        "Poland": 1,
+        "Russia": 1,
+        "Serbia": 1,
+        "Spain": 3,
+        "Sweden": 2,
+        "Thailand": 1,
+        "Ukraine": 2,
+        "United Kingdom": 4,
+        "United States": 4,
+        "Belarus": 1,
+        "South Korea": 4,
+        "Singapore": 1,
+        "Latvia": 1,
+        "Kazakhstan": 1,
+        "Nepal": 1,
+        "\u00c5land Islands": 1,
+        "Kenya": 1,
+        "Cyprus": 1,
+        "Fiji": 1
+      }
     }
   ]
 }
