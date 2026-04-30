@@ -37285,6 +37285,44 @@
         "Cyprus": 1,
         "Fiji": 1
       }
+    },
+    {
+      "timestamp": "2026-04-30 10:52:31 UTC",
+      "total": 119,
+      "countries": {
+        "Australia": 4,
+        "Austria": 1,
+        "Belgium": 1,
+        "Brazil": 1,
+        "China": 20,
+        "France": 4,
+        "Germany": 3,
+        "Greece": 2,
+        "India": 5,
+        "Israel": 1,
+        "Italy": 1,
+        "Japan": 13,
+        "Philippines": 2,
+        "Poland": 1,
+        "Russia": 1,
+        "Saudi Arabia": 2,
+        "Spain": 5,
+        "Sweden": 1,
+        "Thailand": 1,
+        "United Kingdom": 3,
+        "United States": 4,
+        "Andorra": 1,
+        "Hong Kong": 1,
+        "South Korea": 7,
+        "Oman": 1,
+        "Palestinian Territories": 1,
+        "Barbados": 1,
+        "Singapore": 1,
+        "Malaysia": 2,
+        "Switzerland": 1,
+        "Antigua and Barbuda": 1,
+        "Madagascar": 1
+      }
     }
   ]
 }
