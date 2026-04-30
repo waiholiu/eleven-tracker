@@ -37724,6 +37724,50 @@
         "Faroe Islands": 1,
         "Cameroon": 1
       }
+    },
+    {
+      "timestamp": "2026-04-30 22:51:27 UTC",
+      "total": 167,
+      "countries": {
+        "Angola": 1,
+        "Argentina": 2,
+        "Australia": 2,
+        "Brazil": 7,
+        "Canada": 12,
+        "China": 5,
+        "Colombia": 2,
+        "Croatia": 1,
+        "Egypt": 1,
+        "France": 6,
+        "Germany": 1,
+        "India": 2,
+        "Ireland": 3,
+        "Italy": 1,
+        "Japan": 1,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "Philippines": 1,
+        "Poland": 2,
+        "Russia": 1,
+        "Saudi Arabia": 1,
+        "Spain": 3,
+        "Ukraine": 1,
+        "United Kingdom": 8,
+        "United States": 52,
+        "Andorra": 1,
+        "Chile": 1,
+        "Hong Kong": 1,
+        "South Korea": 2,
+        "Turkey": 1,
+        "Iraq": 1,
+        "Aruba": 1,
+        "Bulgaria": 1,
+        "Latvia": 1,
+        "Norway": 1,
+        "Hungary": 1,
+        "Nicaragua": 1,
+        "Slovenia": 1
+      }
     }
   ]
 }
