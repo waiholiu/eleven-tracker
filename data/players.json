@@ -37915,6 +37915,50 @@
         "Jordan": 1,
         "Antarctica": 1
       }
+    },
+    {
+      "timestamp": "2026-05-01 10:06:50 UTC",
+      "total": 152,
+      "countries": {
+        "Australia": 13,
+        "Austria": 1,
+        "Belgium": 2,
+        "Canada": 3,
+        "China": 15,
+        "Colombia": 1,
+        "Denmark": 1,
+        "France": 8,
+        "Germany": 9,
+        "Israel": 2,
+        "Italy": 5,
+        "Japan": 7,
+        "Philippines": 1,
+        "Poland": 3,
+        "Russia": 5,
+        "Spain": 5,
+        "Ukraine": 1,
+        "United Kingdom": 12,
+        "United States": 3,
+        "Czech Republic": 1,
+        "Hong Kong": 2,
+        "Iran": 1,
+        "Slovakia": 1,
+        "South Korea": 6,
+        "Taiwan": 1,
+        "Turkey": 2,
+        "Lithuania": 1,
+        "Bangladesh": 1,
+        "Singapore": 1,
+        "Switzerland": 1,
+        "Latvia": 1,
+        "Monaco": 1,
+        "Norway": 2,
+        "Finland": 1,
+        "Zimbabwe": 1,
+        "Nepal": 1,
+        "Qatar": 2,
+        "Mauritius": 1
+      }
     }
   ]
 }
