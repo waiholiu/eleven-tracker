@@ -37871,6 +37871,50 @@
         "Norway": 1,
         "Nepal": 1
       }
+    },
+    {
+      "timestamp": "2026-05-01 08:28:27 UTC",
+      "total": 130,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 7,
+        "Austria": 1,
+        "Belgium": 1,
+        "China": 21,
+        "Colombia": 1,
+        "Denmark": 1,
+        "France": 2,
+        "Germany": 11,
+        "India": 3,
+        "Indonesia": 2,
+        "Ireland": 2,
+        "Israel": 1,
+        "Italy": 10,
+        "Japan": 3,
+        "Nigeria": 1,
+        "Philippines": 1,
+        "Poland": 3,
+        "Portugal": 1,
+        "Puerto Rico": 1,
+        "Spain": 5,
+        "Sweden": 2,
+        "Ukraine": 1,
+        "United Kingdom": 5,
+        "United States": 3,
+        "Vietnam": 1,
+        "Czech Republic": 2,
+        "South Africa": 1,
+        "South Korea": 3,
+        "Taiwan": 1,
+        "Turkey": 1,
+        "Romania": 1,
+        "Singapore": 5,
+        "Malaysia": 1,
+        "Switzerland": 1,
+        "Afghanistan": 1,
+        "Jordan": 1,
+        "Antarctica": 1
+      }
     }
   ]
 }
