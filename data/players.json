@@ -38458,6 +38458,53 @@
         "Antigua and Barbuda": 1,
         "Moldova": 1
       }
+    },
+    {
+      "timestamp": "2026-05-01 22:11:08 UTC",
+      "total": 200,
+      "countries": {
+        "Argentina": 2,
+        "Brazil": 15,
+        "Canada": 13,
+        "China": 4,
+        "Colombia": 3,
+        "Denmark": 1,
+        "Egypt": 1,
+        "France": 8,
+        "Germany": 6,
+        "Greece": 1,
+        "Ireland": 3,
+        "Israel": 1,
+        "Italy": 2,
+        "Japan": 1,
+        "Mexico": 2,
+        "Netherlands": 3,
+        "Philippines": 1,
+        "Poland": 2,
+        "Portugal": 2,
+        "Puerto Rico": 1,
+        "Russia": 1,
+        "Saudi Arabia": 2,
+        "Serbia": 1,
+        "Spain": 4,
+        "Sweden": 3,
+        "Ukraine": 1,
+        "United Kingdom": 8,
+        "United States": 58,
+        "Bahamas": 1,
+        "Czech Republic": 1,
+        "Hong Kong": 1,
+        "Slovakia": 1,
+        "South Korea": 2,
+        "Taiwan": 1,
+        "Trinidad and Tobago": 1,
+        "Turkey": 2,
+        "Armenia": 1,
+        "Bulgaria": 1,
+        "Norway": 2,
+        "Gibraltar": 1,
+        "Honduras": 1
+      }
     }
   ]
 }
