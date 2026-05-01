@@ -37848,6 +37848,29 @@
         "Macau": 1,
         "Liberia": 1
       }
+    },
+    {
+      "timestamp": "2026-05-01 06:13:55 UTC",
+      "total": 85,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 3,
+        "Canada": 3,
+        "China": 16,
+        "France": 1,
+        "Germany": 2,
+        "Japan": 3,
+        "Russia": 1,
+        "United Kingdom": 2,
+        "United States": 18,
+        "Vietnam": 1,
+        "Chile": 1,
+        "Slovakia": 1,
+        "South Korea": 6,
+        "Taiwan": 5,
+        "Norway": 1,
+        "Nepal": 1
+      }
     }
   ]
 }
