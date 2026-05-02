@@ -38621,6 +38621,43 @@
         "Guatemala": 1,
         "Ecuador": 1
       }
+    },
+    {
+      "timestamp": "2026-05-02 06:11:33 UTC",
+      "total": 130,
+      "countries": {
+        "Angola": 1,
+        "Australia": 6,
+        "Brazil": 1,
+        "Canada": 2,
+        "China": 15,
+        "Denmark": 2,
+        "France": 2,
+        "Germany": 1,
+        "Israel": 2,
+        "Japan": 9,
+        "Mexico": 2,
+        "Netherlands": 1,
+        "Philippines": 2,
+        "Poland": 2,
+        "Russia": 2,
+        "Sweden": 2,
+        "Ukraine": 1,
+        "United Kingdom": 2,
+        "United States": 27,
+        "Czech Republic": 1,
+        "South Korea": 2,
+        "Taiwan": 3,
+        "Morocco": 1,
+        "Jamaica": 1,
+        "Singapore": 1,
+        "New Zealand": 2,
+        "Switzerland": 1,
+        "Kazakhstan": 1,
+        "Afghanistan": 1,
+        "Kenya": 1,
+        "Costa Rica": 1
+      }
     }
   ]
 }
