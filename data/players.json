@@ -38658,6 +38658,40 @@
         "Kenya": 1,
         "Costa Rica": 1
       }
+    },
+    {
+      "timestamp": "2026-05-02 08:06:00 UTC",
+      "total": 126,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 5,
+        "Bahrain": 1,
+        "Canada": 1,
+        "China": 19,
+        "Denmark": 1,
+        "Egypt": 2,
+        "France": 6,
+        "Germany": 2,
+        "India": 1,
+        "Indonesia": 1,
+        "Ireland": 1,
+        "Italy": 5,
+        "Japan": 9,
+        "Pakistan": 1,
+        "Russia": 1,
+        "Sweden": 4,
+        "Ukraine": 2,
+        "United Kingdom": 3,
+        "United States": 9,
+        "Hong Kong": 2,
+        "South Korea": 7,
+        "Taiwan": 2,
+        "Malaysia": 1,
+        "Kazakhstan": 1,
+        "Afghanistan": 1,
+        "Estonia": 1,
+        "Kenya": 1
+      }
     }
   ]
 }
