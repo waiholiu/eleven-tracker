@@ -38787,6 +38787,49 @@
         "Cyprus": 1,
         "Antarctica": 1
       }
+    },
+    {
+      "timestamp": "2026-05-02 11:42:02 UTC",
+      "total": 180,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 5,
+        "Brazil": 1,
+        "Canada": 3,
+        "China": 43,
+        "Denmark": 1,
+        "France": 7,
+        "Germany": 5,
+        "India": 2,
+        "Israel": 2,
+        "Italy": 4,
+        "Japan": 19,
+        "Nigeria": 1,
+        "Pakistan": 1,
+        "Poland": 2,
+        "Russia": 4,
+        "Spain": 3,
+        "United Kingdom": 4,
+        "United States": 9,
+        "Vietnam": 1,
+        "Hong Kong": 2,
+        "Iran": 1,
+        "South Africa": 1,
+        "South Korea": 6,
+        "Turkey": 2,
+        "Albania": 1,
+        "Palestinian Territories": 1,
+        "Jamaica": 1,
+        "Singapore": 1,
+        "Armenia": 1,
+        "Bulgaria": 2,
+        "Malaysia": 1,
+        "Switzerland": 2,
+        "Norway": 2,
+        "Finland": 1,
+        "Qatar": 1,
+        "Niue": 1
+      }
     }
   ]
 }
