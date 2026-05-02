@@ -38599,6 +38599,28 @@
         "Panama": 1,
         "Dominica": 1
       }
+    },
+    {
+      "timestamp": "2026-05-02 03:58:25 UTC",
+      "total": 134,
+      "countries": {
+        "Australia": 2,
+        "Brazil": 5,
+        "Canada": 13,
+        "China": 10,
+        "France": 1,
+        "India": 3,
+        "Japan": 6,
+        "Mexico": 2,
+        "Philippines": 1,
+        "Puerto Rico": 1,
+        "United States": 43,
+        "Chile": 1,
+        "South Korea": 5,
+        "United Arab Emirates": 1,
+        "Guatemala": 1,
+        "Ecuador": 1
+      }
     }
   ]
 }
