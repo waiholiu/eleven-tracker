@@ -39292,6 +39292,53 @@
         "Sri Lanka": 1,
         "Liechtenstein": 1
       }
+    },
+    {
+      "timestamp": "2026-05-02 21:37:33 UTC",
+      "total": 175,
+      "countries": {
+        "Argentina": 2,
+        "Belgium": 4,
+        "Brazil": 11,
+        "Canada": 11,
+        "China": 2,
+        "Colombia": 1,
+        "Denmark": 2,
+        "France": 2,
+        "Germany": 5,
+        "Greece": 1,
+        "Indonesia": 1,
+        "Israel": 1,
+        "Italy": 3,
+        "Japan": 1,
+        "Lebanon": 1,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "Philippines": 1,
+        "Poland": 3,
+        "Portugal": 1,
+        "Russia": 3,
+        "Spain": 5,
+        "Sweden": 7,
+        "United Kingdom": 15,
+        "United States": 33,
+        "Chile": 2,
+        "Czech Republic": 2,
+        "Iran": 1,
+        "Slovakia": 1,
+        "Turkey": 4,
+        "Cuba": 2,
+        "Romania": 1,
+        "Jamaica": 1,
+        "Armenia": 1,
+        "Kazakhstan": 1,
+        "Hungary": 1,
+        "Montenegro": 1,
+        "Uruguay": 1,
+        "Madagascar": 1,
+        "Ecuador": 1,
+        "Cyprus": 1
+      }
     }
   ]
 }
