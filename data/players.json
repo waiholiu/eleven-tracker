@@ -39420,6 +39420,41 @@
         "Dominica": 1,
         "Guatemala": 1
       }
+    },
+    {
+      "timestamp": "2026-05-03 02:37:34 UTC",
+      "total": 188,
+      "countries": {
+        "Angola": 1,
+        "Argentina": 2,
+        "Australia": 1,
+        "Austria": 1,
+        "Brazil": 10,
+        "Canada": 15,
+        "China": 13,
+        "Egypt": 1,
+        "Germany": 2,
+        "Japan": 7,
+        "Mexico": 2,
+        "Puerto Rico": 1,
+        "United Kingdom": 2,
+        "United States": 77,
+        "Hong Kong": 1,
+        "South Korea": 2,
+        "Taiwan": 1,
+        "Trinidad and Tobago": 1,
+        "New Zealand": 1,
+        "Armenia": 1,
+        "Norway": 1,
+        "Georgia": 1,
+        "Kazakhstan": 1,
+        "Hungary": 1,
+        "Uruguay": 1,
+        "Azerbaijan": 1,
+        "Sri Lanka": 1,
+        "Botswana": 1,
+        "Norfolk Island": 1
+      }
     }
   ]
 }
