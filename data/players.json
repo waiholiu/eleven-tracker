@@ -39530,6 +39530,43 @@
         "Fiji": 1,
         "Mozambique": 1
       }
+    },
+    {
+      "timestamp": "2026-05-03 09:38:32 UTC",
+      "total": 165,
+      "countries": {
+        "Angola": 1,
+        "Argentina": 1,
+        "Australia": 5,
+        "Belgium": 1,
+        "Canada": 1,
+        "China": 21,
+        "Denmark": 2,
+        "Egypt": 2,
+        "France": 14,
+        "Germany": 7,
+        "Ireland": 1,
+        "Italy": 9,
+        "Japan": 9,
+        "Philippines": 2,
+        "Poland": 6,
+        "Russia": 5,
+        "Serbia": 1,
+        "Spain": 2,
+        "Sweden": 5,
+        "United Kingdom": 5,
+        "United States": 6,
+        "Chile": 1,
+        "Slovakia": 1,
+        "South Korea": 6,
+        "Turkey": 2,
+        "Venezuela": 1,
+        "Morocco": 1,
+        "Romania": 1,
+        "Latvia": 1,
+        "Zimbabwe": 1,
+        "Montenegro": 1
+      }
     }
   ]
 }
