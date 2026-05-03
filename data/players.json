@@ -39567,6 +39567,53 @@
         "Zimbabwe": 1,
         "Montenegro": 1
       }
+    },
+    {
+      "timestamp": "2026-05-03 10:52:26 UTC",
+      "total": 180,
+      "countries": {
+        "Australia": 5,
+        "Austria": 2,
+        "Belgium": 1,
+        "China": 19,
+        "Colombia": 1,
+        "France": 4,
+        "Germany": 14,
+        "Greece": 1,
+        "India": 5,
+        "Israel": 2,
+        "Italy": 5,
+        "Japan": 10,
+        "Lebanon": 1,
+        "Netherlands": 2,
+        "Philippines": 2,
+        "Poland": 7,
+        "Portugal": 2,
+        "Russia": 1,
+        "Saudi Arabia": 1,
+        "Serbia": 1,
+        "Spain": 7,
+        "Sweden": 5,
+        "Ukraine": 1,
+        "United Kingdom": 8,
+        "United States": 10,
+        "Belarus": 1,
+        "Slovakia": 1,
+        "South Korea": 8,
+        "Turkey": 1,
+        "Lithuania": 1,
+        "Anguilla": 1,
+        "Romania": 1,
+        "Jamaica": 1,
+        "Malaysia": 2,
+        "Norway": 3,
+        "Kazakhstan": 1,
+        "Afghanistan": 1,
+        "\u00c5land Islands": 1,
+        "Hungary": 1,
+        "Kyrgyzstan": 3,
+        "Azerbaijan": 1
+      }
     }
   ]
 }
