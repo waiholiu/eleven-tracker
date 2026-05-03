@@ -39455,6 +39455,39 @@
         "Botswana": 1,
         "Norfolk Island": 1
       }
+    },
+    {
+      "timestamp": "2026-05-03 05:55:53 UTC",
+      "total": 107,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 9,
+        "Belgium": 1,
+        "Brazil": 1,
+        "Canada": 5,
+        "China": 16,
+        "Colombia": 1,
+        "France": 1,
+        "India": 1,
+        "Indonesia": 1,
+        "Japan": 2,
+        "Mexico": 2,
+        "Netherlands": 1,
+        "Poland": 1,
+        "Russia": 2,
+        "United Kingdom": 1,
+        "United States": 18,
+        "Vietnam": 1,
+        "Bahamas": 1,
+        "Chile": 1,
+        "Hong Kong": 1,
+        "South Korea": 10,
+        "Taiwan": 2,
+        "Kuwait": 1,
+        "New Zealand": 2,
+        "Malaysia": 1,
+        "Afghanistan": 1
+      }
     }
   ]
 }
