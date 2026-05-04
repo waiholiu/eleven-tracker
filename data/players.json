@@ -40274,6 +40274,35 @@
         "Uruguay": 1,
         "Guatemala": 1
       }
+    },
+    {
+      "timestamp": "2026-05-04 02:35:50 UTC",
+      "total": 161,
+      "countries": {
+        "Australia": 2,
+        "Brazil": 7,
+        "Canada": 11,
+        "China": 9,
+        "Colombia": 1,
+        "El Salvador": 1,
+        "Germany": 1,
+        "India": 3,
+        "Japan": 8,
+        "Mexico": 3,
+        "Spain": 2,
+        "United Kingdom": 3,
+        "United States": 63,
+        "Chile": 1,
+        "South Korea": 3,
+        "Taiwan": 1,
+        "Trinidad and Tobago": 1,
+        "Venezuela": 1,
+        "Kuwait": 1,
+        "Switzerland": 1,
+        "Ethiopia": 1,
+        "Palau": 1,
+        "Laos": 1
+      }
     }
   ]
 }
