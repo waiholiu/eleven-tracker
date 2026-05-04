@@ -40372,6 +40372,53 @@
         "Kyrgyzstan": 1,
         "Fiji": 1
       }
+    },
+    {
+      "timestamp": "2026-05-04 11:20:42 UTC",
+      "total": 177,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 9,
+        "Austria": 2,
+        "Bahrain": 1,
+        "Belgium": 1,
+        "Brazil": 1,
+        "Burundi": 1,
+        "China": 34,
+        "Colombia": 1,
+        "France": 6,
+        "Germany": 8,
+        "India": 1,
+        "Ireland": 1,
+        "Israel": 1,
+        "Italy": 2,
+        "Japan": 16,
+        "Netherlands": 2,
+        "Nigeria": 1,
+        "Pakistan": 1,
+        "Philippines": 3,
+        "Poland": 1,
+        "Russia": 1,
+        "Saudi Arabia": 1,
+        "Spain": 6,
+        "Ukraine": 2,
+        "United Kingdom": 17,
+        "United States": 5,
+        "Andorra": 1,
+        "Belarus": 1,
+        "Czech Republic": 2,
+        "Iran": 1,
+        "South Korea": 8,
+        "Turkey": 2,
+        "Lithuania": 1,
+        "Aruba": 1,
+        "Bulgaria": 2,
+        "Kiribati": 1,
+        "Finland": 1,
+        "Kazakhstan": 1,
+        "Syria": 1,
+        "Macau": 1
+      }
     }
   ]
 }
