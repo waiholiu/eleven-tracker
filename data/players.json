@@ -40303,6 +40303,32 @@
         "Palau": 1,
         "Laos": 1
       }
+    },
+    {
+      "timestamp": "2026-05-04 06:09:20 UTC",
+      "total": 78,
+      "countries": {
+        "Australia": 4,
+        "Brazil": 2,
+        "Canada": 2,
+        "China": 10,
+        "France": 2,
+        "Germany": 3,
+        "Israel": 1,
+        "Japan": 9,
+        "Mexico": 2,
+        "United Kingdom": 3,
+        "United States": 16,
+        "Hong Kong": 1,
+        "South Korea": 5,
+        "Taiwan": 2,
+        "Latvia": 1,
+        "Finland": 1,
+        "Estonia": 1,
+        "Mongolia": 1,
+        "Honduras": 1,
+        "Yemen": 1
+      }
     }
   ]
 }
