@@ -40758,6 +40758,46 @@
         "Ecuador": 1,
         "Ghana": 1
       }
+    },
+    {
+      "timestamp": "2026-05-04 22:57:50 UTC",
+      "total": 160,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 1,
+        "Belgium": 3,
+        "Brazil": 15,
+        "Canada": 16,
+        "China": 6,
+        "Colombia": 2,
+        "Dominican Republic": 1,
+        "El Salvador": 1,
+        "France": 2,
+        "Germany": 5,
+        "India": 1,
+        "Mexico": 2,
+        "Philippines": 2,
+        "Poland": 1,
+        "Portugal": 3,
+        "Puerto Rico": 2,
+        "Russia": 1,
+        "Saudi Arabia": 1,
+        "Spain": 1,
+        "Ukraine": 2,
+        "United Kingdom": 6,
+        "United States": 36,
+        "Vietnam": 1,
+        "Belarus": 1,
+        "South Africa": 1,
+        "South Korea": 1,
+        "Taiwan": 1,
+        "Trinidad and Tobago": 1,
+        "United Arab Emirates": 1,
+        "Nepal": 1,
+        "Syria": 1,
+        "Uruguay": 2,
+        "Cayman Islands": 1
+      }
     }
   ]
 }
