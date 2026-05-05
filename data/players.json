@@ -40969,6 +40969,47 @@
         "Fiji": 1,
         "Cocos Islands": 1
       }
+    },
+    {
+      "timestamp": "2026-05-05 11:46:57 UTC",
+      "total": 151,
+      "countries": {
+        "Australia": 10,
+        "Austria": 1,
+        "Brazil": 1,
+        "Canada": 1,
+        "China": 28,
+        "France": 7,
+        "Germany": 6,
+        "India": 4,
+        "Indonesia": 1,
+        "Israel": 2,
+        "Italy": 3,
+        "Japan": 12,
+        "Lebanon": 1,
+        "Netherlands": 1,
+        "Nigeria": 1,
+        "Pakistan": 1,
+        "Philippines": 1,
+        "Russia": 3,
+        "Saudi Arabia": 1,
+        "Spain": 3,
+        "Sweden": 2,
+        "Thailand": 2,
+        "Ukraine": 5,
+        "United Kingdom": 9,
+        "United States": 1,
+        "Belarus": 1,
+        "Chile": 1,
+        "Czech Republic": 1,
+        "South Korea": 11,
+        "Taiwan": 1,
+        "Turkey": 1,
+        "British Indian Ocean Territory": 1,
+        "Nepal": 1,
+        "Hungary": 1,
+        "Guatemala": 1
+      }
     }
   ]
 }
