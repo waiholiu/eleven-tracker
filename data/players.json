@@ -40931,6 +40931,44 @@
         "French Polynesia": 1,
         "Sudan": 1
       }
+    },
+    {
+      "timestamp": "2026-05-05 10:16:59 UTC",
+      "total": 141,
+      "countries": {
+        "Australia": 11,
+        "China": 22,
+        "Denmark": 1,
+        "France": 4,
+        "Germany": 8,
+        "India": 1,
+        "Indonesia": 2,
+        "Ireland": 1,
+        "Israel": 2,
+        "Italy": 1,
+        "Japan": 10,
+        "Pakistan": 1,
+        "Philippines": 2,
+        "Poland": 2,
+        "Russia": 2,
+        "Spain": 6,
+        "Thailand": 1,
+        "Ukraine": 3,
+        "United Kingdom": 7,
+        "United States": 2,
+        "Slovakia": 1,
+        "South Korea": 7,
+        "Albania": 1,
+        "Singapore": 1,
+        "New Zealand": 1,
+        "U.S. Virgin Islands": 1,
+        "Malaysia": 1,
+        "Switzerland": 2,
+        "Norway": 3,
+        "Afghanistan": 1,
+        "Fiji": 1,
+        "Cocos Islands": 1
+      }
     }
   ]
 }
