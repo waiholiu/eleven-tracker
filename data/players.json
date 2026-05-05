@@ -40871,6 +40871,34 @@
         "Barbados": 1,
         "Afghanistan": 1
       }
+    },
+    {
+      "timestamp": "2026-05-05 05:40:19 UTC",
+      "total": 94,
+      "countries": {
+        "Argentina": 2,
+        "Brazil": 2,
+        "Canada": 3,
+        "China": 14,
+        "France": 1,
+        "Germany": 3,
+        "India": 2,
+        "Israel": 1,
+        "Japan": 4,
+        "Philippines": 1,
+        "Puerto Rico": 1,
+        "Sweden": 1,
+        "Thailand": 2,
+        "Ukraine": 1,
+        "United States": 24,
+        "Belarus": 1,
+        "Hong Kong": 1,
+        "South Korea": 7,
+        "Taiwan": 1,
+        "Jamaica": 1,
+        "Bulgaria": 1,
+        "Djibouti": 1
+      }
     }
   ]
 }
