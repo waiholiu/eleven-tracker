@@ -40899,6 +40899,38 @@
         "Bulgaria": 1,
         "Djibouti": 1
       }
+    },
+    {
+      "timestamp": "2026-05-05 08:04:30 UTC",
+      "total": 84,
+      "countries": {
+        "Australia": 5,
+        "Belgium": 1,
+        "China": 24,
+        "Croatia": 1,
+        "France": 3,
+        "Germany": 4,
+        "Indonesia": 2,
+        "Israel": 1,
+        "Italy": 1,
+        "Japan": 5,
+        "Philippines": 1,
+        "Poland": 1,
+        "Russia": 2,
+        "Ukraine": 1,
+        "United States": 3,
+        "South Korea": 4,
+        "Taiwan": 1,
+        "Turkey": 1,
+        "Kuwait": 1,
+        "Uzbekistan": 1,
+        "Malaysia": 1,
+        "Kazakhstan": 1,
+        "Jordan": 1,
+        "Fiji": 1,
+        "French Polynesia": 1,
+        "Sudan": 1
+      }
     }
   ]
 }
