@@ -41463,6 +41463,45 @@
         "Azerbaijan": 1,
         "Yemen": 1
       }
+    },
+    {
+      "timestamp": "2026-05-06 10:32:28 UTC",
+      "total": 116,
+      "countries": {
+        "Australia": 2,
+        "Bahrain": 1,
+        "Belgium": 1,
+        "China": 15,
+        "France": 4,
+        "Germany": 9,
+        "Greece": 2,
+        "India": 1,
+        "Israel": 1,
+        "Italy": 1,
+        "Japan": 13,
+        "Netherlands": 3,
+        "Poland": 1,
+        "Russia": 3,
+        "Spain": 7,
+        "Sweden": 2,
+        "Ukraine": 2,
+        "United Kingdom": 5,
+        "United States": 1,
+        "Bahamas": 1,
+        "Belarus": 1,
+        "Slovakia": 1,
+        "South Korea": 12,
+        "Turkey": 1,
+        "Lithuania": 1,
+        "Romania": 1,
+        "New Zealand": 1,
+        "Armenia": 1,
+        "Malaysia": 1,
+        "Latvia": 1,
+        "Finland": 2,
+        "Jordan": 1,
+        "Sudan": 1
+      }
     }
   ]
 }
