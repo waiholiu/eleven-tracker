@@ -41827,6 +41827,53 @@
         "Cyprus": 1,
         "Swaziland": 1
       }
+    },
+    {
+      "timestamp": "2026-05-06 22:49:47 UTC",
+      "total": 182,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 3,
+        "Australia": 1,
+        "Austria": 1,
+        "Belgium": 2,
+        "Brazil": 11,
+        "Canada": 8,
+        "China": 7,
+        "Colombia": 1,
+        "France": 6,
+        "Germany": 3,
+        "Ireland": 3,
+        "Israel": 1,
+        "Netherlands": 1,
+        "Philippines": 2,
+        "Portugal": 1,
+        "Puerto Rico": 1,
+        "Saudi Arabia": 2,
+        "Spain": 4,
+        "Ukraine": 2,
+        "United Kingdom": 4,
+        "United States": 60,
+        "Belarus": 1,
+        "Slovakia": 1,
+        "Trinidad and Tobago": 1,
+        "Turkey": 2,
+        "Grenada": 1,
+        "Iraq": 2,
+        "Palestinian Territories": 1,
+        "Anguilla": 1,
+        "Aruba": 1,
+        "Cuba": 1,
+        "Romania": 1,
+        "Guyana": 1,
+        "Jamaica": 1,
+        "Peru": 1,
+        "Bulgaria": 1,
+        "Syria": 1,
+        "Jordan": 1,
+        "Uruguay": 3,
+        "Bouvet Island": 1
+      }
     }
   ]
 }
