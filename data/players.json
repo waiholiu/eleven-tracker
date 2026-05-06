@@ -41402,6 +41402,40 @@
         "Ethiopia": 1,
         "Faroe Islands": 1
       }
+    },
+    {
+      "timestamp": "2026-05-06 02:34:22 UTC",
+      "total": 147,
+      "countries": {
+        "Brazil": 2,
+        "Canada": 13,
+        "China": 10,
+        "Colombia": 1,
+        "Egypt": 1,
+        "Germany": 1,
+        "India": 3,
+        "Indonesia": 2,
+        "Japan": 3,
+        "Mexico": 3,
+        "Pakistan": 1,
+        "Philippines": 3,
+        "Poland": 1,
+        "Portugal": 1,
+        "Puerto Rico": 2,
+        "United States": 64,
+        "Bahamas": 1,
+        "Chile": 1,
+        "South Korea": 3,
+        "Turkey": 1,
+        "Albania": 1,
+        "Barbados": 1,
+        "Cuba": 2,
+        "Jamaica": 1,
+        "Peru": 1,
+        "Switzerland": 1,
+        "Afghanistan": 1,
+        "Nicaragua": 1
+      }
     }
   ]
 }
