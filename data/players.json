@@ -41874,6 +41874,41 @@
         "Uruguay": 3,
         "Bouvet Island": 1
       }
+    },
+    {
+      "timestamp": "2026-05-06 23:46:40 UTC",
+      "total": 140,
+      "countries": {
+        "Argentina": 3,
+        "Australia": 2,
+        "Belgium": 1,
+        "Brazil": 6,
+        "Canada": 8,
+        "China": 4,
+        "France": 2,
+        "Germany": 3,
+        "Guam": 1,
+        "India": 1,
+        "Italy": 2,
+        "Japan": 3,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "Pakistan": 1,
+        "Poland": 1,
+        "Puerto Rico": 1,
+        "United Kingdom": 6,
+        "United States": 56,
+        "Bermuda": 1,
+        "South Korea": 2,
+        "Iraq": 1,
+        "Cuba": 1,
+        "Peru": 1,
+        "Switzerland": 1,
+        "Nepal": 1,
+        "Qatar": 1,
+        "Uruguay": 1,
+        "Yemen": 1
+      }
     }
   ]
 }
