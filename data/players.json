@@ -41909,6 +41909,39 @@
         "Uruguay": 1,
         "Yemen": 1
       }
+    },
+    {
+      "timestamp": "2026-05-07 02:36:45 UTC",
+      "total": 133,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 4,
+        "Brazil": 3,
+        "Canada": 11,
+        "China": 6,
+        "Colombia": 1,
+        "Dominican Republic": 1,
+        "Egypt": 1,
+        "Germany": 1,
+        "India": 2,
+        "Indonesia": 2,
+        "Japan": 2,
+        "Mexico": 2,
+        "Nigeria": 1,
+        "North Korea": 1,
+        "Pakistan": 1,
+        "Philippines": 1,
+        "Portugal": 1,
+        "Puerto Rico": 2,
+        "United States": 50,
+        "South Korea": 4,
+        "Taiwan": 2,
+        "Bangladesh": 1,
+        "Peru": 1,
+        "Guatemala": 1,
+        "Azerbaijan": 1,
+        "Bolivia": 1
+      }
     }
   ]
 }
