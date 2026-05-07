@@ -42003,6 +42003,50 @@
         "Hungary": 1,
         "Brunei": 1
       }
+    },
+    {
+      "timestamp": "2026-05-07 11:07:50 UTC",
+      "total": 130,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 7,
+        "Austria": 1,
+        "Belgium": 1,
+        "China": 20,
+        "Croatia": 1,
+        "France": 3,
+        "Germany": 5,
+        "India": 1,
+        "Israel": 1,
+        "Italy": 2,
+        "Japan": 7,
+        "Philippines": 1,
+        "Poland": 3,
+        "Portugal": 1,
+        "Russia": 2,
+        "Spain": 9,
+        "Thailand": 2,
+        "Ukraine": 2,
+        "United Kingdom": 2,
+        "United States": 4,
+        "Andorra": 1,
+        "Bahamas": 1,
+        "Belarus": 1,
+        "Chile": 1,
+        "Czech Republic": 1,
+        "South Korea": 11,
+        "Taiwan": 1,
+        "Turkey": 1,
+        "Iraq": 1,
+        "Aruba": 1,
+        "Bangladesh": 1,
+        "Singapore": 1,
+        "Armenia": 1,
+        "Bulgaria": 1,
+        "Malaysia": 3,
+        "Kazakhstan": 2,
+        "Qatar": 1
+      }
     }
   ]
 }
