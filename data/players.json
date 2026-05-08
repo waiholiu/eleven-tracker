@@ -42469,6 +42469,41 @@
         "Nicaragua": 1,
         "Macau": 1
       }
+    },
+    {
+      "timestamp": "2026-05-08 07:06:53 UTC",
+      "total": 86,
+      "countries": {
+        "Angola": 1,
+        "Australia": 5,
+        "Belgium": 1,
+        "Brazil": 1,
+        "Canada": 1,
+        "China": 12,
+        "Denmark": 1,
+        "France": 1,
+        "Germany": 2,
+        "Israel": 1,
+        "Italy": 2,
+        "Japan": 4,
+        "Puerto Rico": 1,
+        "Russia": 1,
+        "Saudi Arabia": 1,
+        "Serbia": 1,
+        "Sweden": 1,
+        "United Kingdom": 1,
+        "United States": 14,
+        "Hong Kong": 1,
+        "Slovakia": 1,
+        "South Korea": 6,
+        "Venezuela": 1,
+        "Lithuania": 1,
+        "Oman": 1,
+        "Tunisia": 1,
+        "New Zealand": 1,
+        "Bulgaria": 1,
+        "Kazakhstan": 1
+      }
     }
   ]
 }
