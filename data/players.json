@@ -42404,6 +42404,38 @@
         "Samoa": 1,
         "Paraguay": 1
       }
+    },
+    {
+      "timestamp": "2026-05-08 02:41:42 UTC",
+      "total": 147,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 1,
+        "Austria": 1,
+        "Brazil": 3,
+        "Canada": 8,
+        "China": 5,
+        "Colombia": 2,
+        "El Salvador": 1,
+        "Germany": 2,
+        "India": 2,
+        "Italy": 1,
+        "Japan": 4,
+        "Mexico": 1,
+        "Pakistan": 1,
+        "Poland": 2,
+        "Russia": 1,
+        "Saudi Arabia": 1,
+        "Thailand": 1,
+        "United States": 59,
+        "Vietnam": 1,
+        "South Africa": 2,
+        "South Korea": 4,
+        "Kuwait": 1,
+        "Palestinian Territories": 1,
+        "Senegal": 1,
+        "Kazakhstan": 1
+      }
     }
   ]
 }
