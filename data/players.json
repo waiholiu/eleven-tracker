@@ -42436,6 +42436,39 @@
         "Senegal": 1,
         "Kazakhstan": 1
       }
+    },
+    {
+      "timestamp": "2026-05-08 05:28:07 UTC",
+      "total": 107,
+      "countries": {
+        "Australia": 2,
+        "Brazil": 1,
+        "Canada": 5,
+        "China": 8,
+        "France": 1,
+        "Germany": 4,
+        "India": 1,
+        "Japan": 3,
+        "Mexico": 5,
+        "Philippines": 3,
+        "Puerto Rico": 1,
+        "Russia": 1,
+        "Saudi Arabia": 1,
+        "Serbia": 1,
+        "Thailand": 1,
+        "United Kingdom": 2,
+        "United States": 35,
+        "Vietnam": 2,
+        "Bahamas": 1,
+        "South Korea": 2,
+        "Taiwan": 1,
+        "Peru": 1,
+        "New Zealand": 1,
+        "Switzerland": 1,
+        "Kazakhstan": 1,
+        "Nicaragua": 1,
+        "Macau": 1
+      }
     }
   ]
 }
