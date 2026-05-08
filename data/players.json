@@ -42538,6 +42538,49 @@
         "Cyprus": 1,
         "French Polynesia": 1
       }
+    },
+    {
+      "timestamp": "2026-05-08 10:21:47 UTC",
+      "total": 120,
+      "countries": {
+        "Australia": 7,
+        "Bahrain": 1,
+        "Belgium": 1,
+        "China": 21,
+        "Croatia": 1,
+        "Egypt": 1,
+        "France": 7,
+        "Germany": 9,
+        "Greece": 1,
+        "Israel": 2,
+        "Italy": 2,
+        "Japan": 3,
+        "Pakistan": 1,
+        "Russia": 1,
+        "Spain": 3,
+        "Sweden": 1,
+        "Thailand": 1,
+        "Ukraine": 1,
+        "United Kingdom": 3,
+        "United States": 3,
+        "Belarus": 1,
+        "Czech Republic": 1,
+        "Slovakia": 2,
+        "South Africa": 1,
+        "South Korea": 6,
+        "Taiwan": 1,
+        "Venezuela": 1,
+        "Kuwait": 1,
+        "Cuba": 1,
+        "New Zealand": 1,
+        "Armenia": 1,
+        "Bulgaria": 1,
+        "Malaysia": 1,
+        "Latvia": 1,
+        "Hungary": 1,
+        "Saint Lucia": 1,
+        "Mayotte": 1
+      }
     }
   ]
 }
