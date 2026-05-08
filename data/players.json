@@ -42504,6 +42504,40 @@
         "Bulgaria": 1,
         "Kazakhstan": 1
       }
+    },
+    {
+      "timestamp": "2026-05-08 08:54:32 UTC",
+      "total": 104,
+      "countries": {
+        "Australia": 5,
+        "Belgium": 1,
+        "Canada": 1,
+        "China": 22,
+        "Croatia": 1,
+        "France": 5,
+        "Germany": 3,
+        "India": 1,
+        "Israel": 1,
+        "Italy": 1,
+        "Japan": 3,
+        "Netherlands": 1,
+        "Poland": 2,
+        "Russia": 2,
+        "Serbia": 1,
+        "Spain": 2,
+        "United Kingdom": 3,
+        "United States": 11,
+        "Andorra": 1,
+        "Hong Kong": 1,
+        "South Korea": 4,
+        "Taiwan": 1,
+        "New Zealand": 2,
+        "Switzerland": 1,
+        "Hungary": 1,
+        "Jordan": 2,
+        "Cyprus": 1,
+        "French Polynesia": 1
+      }
     }
   ]
 }
