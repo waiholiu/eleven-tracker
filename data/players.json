@@ -42633,6 +42633,46 @@
         "Jordan": 1,
         "Saint Lucia": 1
       }
+    },
+    {
+      "timestamp": "2026-05-08 13:26:06 UTC",
+      "total": 198,
+      "countries": {
+        "Australia": 5,
+        "Austria": 3,
+        "Belgium": 3,
+        "China": 52,
+        "Denmark": 2,
+        "France": 11,
+        "Germany": 6,
+        "India": 2,
+        "Ireland": 1,
+        "Israel": 1,
+        "Italy": 4,
+        "Japan": 9,
+        "Netherlands": 3,
+        "Poland": 5,
+        "Spain": 5,
+        "Sweden": 1,
+        "Thailand": 1,
+        "Ukraine": 5,
+        "United Kingdom": 4,
+        "United States": 6,
+        "Vietnam": 1,
+        "Belarus": 1,
+        "Czech Republic": 2,
+        "South Africa": 1,
+        "South Korea": 11,
+        "Taiwan": 4,
+        "Turkey": 4,
+        "Iraq": 1,
+        "Palestinian Territories": 1,
+        "New Zealand": 2,
+        "Switzerland": 2,
+        "Latvia": 1,
+        "Finland": 1,
+        "British Antarctic Territory": 1
+      }
     }
   ]
 }
