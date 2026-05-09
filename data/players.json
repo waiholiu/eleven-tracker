@@ -43072,6 +43072,47 @@
         "Tokelau": 1,
         "Tanzania": 1
       }
+    },
+    {
+      "timestamp": "2026-05-09 01:14:22 UTC",
+      "total": 150,
+      "countries": {
+        "Australia": 5,
+        "Austria": 1,
+        "Brazil": 11,
+        "Canada": 5,
+        "China": 4,
+        "France": 3,
+        "Germany": 2,
+        "India": 1,
+        "Indonesia": 1,
+        "Japan": 9,
+        "Mexico": 4,
+        "Netherlands": 1,
+        "Pakistan": 1,
+        "Philippines": 2,
+        "Poland": 3,
+        "Russia": 1,
+        "Serbia": 1,
+        "Spain": 1,
+        "Thailand": 1,
+        "United Kingdom": 2,
+        "United States": 45,
+        "Iran": 1,
+        "South Africa": 2,
+        "South Korea": 3,
+        "Taiwan": 1,
+        "Trinidad and Tobago": 2,
+        "Venezuela": 1,
+        "Algeria": 1,
+        "Cuba": 1,
+        "U.S. Virgin Islands": 1,
+        "Armenia": 1,
+        "Georgia": 1,
+        "Honduras": 1,
+        "Ecuador": 1,
+        "Azerbaijan": 1
+      }
     }
   ]
 }
