@@ -43916,6 +43916,48 @@
         "Papua New Guinea": 1,
         "Yemen": 1
       }
+    },
+    {
+      "timestamp": "2026-05-09 23:43:24 UTC",
+      "total": 157,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 4,
+        "Belgium": 2,
+        "Brazil": 6,
+        "Canada": 16,
+        "China": 10,
+        "Colombia": 1,
+        "Croatia": 1,
+        "France": 3,
+        "Germany": 2,
+        "India": 1,
+        "Ireland": 1,
+        "Israel": 1,
+        "Italy": 5,
+        "Japan": 2,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "Nigeria": 1,
+        "Pakistan": 1,
+        "Poland": 1,
+        "Puerto Rico": 1,
+        "Saudi Arabia": 1,
+        "Serbia": 1,
+        "Spain": 4,
+        "Sweden": 1,
+        "Ukraine": 2,
+        "United Kingdom": 4,
+        "United States": 32,
+        "Belarus": 1,
+        "South Korea": 3,
+        "Algeria": 1,
+        "Palestinian Territories": 1,
+        "British Indian Ocean Territory": 1,
+        "Georgia": 1,
+        "\u00c5land Islands": 1,
+        "Tokelau": 1
+      }
     }
   ]
 }
