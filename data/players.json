@@ -43113,6 +43113,42 @@
         "Ecuador": 1,
         "Azerbaijan": 1
       }
+    },
+    {
+      "timestamp": "2026-05-09 04:45:07 UTC",
+      "total": 134,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 5,
+        "Austria": 1,
+        "Brazil": 1,
+        "Canada": 6,
+        "China": 3,
+        "Colombia": 1,
+        "Egypt": 1,
+        "El Salvador": 1,
+        "France": 2,
+        "Germany": 2,
+        "India": 1,
+        "Japan": 7,
+        "Mexico": 2,
+        "Philippines": 1,
+        "Puerto Rico": 1,
+        "United Kingdom": 1,
+        "United States": 38,
+        "Andorra": 1,
+        "Chile": 1,
+        "South Korea": 10,
+        "Taiwan": 1,
+        "Trinidad and Tobago": 1,
+        "Turkey": 1,
+        "United Arab Emirates": 1,
+        "Barbados": 1,
+        "New Zealand": 2,
+        "Bulgaria": 1,
+        "\u00c5land Islands": 1,
+        "Estonia": 1
+      }
     }
   ]
 }
