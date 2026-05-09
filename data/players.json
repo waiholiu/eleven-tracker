@@ -43149,6 +43149,43 @@
         "\u00c5land Islands": 1,
         "Estonia": 1
       }
+    },
+    {
+      "timestamp": "2026-05-09 07:05:20 UTC",
+      "total": 108,
+      "countries": {
+        "Australia": 3,
+        "Austria": 1,
+        "Brazil": 3,
+        "Canada": 1,
+        "China": 18,
+        "Egypt": 1,
+        "France": 2,
+        "Germany": 5,
+        "India": 1,
+        "Indonesia": 2,
+        "Italy": 2,
+        "Japan": 7,
+        "Lebanon": 1,
+        "Philippines": 2,
+        "Poland": 2,
+        "Saudi Arabia": 3,
+        "Spain": 1,
+        "Sweden": 1,
+        "Ukraine": 2,
+        "United Kingdom": 3,
+        "United States": 16,
+        "Czech Republic": 1,
+        "South Korea": 2,
+        "Taiwan": 1,
+        "Turkey": 1,
+        "Albania": 1,
+        "Algeria": 1,
+        "Switzerland": 1,
+        "Cambodia": 1,
+        "Estonia": 1,
+        "Azerbaijan": 1
+      }
     }
   ]
 }
