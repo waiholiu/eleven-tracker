@@ -44740,6 +44740,46 @@
         "Hungary": 1,
         "Ecuador": 2
       }
+    },
+    {
+      "timestamp": "2026-05-10 23:49:42 UTC",
+      "total": 152,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 2,
+        "Brazil": 14,
+        "Canada": 12,
+        "China": 1,
+        "Colombia": 1,
+        "Croatia": 1,
+        "Dominican Republic": 1,
+        "France": 2,
+        "Germany": 4,
+        "Guam": 1,
+        "Italy": 3,
+        "Japan": 3,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "Poland": 1,
+        "Puerto Rico": 2,
+        "Serbia": 1,
+        "United Kingdom": 3,
+        "United States": 50,
+        "Andorra": 1,
+        "Bermuda": 1,
+        "South Korea": 2,
+        "Iraq": 1,
+        "Palestinian Territories": 1,
+        "Armenia": 1,
+        "Malaysia": 1,
+        "Finland": 1,
+        "Zimbabwe": 1,
+        "Syria": 1,
+        "Hungary": 1,
+        "Uruguay": 1,
+        "Faroe Islands": 1,
+        "Paraguay": 1
+      }
     }
   ]
 }
