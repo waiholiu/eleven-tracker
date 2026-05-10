@@ -43992,6 +43992,37 @@
         "Uruguay": 1,
         "Nicaragua": 1
       }
+    },
+    {
+      "timestamp": "2026-05-10 06:08:25 UTC",
+      "total": 112,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 3,
+        "Brazil": 2,
+        "Canada": 3,
+        "China": 16,
+        "Croatia": 1,
+        "France": 1,
+        "Germany": 2,
+        "India": 2,
+        "Italy": 1,
+        "Japan": 7,
+        "Mexico": 3,
+        "Pakistan": 1,
+        "Spain": 1,
+        "United States": 23,
+        "Czech Republic": 1,
+        "Hong Kong": 5,
+        "South Korea": 6,
+        "Taiwan": 3,
+        "Algeria": 1,
+        "Iraq": 1,
+        "New Zealand": 1,
+        "U.S. Virgin Islands": 1,
+        "Armenia": 1,
+        "Luxembourg": 1
+      }
     }
   ]
 }
