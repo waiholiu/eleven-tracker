@@ -44697,6 +44697,49 @@
         "Ecuador": 1,
         "Bolivia": 1
       }
+    },
+    {
+      "timestamp": "2026-05-10 22:42:32 UTC",
+      "total": 179,
+      "countries": {
+        "Argentina": 3,
+        "Australia": 1,
+        "Brazil": 13,
+        "Canada": 14,
+        "China": 4,
+        "Dominican Republic": 1,
+        "France": 4,
+        "Germany": 3,
+        "Ireland": 1,
+        "Japan": 3,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "Philippines": 3,
+        "Poland": 1,
+        "Puerto Rico": 1,
+        "Saudi Arabia": 1,
+        "Serbia": 2,
+        "Spain": 5,
+        "Sweden": 1,
+        "Ukraine": 2,
+        "United Kingdom": 5,
+        "United States": 52,
+        "Bermuda": 1,
+        "Chile": 1,
+        "Iran": 1,
+        "South Korea": 1,
+        "Turkey": 1,
+        "United Arab Emirates": 1,
+        "Albania": 1,
+        "Morocco": 2,
+        "Guyana": 1,
+        "Armenia": 1,
+        "Switzerland": 1,
+        "Norway": 1,
+        "Syria": 1,
+        "Hungary": 1,
+        "Ecuador": 2
+      }
     }
   ]
 }
