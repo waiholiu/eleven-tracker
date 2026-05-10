@@ -44067,6 +44067,46 @@
         "Kazakhstan": 1,
         "Saint Lucia": 1
       }
+    },
+    {
+      "timestamp": "2026-05-10 09:52:20 UTC",
+      "total": 173,
+      "countries": {
+        "Angola": 1,
+        "Argentina": 1,
+        "Australia": 5,
+        "Belgium": 5,
+        "China": 27,
+        "El Salvador": 1,
+        "France": 7,
+        "Germany": 10,
+        "Greece": 1,
+        "Ireland": 1,
+        "Israel": 1,
+        "Italy": 6,
+        "Japan": 8,
+        "Lebanon": 2,
+        "Netherlands": 5,
+        "Poland": 3,
+        "Spain": 11,
+        "Sweden": 3,
+        "Thailand": 2,
+        "Ukraine": 2,
+        "United Kingdom": 10,
+        "United States": 2,
+        "Hong Kong": 2,
+        "South Korea": 9,
+        "Taiwan": 2,
+        "Turkey": 1,
+        "Kuwait": 1,
+        "British Indian Ocean Territory": 1,
+        "New Zealand": 2,
+        "Malaysia": 1,
+        "Qatar": 1,
+        "Uruguay": 1,
+        "Ghana": 1,
+        "Antarctica": 2
+      }
     }
   ]
 }
