@@ -44807,6 +44807,31 @@
         "Guyana": 1,
         "Uzbekistan": 1
       }
+    },
+    {
+      "timestamp": "2026-05-11 06:37:02 UTC",
+      "total": 59,
+      "countries": {
+        "Australia": 1,
+        "Brazil": 1,
+        "Canada": 1,
+        "China": 4,
+        "Germany": 2,
+        "India": 1,
+        "Israel": 2,
+        "Japan": 6,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "United Kingdom": 1,
+        "United States": 14,
+        "Slovakia": 1,
+        "South Africa": 1,
+        "South Korea": 5,
+        "Taiwan": 2,
+        "Lithuania": 1,
+        "Kazakhstan": 1,
+        "Estonia": 1
+      }
     }
   ]
 }
