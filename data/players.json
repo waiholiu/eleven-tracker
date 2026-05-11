@@ -44868,6 +44868,50 @@
         "Finland": 1,
         "Saint Lucia": 1
       }
+    },
+    {
+      "timestamp": "2026-05-11 13:46:03 UTC",
+      "total": 208,
+      "countries": {
+        "Angola": 1,
+        "Australia": 6,
+        "Austria": 1,
+        "Canada": 1,
+        "China": 52,
+        "Egypt": 2,
+        "France": 13,
+        "Germany": 8,
+        "India": 1,
+        "Ireland": 1,
+        "Israel": 4,
+        "Italy": 3,
+        "Japan": 17,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "Nigeria": 1,
+        "Philippines": 3,
+        "Poland": 7,
+        "Russia": 4,
+        "Spain": 3,
+        "Sweden": 1,
+        "Ukraine": 5,
+        "United Kingdom": 5,
+        "United States": 4,
+        "Vietnam": 1,
+        "Hong Kong": 1,
+        "South Africa": 1,
+        "South Korea": 10,
+        "Taiwan": 3,
+        "Bangladesh": 1,
+        "New Zealand": 1,
+        "Bulgaria": 1,
+        "Switzerland": 1,
+        "Norway": 2,
+        "Finland": 2,
+        "\u00c5land Islands": 1,
+        "Hungary": 2,
+        "C\u00f4te d\u2019Ivoire": 1
+      }
     }
   ]
 }
