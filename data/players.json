@@ -44780,6 +44780,33 @@
         "Faroe Islands": 1,
         "Paraguay": 1
       }
+    },
+    {
+      "timestamp": "2026-05-11 02:50:17 UTC",
+      "total": 110,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 1,
+        "Belgium": 1,
+        "Brazil": 5,
+        "Canada": 7,
+        "China": 7,
+        "France": 1,
+        "India": 1,
+        "Ireland": 1,
+        "Japan": 3,
+        "Mexico": 2,
+        "Poland": 1,
+        "Puerto Rico": 1,
+        "Saudi Arabia": 1,
+        "Sweden": 1,
+        "United States": 41,
+        "Chile": 1,
+        "South Korea": 4,
+        "Iraq": 1,
+        "Guyana": 1,
+        "Uzbekistan": 1
+      }
     }
   ]
 }
