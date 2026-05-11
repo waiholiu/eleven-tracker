@@ -44832,6 +44832,42 @@
         "Kazakhstan": 1,
         "Estonia": 1
       }
+    },
+    {
+      "timestamp": "2026-05-11 10:35:57 UTC",
+      "total": 120,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 7,
+        "China": 24,
+        "France": 5,
+        "Germany": 7,
+        "India": 1,
+        "Italy": 2,
+        "Japan": 8,
+        "Netherlands": 1,
+        "Poland": 7,
+        "Portugal": 1,
+        "Russia": 3,
+        "Spain": 4,
+        "Ukraine": 2,
+        "United Kingdom": 2,
+        "United States": 1,
+        "Czech Republic": 1,
+        "Hong Kong": 1,
+        "Iran": 1,
+        "South Korea": 7,
+        "Taiwan": 1,
+        "Morocco": 1,
+        "Palestinian Territories": 1,
+        "Singapore": 1,
+        "New Zealand": 1,
+        "Bulgaria": 1,
+        "Switzerland": 2,
+        "Norway": 1,
+        "Finland": 1,
+        "Saint Lucia": 1
+      }
     }
   ]
 }
