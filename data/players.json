@@ -45587,6 +45587,44 @@
         "Suriname": 1,
         "Haiti": 1
       }
+    },
+    {
+      "timestamp": "2026-05-12 23:56:46 UTC",
+      "total": 141,
+      "countries": {
+        "Argentina": 3,
+        "Australia": 4,
+        "Austria": 1,
+        "Belgium": 1,
+        "Brazil": 6,
+        "Canada": 14,
+        "China": 4,
+        "Colombia": 1,
+        "Croatia": 1,
+        "Dominican Republic": 1,
+        "Germany": 3,
+        "India": 1,
+        "Indonesia": 1,
+        "Italy": 1,
+        "Japan": 2,
+        "Mexico": 1,
+        "Philippines": 1,
+        "Portugal": 1,
+        "Puerto Rico": 1,
+        "Saudi Arabia": 1,
+        "Serbia": 1,
+        "Spain": 1,
+        "United Kingdom": 2,
+        "United States": 54,
+        "Bahamas": 1,
+        "Chile": 1,
+        "South Korea": 1,
+        "Taiwan": 1,
+        "Anguilla": 1,
+        "Cuba": 1,
+        "Finland": 1,
+        "Uruguay": 1
+      }
     }
   ]
 }
