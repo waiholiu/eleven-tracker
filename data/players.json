@@ -45216,6 +45216,39 @@
         "Armenia": 1,
         "Cyprus": 1
       }
+    },
+    {
+      "timestamp": "2026-05-12 07:47:41 UTC",
+      "total": 91,
+      "countries": {
+        "Australia": 8,
+        "Canada": 2,
+        "China": 12,
+        "Denmark": 1,
+        "El Salvador": 1,
+        "France": 4,
+        "Germany": 2,
+        "India": 1,
+        "Indonesia": 1,
+        "Italy": 1,
+        "Japan": 6,
+        "Pakistan": 1,
+        "Philippines": 1,
+        "Poland": 1,
+        "Spain": 2,
+        "Thailand": 1,
+        "Ukraine": 1,
+        "United Kingdom": 3,
+        "United States": 11,
+        "Bahamas": 1,
+        "Czech Republic": 1,
+        "South Korea": 6,
+        "Morocco": 1,
+        "New Zealand": 1,
+        "Switzerland": 1,
+        "Finland": 1,
+        "Maldives": 1
+      }
     }
   ]
 }
