@@ -45544,6 +45544,49 @@
         "Bosnia and Herzegovina": 1,
         "Yemen": 1
       }
+    },
+    {
+      "timestamp": "2026-05-12 22:39:43 UTC",
+      "total": 157,
+      "countries": {
+        "Argentina": 6,
+        "Australia": 1,
+        "Brazil": 8,
+        "Canada": 10,
+        "China": 3,
+        "Colombia": 1,
+        "Dominican Republic": 1,
+        "France": 5,
+        "Germany": 5,
+        "India": 1,
+        "Italy": 2,
+        "Japan": 2,
+        "Mexico": 2,
+        "Netherlands": 1,
+        "Poland": 2,
+        "Portugal": 2,
+        "Puerto Rico": 1,
+        "Saudi Arabia": 1,
+        "Spain": 7,
+        "Sweden": 1,
+        "United Kingdom": 7,
+        "United States": 42,
+        "Belarus": 1,
+        "Iran": 1,
+        "South Korea": 1,
+        "Trinidad and Tobago": 1,
+        "Venezuela": 1,
+        "Cuba": 1,
+        "Peru": 1,
+        "Armenia": 1,
+        "Bulgaria": 1,
+        "Switzerland": 1,
+        "Kazakhstan": 1,
+        "Qatar": 1,
+        "\u00c5land Islands": 1,
+        "Suriname": 1,
+        "Haiti": 1
+      }
     }
   ]
 }
