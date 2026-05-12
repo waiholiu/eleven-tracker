@@ -45155,6 +45155,40 @@
         "Gibraltar": 1,
         "Azerbaijan": 1
       }
+    },
+    {
+      "timestamp": "2026-05-12 01:16:43 UTC",
+      "total": 181,
+      "countries": {
+        "American Samoa": 1,
+        "Argentina": 1,
+        "Australia": 3,
+        "Brazil": 8,
+        "Canada": 16,
+        "China": 10,
+        "Colombia": 2,
+        "El Salvador": 1,
+        "Germany": 1,
+        "India": 1,
+        "Indonesia": 1,
+        "Japan": 2,
+        "Mexico": 3,
+        "Philippines": 1,
+        "Poland": 1,
+        "Saudi Arabia": 1,
+        "Spain": 1,
+        "Ukraine": 2,
+        "United Kingdom": 1,
+        "United States": 65,
+        "Chile": 2,
+        "South Korea": 3,
+        "Taiwan": 1,
+        "Turkey": 1,
+        "Armenia": 1,
+        "Malaysia": 1,
+        "Georgia": 1,
+        "Ecuador": 1
+      }
     }
   ]
 }
