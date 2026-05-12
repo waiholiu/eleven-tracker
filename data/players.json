@@ -45189,6 +45189,33 @@
         "Georgia": 1,
         "Ecuador": 1
       }
+    },
+    {
+      "timestamp": "2026-05-12 04:59:02 UTC",
+      "total": 96,
+      "countries": {
+        "Australia": 3,
+        "Brazil": 2,
+        "Canada": 4,
+        "China": 10,
+        "Egypt": 1,
+        "Indonesia": 2,
+        "Ireland": 1,
+        "Japan": 1,
+        "Mexico": 1,
+        "Philippines": 1,
+        "Poland": 1,
+        "Russia": 1,
+        "Sweden": 1,
+        "United Kingdom": 1,
+        "United States": 36,
+        "South Korea": 3,
+        "Peru": 1,
+        "New Zealand": 1,
+        "U.S. Virgin Islands": 1,
+        "Armenia": 1,
+        "Cyprus": 1
+      }
     }
   ]
 }
