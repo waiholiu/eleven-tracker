@@ -45497,6 +45497,53 @@
         "Greenland": 1,
         "Pitcairn Islands": 1
       }
+    },
+    {
+      "timestamp": "2026-05-12 21:16:34 UTC",
+      "total": 171,
+      "countries": {
+        "Argentina": 2,
+        "Austria": 1,
+        "Belgium": 1,
+        "Brazil": 13,
+        "Canada": 8,
+        "China": 3,
+        "Croatia": 1,
+        "Egypt": 1,
+        "France": 12,
+        "Germany": 4,
+        "Greece": 1,
+        "India": 1,
+        "Ireland": 2,
+        "Israel": 3,
+        "Japan": 2,
+        "Netherlands": 1,
+        "Nigeria": 1,
+        "North Korea": 1,
+        "Poland": 5,
+        "Portugal": 1,
+        "Russia": 4,
+        "Spain": 7,
+        "United Kingdom": 14,
+        "United States": 24,
+        "Andorra": 1,
+        "Bahamas": 2,
+        "Belarus": 1,
+        "Chile": 1,
+        "Czech Republic": 1,
+        "Hong Kong": 1,
+        "Trinidad and Tobago": 1,
+        "Turkey": 3,
+        "Albania": 1,
+        "Anguilla": 1,
+        "Cuba": 2,
+        "Jamaica": 1,
+        "Uzbekistan": 1,
+        "Afghanistan": 1,
+        "Faroe Islands": 1,
+        "Bosnia and Herzegovina": 1,
+        "Yemen": 1
+      }
     }
   ]
 }
