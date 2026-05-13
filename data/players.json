@@ -45970,6 +45970,48 @@
         "Bosnia and Herzegovina": 1,
         "Saint Lucia": 1
       }
+    },
+    {
+      "timestamp": "2026-05-13 22:44:01 UTC",
+      "total": 141,
+      "countries": {
+        "Argentina": 2,
+        "Brazil": 5,
+        "Canada": 9,
+        "China": 5,
+        "Colombia": 1,
+        "Dominican Republic": 1,
+        "France": 3,
+        "Germany": 3,
+        "India": 2,
+        "Ireland": 1,
+        "Israel": 1,
+        "Japan": 1,
+        "Lebanon": 1,
+        "Mexico": 2,
+        "North Korea": 1,
+        "Puerto Rico": 1,
+        "Russia": 3,
+        "Saudi Arabia": 2,
+        "Spain": 1,
+        "Ukraine": 2,
+        "United Kingdom": 7,
+        "United States": 40,
+        "Bahamas": 1,
+        "Belarus": 1,
+        "Hong Kong": 1,
+        "Iran": 1,
+        "South Korea": 1,
+        "Trinidad and Tobago": 1,
+        "Turkey": 2,
+        "Bulgaria": 1,
+        "Norway": 1,
+        "Jordan": 1,
+        "Ecuador": 1,
+        "Faroe Islands": 1,
+        "Fiji": 1,
+        "Bosnia and Herzegovina": 1
+      }
     }
   ]
 }
