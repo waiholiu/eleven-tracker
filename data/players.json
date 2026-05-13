@@ -45711,6 +45711,46 @@
         "Kazakhstan": 1,
         "Bolivia": 1
       }
+    },
+    {
+      "timestamp": "2026-05-13 12:01:29 UTC",
+      "total": 162,
+      "countries": {
+        "Australia": 7,
+        "Austria": 1,
+        "Brazil": 2,
+        "China": 39,
+        "Denmark": 1,
+        "Egypt": 1,
+        "France": 17,
+        "Germany": 2,
+        "India": 2,
+        "Israel": 2,
+        "Italy": 5,
+        "Japan": 10,
+        "Poland": 3,
+        "Russia": 1,
+        "Saudi Arabia": 2,
+        "Spain": 7,
+        "Sweden": 2,
+        "Thailand": 1,
+        "Ukraine": 3,
+        "United Kingdom": 4,
+        "United States": 7,
+        "Czech Republic": 1,
+        "South Korea": 7,
+        "Taiwan": 2,
+        "United Arab Emirates": 1,
+        "Romania": 1,
+        "Tunisia": 1,
+        "Micronesia": 1,
+        "Bulgaria": 1,
+        "Switzerland": 1,
+        "Norway": 2,
+        "\u00c5land Islands": 2,
+        "Hungary": 1,
+        "Kyrgyzstan": 1
+      }
     }
   ]
 }
