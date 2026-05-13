@@ -45677,6 +45677,40 @@
         "New Zealand": 1,
         "Estonia": 1
       }
+    },
+    {
+      "timestamp": "2026-05-13 09:42:16 UTC",
+      "total": 103,
+      "countries": {
+        "Australia": 7,
+        "Belgium": 2,
+        "Canada": 2,
+        "China": 15,
+        "Denmark": 1,
+        "France": 6,
+        "Germany": 7,
+        "India": 1,
+        "Indonesia": 3,
+        "Israel": 1,
+        "Italy": 2,
+        "Japan": 8,
+        "Netherlands": 1,
+        "Philippines": 1,
+        "Poland": 3,
+        "Spain": 2,
+        "Sweden": 1,
+        "Thailand": 2,
+        "Ukraine": 2,
+        "United Kingdom": 4,
+        "Belarus": 1,
+        "Czech Republic": 1,
+        "Iran": 1,
+        "South Korea": 6,
+        "Taiwan": 2,
+        "Monaco": 1,
+        "Kazakhstan": 1,
+        "Bolivia": 1
+      }
     }
   ]
 }
