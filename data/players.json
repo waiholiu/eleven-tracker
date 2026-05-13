@@ -46012,6 +46012,40 @@
         "Fiji": 1,
         "Bosnia and Herzegovina": 1
       }
+    },
+    {
+      "timestamp": "2026-05-13 23:54:06 UTC",
+      "total": 154,
+      "countries": {
+        "Brazil": 3,
+        "Canada": 17,
+        "China": 4,
+        "Colombia": 2,
+        "El Salvador": 1,
+        "France": 2,
+        "Germany": 4,
+        "India": 2,
+        "Indonesia": 1,
+        "Italy": 1,
+        "Japan": 1,
+        "Mexico": 3,
+        "Portugal": 1,
+        "Puerto Rico": 2,
+        "Saudi Arabia": 2,
+        "Spain": 2,
+        "Sweden": 1,
+        "Ukraine": 1,
+        "United Kingdom": 4,
+        "United States": 63,
+        "Vietnam": 1,
+        "Iran": 1,
+        "South Korea": 2,
+        "Trinidad and Tobago": 1,
+        "Turkey": 1,
+        "Venezuela": 1,
+        "Norway": 1,
+        "Cocos Islands": 1
+      }
     }
   ]
 }
