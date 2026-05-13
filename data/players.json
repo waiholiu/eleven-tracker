@@ -45625,6 +45625,32 @@
         "Finland": 1,
         "Uruguay": 1
       }
+    },
+    {
+      "timestamp": "2026-05-13 03:33:00 UTC",
+      "total": 103,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 1,
+        "Brazil": 3,
+        "Canada": 6,
+        "China": 4,
+        "El Salvador": 1,
+        "Indonesia": 1,
+        "Japan": 2,
+        "Mexico": 1,
+        "Philippines": 3,
+        "United States": 39,
+        "Vietnam": 1,
+        "Chile": 2,
+        "Hong Kong": 2,
+        "South Korea": 3,
+        "Taiwan": 1,
+        "Turkey": 1,
+        "Peru": 1,
+        "Uzbekistan": 1,
+        "Yemen": 1
+      }
     }
   ]
 }
