@@ -46478,6 +46478,46 @@
         "Djibouti": 1,
         "Laos": 1
       }
+    },
+    {
+      "timestamp": "2026-05-14 23:54:47 UTC",
+      "total": 162,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 1,
+        "Austria": 1,
+        "Brazil": 6,
+        "Canada": 15,
+        "China": 8,
+        "Dominican Republic": 2,
+        "Germany": 1,
+        "India": 1,
+        "Italy": 1,
+        "Mexico": 2,
+        "Poland": 1,
+        "Puerto Rico": 1,
+        "Serbia": 1,
+        "Spain": 3,
+        "Sweden": 1,
+        "Ukraine": 1,
+        "United Kingdom": 8,
+        "United States": 69,
+        "Chile": 1,
+        "Iran": 1,
+        "South Africa": 1,
+        "South Korea": 2,
+        "Taiwan": 2,
+        "Turkey": 1,
+        "Iraq": 1,
+        "Barbados": 1,
+        "Cuba": 2,
+        "Switzerland": 1,
+        "Syria": 1,
+        "Montenegro": 1,
+        "Gibraltar": 1,
+        "Dominica": 1,
+        "Laos": 1
+      }
     }
   ]
 }
