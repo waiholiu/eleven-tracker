@@ -46439,6 +46439,45 @@
         "Hungary": 1,
         "Uruguay": 1
       }
+    },
+    {
+      "timestamp": "2026-05-14 22:35:34 UTC",
+      "total": 158,
+      "countries": {
+        "American Samoa": 1,
+        "Angola": 1,
+        "Argentina": 2,
+        "Australia": 3,
+        "Belgium": 1,
+        "Brazil": 11,
+        "Canada": 11,
+        "China": 3,
+        "Colombia": 1,
+        "Dominican Republic": 1,
+        "Egypt": 1,
+        "France": 7,
+        "Germany": 5,
+        "India": 1,
+        "Israel": 2,
+        "Italy": 3,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "Philippines": 1,
+        "Poland": 3,
+        "Portugal": 2,
+        "Puerto Rico": 1,
+        "Spain": 3,
+        "Sweden": 2,
+        "United Kingdom": 6,
+        "United States": 47,
+        "Bahamas": 2,
+        "Iran": 2,
+        "Trinidad and Tobago": 1,
+        "Albania": 1,
+        "Uruguay": 1,
+        "Djibouti": 1,
+        "Laos": 1
+      }
     }
   ]
 }
