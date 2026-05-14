@@ -46132,6 +46132,48 @@
         "Norway": 1,
         "Belize": 1
       }
+    },
+    {
+      "timestamp": "2026-05-14 11:24:56 UTC",
+      "total": 140,
+      "countries": {
+        "Australia": 9,
+        "Austria": 1,
+        "Belgium": 1,
+        "China": 19,
+        "Denmark": 1,
+        "France": 13,
+        "Germany": 5,
+        "Greece": 1,
+        "Guadeloupe": 1,
+        "India": 2,
+        "Israel": 1,
+        "Italy": 1,
+        "Japan": 16,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "Poland": 1,
+        "Portugal": 1,
+        "Russia": 1,
+        "Saudi Arabia": 1,
+        "Serbia": 1,
+        "Spain": 5,
+        "Sweden": 3,
+        "Thailand": 1,
+        "Ukraine": 2,
+        "United Kingdom": 7,
+        "United States": 1,
+        "Czech Republic": 1,
+        "South Korea": 7,
+        "Albania": 1,
+        "Palestinian Territories": 1,
+        "Bangladesh": 1,
+        "Romania": 1,
+        "Singapore": 2,
+        "Bulgaria": 2,
+        "Malaysia": 1,
+        "Tokelau": 1
+      }
     }
   ]
 }
