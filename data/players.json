@@ -46100,6 +46100,38 @@
         "Peru": 1,
         "Luxembourg": 1
       }
+    },
+    {
+      "timestamp": "2026-05-14 09:13:42 UTC",
+      "total": 102,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 3,
+        "Belgium": 1,
+        "China": 7,
+        "Denmark": 1,
+        "France": 14,
+        "Germany": 5,
+        "Indonesia": 1,
+        "Italy": 2,
+        "Japan": 11,
+        "Pakistan": 1,
+        "Poland": 1,
+        "Serbia": 1,
+        "Spain": 8,
+        "Sweden": 3,
+        "United States": 3,
+        "Hong Kong": 2,
+        "Slovakia": 1,
+        "South Korea": 6,
+        "Taiwan": 2,
+        "Turkey": 1,
+        "New Zealand": 1,
+        "Switzerland": 1,
+        "Monaco": 1,
+        "Norway": 1,
+        "Belize": 1
+      }
     }
   ]
 }
