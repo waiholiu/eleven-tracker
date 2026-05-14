@@ -46046,6 +46046,34 @@
         "Norway": 1,
         "Cocos Islands": 1
       }
+    },
+    {
+      "timestamp": "2026-05-14 02:49:56 UTC",
+      "total": 133,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 2,
+        "Brazil": 3,
+        "Canada": 16,
+        "China": 8,
+        "Colombia": 1,
+        "Germany": 1,
+        "India": 1,
+        "Indonesia": 2,
+        "Italy": 1,
+        "Japan": 4,
+        "Mexico": 2,
+        "Pakistan": 1,
+        "Puerto Rico": 1,
+        "Russia": 1,
+        "United Kingdom": 1,
+        "United States": 62,
+        "Czech Republic": 1,
+        "South Korea": 1,
+        "Cuba": 1,
+        "Ecuador": 1,
+        "Ghana": 1
+      }
     }
   ]
 }
