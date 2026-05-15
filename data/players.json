@@ -47004,6 +47004,44 @@
         "Mauritius": 1,
         "Togo": 1
       }
+    },
+    {
+      "timestamp": "2026-05-15 23:27:25 UTC",
+      "total": 136,
+      "countries": {
+        "Angola": 1,
+        "Argentina": 1,
+        "Australia": 2,
+        "Belgium": 1,
+        "Brazil": 10,
+        "Canada": 8,
+        "China": 6,
+        "France": 2,
+        "Germany": 1,
+        "Ireland": 1,
+        "Israel": 1,
+        "Italy": 2,
+        "Japan": 1,
+        "Mexico": 4,
+        "Poland": 1,
+        "Puerto Rico": 1,
+        "Russia": 2,
+        "Saudi Arabia": 2,
+        "Serbia": 2,
+        "Sweden": 1,
+        "United Kingdom": 8,
+        "United States": 43,
+        "Belarus": 1,
+        "Iran": 1,
+        "Taiwan": 2,
+        "Romania": 1,
+        "Bulgaria": 1,
+        "Switzerland": 1,
+        "Monaco": 1,
+        "Finland": 1,
+        "Christmas Island": 1,
+        "Paraguay": 1
+      }
     }
   ]
 }
