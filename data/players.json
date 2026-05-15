@@ -46546,6 +46546,37 @@
         "Singapore": 1,
         "Uruguay": 1
       }
+    },
+    {
+      "timestamp": "2026-05-15 06:31:45 UTC",
+      "total": 80,
+      "countries": {
+        "Australia": 9,
+        "Canada": 4,
+        "China": 7,
+        "Denmark": 1,
+        "France": 3,
+        "Germany": 1,
+        "Indonesia": 1,
+        "Israel": 1,
+        "Japan": 9,
+        "Mexico": 2,
+        "Puerto Rico": 1,
+        "Russia": 1,
+        "Spain": 1,
+        "Sweden": 1,
+        "Thailand": 1,
+        "United Kingdom": 3,
+        "United States": 14,
+        "Vietnam": 1,
+        "South Korea": 2,
+        "Taiwan": 1,
+        "Oman": 2,
+        "Peru": 1,
+        "Jordan": 1,
+        "Kenya": 1,
+        "Brunei": 1
+      }
     }
   ]
 }
