@@ -46518,6 +46518,34 @@
         "Dominica": 1,
         "Laos": 1
       }
+    },
+    {
+      "timestamp": "2026-05-15 02:50:46 UTC",
+      "total": 134,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 1,
+        "Brazil": 2,
+        "Canada": 17,
+        "China": 5,
+        "Dominican Republic": 1,
+        "India": 1,
+        "Indonesia": 1,
+        "Ireland": 1,
+        "Lebanon": 1,
+        "Philippines": 2,
+        "Russia": 1,
+        "Serbia": 2,
+        "United Kingdom": 1,
+        "United States": 56,
+        "Vietnam": 1,
+        "Iran": 1,
+        "Taiwan": 1,
+        "Morocco": 1,
+        "Cuba": 1,
+        "Singapore": 1,
+        "Uruguay": 1
+      }
     }
   ]
 }
