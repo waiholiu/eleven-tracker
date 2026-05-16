@@ -47179,6 +47179,49 @@
         "Somalia": 1,
         "Palau": 1
       }
+    },
+    {
+      "timestamp": "2026-05-16 10:44:29 UTC",
+      "total": 150,
+      "countries": {
+        "Argentina": 2,
+        "Australia": 7,
+        "Canada": 2,
+        "China": 24,
+        "Colombia": 1,
+        "Denmark": 1,
+        "Egypt": 1,
+        "France": 6,
+        "Germany": 11,
+        "India": 3,
+        "Israel": 2,
+        "Italy": 6,
+        "Japan": 12,
+        "Pakistan": 1,
+        "Poland": 1,
+        "Russia": 4,
+        "Serbia": 1,
+        "Spain": 6,
+        "Sweden": 1,
+        "Thailand": 2,
+        "Ukraine": 5,
+        "United Kingdom": 3,
+        "United States": 5,
+        "South Korea": 5,
+        "Turkey": 1,
+        "Iraq": 1,
+        "Morocco": 1,
+        "Palestinian Territories": 1,
+        "Anguilla": 1,
+        "Romania": 2,
+        "Tunisia": 1,
+        "New Zealand": 2,
+        "Latvia": 1,
+        "Norway": 2,
+        "\u00c5land Islands": 1,
+        "Hungary": 1,
+        "Ghana": 1
+      }
     }
   ]
 }
