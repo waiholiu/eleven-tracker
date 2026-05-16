@@ -47743,6 +47743,44 @@
         "Honduras": 1,
         "Djibouti": 1
       }
+    },
+    {
+      "timestamp": "2026-05-16 23:24:52 UTC",
+      "total": 150,
+      "countries": {
+        "Argentina": 5,
+        "Australia": 2,
+        "Belgium": 1,
+        "Brazil": 6,
+        "Canada": 7,
+        "China": 2,
+        "France": 5,
+        "Germany": 2,
+        "India": 2,
+        "Italy": 2,
+        "Japan": 1,
+        "Mexico": 1,
+        "Philippines": 1,
+        "Portugal": 2,
+        "Puerto Rico": 1,
+        "Spain": 3,
+        "Sweden": 1,
+        "Ukraine": 2,
+        "United Kingdom": 6,
+        "United States": 47,
+        "Belarus": 1,
+        "Bermuda": 1,
+        "Chile": 2,
+        "South Korea": 2,
+        "Taiwan": 1,
+        "Turkey": 2,
+        "Venezuela": 1,
+        "Iraq": 1,
+        "Bulgaria": 1,
+        "Honduras": 1,
+        "Ghana": 1,
+        "Bosnia and Herzegovina": 1
+      }
     }
   ]
 }
