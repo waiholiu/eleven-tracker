@@ -47073,6 +47073,31 @@
         "Nicaragua": 1,
         "Ecuador": 1
       }
+    },
+    {
+      "timestamp": "2026-05-16 04:49:35 UTC",
+      "total": 109,
+      "countries": {
+        "Australia": 4,
+        "Canada": 8,
+        "China": 15,
+        "Colombia": 1,
+        "Germany": 1,
+        "India": 1,
+        "Japan": 8,
+        "Mexico": 1,
+        "Philippines": 2,
+        "Poland": 1,
+        "Russia": 1,
+        "Sweden": 1,
+        "United Kingdom": 1,
+        "United States": 41,
+        "South Korea": 5,
+        "Trinidad and Tobago": 1,
+        "Palestinian Territories": 1,
+        "New Zealand": 1,
+        "Nicaragua": 1
+      }
     }
   ]
 }
