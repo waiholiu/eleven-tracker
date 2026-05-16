@@ -47135,6 +47135,50 @@
         "Jordan": 1,
         "Slovenia": 1
       }
+    },
+    {
+      "timestamp": "2026-05-16 09:09:44 UTC",
+      "total": 152,
+      "countries": {
+        "Angola": 1,
+        "Australia": 4,
+        "Belgium": 1,
+        "Brazil": 1,
+        "Canada": 2,
+        "China": 25,
+        "Colombia": 1,
+        "Egypt": 1,
+        "France": 7,
+        "Germany": 9,
+        "India": 1,
+        "Indonesia": 1,
+        "Israel": 3,
+        "Italy": 7,
+        "Japan": 7,
+        "Lebanon": 1,
+        "Philippines": 1,
+        "Poland": 2,
+        "Russia": 2,
+        "Spain": 4,
+        "Sweden": 2,
+        "Ukraine": 1,
+        "United Kingdom": 5,
+        "United States": 5,
+        "Czech Republic": 2,
+        "Hong Kong": 1,
+        "Slovakia": 2,
+        "South Korea": 6,
+        "Morocco": 1,
+        "Romania": 1,
+        "Singapore": 2,
+        "New Zealand": 1,
+        "Bulgaria": 1,
+        "Switzerland": 2,
+        "Latvia": 1,
+        "Finland": 1,
+        "Somalia": 1,
+        "Palau": 1
+      }
     }
   ]
 }
