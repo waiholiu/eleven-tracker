@@ -47098,6 +47098,43 @@
         "New Zealand": 1,
         "Nicaragua": 1
       }
+    },
+    {
+      "timestamp": "2026-05-16 07:12:00 UTC",
+      "total": 98,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 5,
+        "Canada": 1,
+        "China": 8,
+        "Egypt": 1,
+        "France": 3,
+        "Germany": 3,
+        "India": 1,
+        "Indonesia": 1,
+        "Italy": 2,
+        "Japan": 7,
+        "Nigeria": 1,
+        "Philippines": 1,
+        "Poland": 2,
+        "Russia": 2,
+        "Spain": 2,
+        "Ukraine": 1,
+        "United Kingdom": 5,
+        "United States": 11,
+        "Czech Republic": 1,
+        "Hong Kong": 1,
+        "Slovakia": 1,
+        "South Africa": 1,
+        "South Korea": 5,
+        "Taiwan": 1,
+        "Bulgaria": 1,
+        "Switzerland": 1,
+        "Cambodia": 1,
+        "Somalia": 1,
+        "Jordan": 1,
+        "Slovenia": 1
+      }
     }
   ]
 }
