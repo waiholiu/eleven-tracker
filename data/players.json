@@ -47781,6 +47781,45 @@
         "Ghana": 1,
         "Bosnia and Herzegovina": 1
       }
+    },
+    {
+      "timestamp": "2026-05-17 00:13:19 UTC",
+      "total": 132,
+      "countries": {
+        "Australia": 1,
+        "Bahrain": 1,
+        "Brazil": 6,
+        "Canada": 8,
+        "China": 3,
+        "Colombia": 2,
+        "Dominican Republic": 1,
+        "El Salvador": 1,
+        "France": 3,
+        "Germany": 1,
+        "Ireland": 1,
+        "Japan": 4,
+        "Netherlands": 1,
+        "Spain": 1,
+        "Sweden": 3,
+        "Ukraine": 1,
+        "United Kingdom": 4,
+        "United States": 41,
+        "Vietnam": 1,
+        "Belarus": 1,
+        "Chile": 1,
+        "Hong Kong": 1,
+        "South Africa": 1,
+        "South Korea": 2,
+        "Trinidad and Tobago": 1,
+        "Jamaica": 1,
+        "Peru": 1,
+        "Iceland": 1,
+        "Uzbekistan": 1,
+        "Georgia": 1,
+        "Hungary": 1,
+        "Uruguay": 2,
+        "Ghana": 1
+      }
     }
   ]
 }
