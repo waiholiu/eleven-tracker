@@ -48437,6 +48437,44 @@
         "Saint Lucia": 1,
         "Brunei": 1
       }
+    },
+    {
+      "timestamp": "2026-05-17 22:13:36 UTC",
+      "total": 157,
+      "countries": {
+        "Argentina": 1,
+        "Austria": 2,
+        "Belgium": 1,
+        "Brazil": 12,
+        "Canada": 10,
+        "China": 2,
+        "Dominican Republic": 1,
+        "France": 6,
+        "Germany": 3,
+        "Ireland": 1,
+        "Italy": 2,
+        "Japan": 1,
+        "Mexico": 5,
+        "Poland": 3,
+        "Portugal": 1,
+        "Saudi Arabia": 1,
+        "Spain": 5,
+        "Sweden": 2,
+        "United Kingdom": 7,
+        "United States": 40,
+        "Belarus": 2,
+        "Iran": 1,
+        "Turkey": 1,
+        "Venezuela": 1,
+        "Iceland": 1,
+        "U.S. Virgin Islands": 1,
+        "Antigua and Barbuda": 1,
+        "Jordan": 1,
+        "Nicaragua": 1,
+        "Honduras": 1,
+        "Bosnia and Herzegovina": 1,
+        "Saint Lucia": 1
+      }
     }
   ]
 }
