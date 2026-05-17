@@ -47820,6 +47820,37 @@
         "Uruguay": 2,
         "Ghana": 1
       }
+    },
+    {
+      "timestamp": "2026-05-17 04:37:52 UTC",
+      "total": 114,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 5,
+        "Brazil": 2,
+        "Canada": 5,
+        "China": 10,
+        "France": 1,
+        "Germany": 1,
+        "Indonesia": 1,
+        "Japan": 9,
+        "Mexico": 1,
+        "Philippines": 2,
+        "Puerto Rico": 1,
+        "Russia": 1,
+        "Serbia": 1,
+        "United Kingdom": 1,
+        "United States": 29,
+        "Czech Republic": 1,
+        "South Korea": 5,
+        "Taiwan": 1,
+        "Venezuela": 1,
+        "New Zealand": 1,
+        "Armenia": 1,
+        "Malaysia": 1,
+        "Monaco": 1,
+        "Kazakhstan": 1
+      }
     }
   ]
 }
