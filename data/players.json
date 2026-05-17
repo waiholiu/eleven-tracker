@@ -47851,6 +47851,38 @@
         "Monaco": 1,
         "Kazakhstan": 1
       }
+    },
+    {
+      "timestamp": "2026-05-17 07:31:58 UTC",
+      "total": 113,
+      "countries": {
+        "Australia": 5,
+        "Canada": 3,
+        "China": 20,
+        "El Salvador": 1,
+        "France": 5,
+        "Germany": 3,
+        "India": 1,
+        "Italy": 2,
+        "Japan": 9,
+        "Mexico": 1,
+        "Netherlands": 1,
+        "Pakistan": 1,
+        "Philippines": 1,
+        "Poland": 1,
+        "Russia": 2,
+        "Thailand": 1,
+        "United Kingdom": 1,
+        "United States": 15,
+        "Czech Republic": 2,
+        "Hong Kong": 1,
+        "South Korea": 9,
+        "Taiwan": 1,
+        "Turkey": 1,
+        "Lithuania": 2,
+        "Honduras": 1,
+        "Tokelau": 1
+      }
     }
   ]
 }
