@@ -47984,6 +47984,53 @@
         "Afghanistan": 1,
         "Mauritius": 1
       }
+    },
+    {
+      "timestamp": "2026-05-17 12:10:32 UTC",
+      "total": 204,
+      "countries": {
+        "Argentina": 1,
+        "Australia": 3,
+        "Austria": 3,
+        "Belgium": 2,
+        "China": 36,
+        "Egypt": 2,
+        "France": 14,
+        "Germany": 7,
+        "Guadeloupe": 1,
+        "India": 5,
+        "Indonesia": 1,
+        "Italy": 2,
+        "Japan": 20,
+        "Netherlands": 1,
+        "Pakistan": 2,
+        "Poland": 5,
+        "Russia": 3,
+        "Spain": 8,
+        "Sweden": 5,
+        "Thailand": 2,
+        "Ukraine": 1,
+        "United Kingdom": 10,
+        "United States": 3,
+        "Andorra": 1,
+        "Czech Republic": 1,
+        "Hong Kong": 1,
+        "South Korea": 7,
+        "Taiwan": 3,
+        "Turkey": 2,
+        "Venezuela": 1,
+        "Lithuania": 1,
+        "Romania": 4,
+        "Singapore": 2,
+        "U.S. Virgin Islands": 1,
+        "Armenia": 1,
+        "Bulgaria": 1,
+        "Malaysia": 1,
+        "Switzerland": 3,
+        "Kazakhstan": 1,
+        "Hungary": 1,
+        "Jordan": 1
+      }
     }
   ]
 }
